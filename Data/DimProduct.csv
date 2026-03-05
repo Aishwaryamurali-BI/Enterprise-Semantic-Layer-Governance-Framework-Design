@@ -1,0 +1,167 @@
+ProductKey,ProductName,Category,Subcategory,ListPrice,StandardCost,Color,Size,Weight,ProductStatus
+1,Mountain Bike Elite 1,Bikes,Mountain Bikes,867.53,375.21,Silver,S,10.2,Active
+2,Mountain Bike Pro 2,Bikes,Mountain Bikes,2394.33,860.84,Silver,M,7.7,Active
+3,Mountain Bike Trail 3,Bikes,Mountain Bikes,2315.36,1307.73,Blue,M,6.8,Active
+4,Mountain Bike Elite 4,Bikes,Mountain Bikes,2985.46,1050.73,White,XL,5.2,Active
+5,Mountain Bike Pro 5,Bikes,Mountain Bikes,1381.35,799.87,Black,XL,1.6,Active
+6,Mountain Bike Classic 6,Bikes,Mountain Bikes,2430.06,1438.93,Yellow,S,14.6,Discontinued
+7,Road Bike Trail 7,Bikes,Road Bikes,2290.51,1371.61,Green,L,8.7,Active
+8,Road Bike Sport 8,Bikes,Road Bikes,923.73,386.46,Black,M,13.0,Discontinued
+9,Road Bike Sport 9,Bikes,Road Bikes,1550.53,838.38,Silver,L,5.5,Active
+10,Road Bike Pro 10,Bikes,Road Bikes,2694.91,1495.85,Yellow,M,8.1,Active
+11,Road Bike Trail 11,Bikes,Road Bikes,1241.19,575.71,Silver,L,12.7,Active
+12,Road Bike Sport 12,Bikes,Road Bikes,1418.43,510.11,Blue,L,1.2,Active
+13,Touring Bike Classic 13,Bikes,Touring Bikes,2569.68,1204.38,Silver,L,2.3,Active
+14,Touring Bike Trail 14,Bikes,Touring Bikes,2816.94,1347.99,Blue,L,3.4,Active
+15,Touring Bike Pro 15,Bikes,Touring Bikes,2175.72,820.84,Green,S,2.5,Active
+16,Touring Bike Pro 16,Bikes,Touring Bikes,2938.61,1400.68,Blue,XL,9.0,Discontinued
+17,Touring Bike Pro 17,Bikes,Touring Bikes,2228.61,1429.26,White,S,10.3,Active
+18,Touring Bike Sport 18,Bikes,Touring Bikes,2875.22,1299.75,Blue,M,6.9,Active
+19,Touring Bike Trail 19,Bikes,Touring Bikes,3424.1,1981.15,Black,L,12.7,Active
+20,Touring Bike Trail 20,Bikes,Touring Bikes,1212.67,701.84,Green,,13.8,Active
+21,Brake Sport 21,Components,Brakes,21.52,13.53,Silver,S,3.8,Active
+22,Brake Pro 22,Components,Brakes,43.69,21.66,Green,,11.5,Active
+23,Brake Elite 23,Components,Brakes,236.02,149.65,Red,,13.1,Discontinued
+24,Brake Elite 24,Components,Brakes,338.06,212.53,White,L,6.1,Active
+25,Brake Pro 25,Components,Brakes,161.76,81.73,Silver,M,1.1,Active
+26,Brake Elite 26,Components,Brakes,212.08,88.87,Black,S,10.7,Active
+27,Brake Sport 27,Components,Brakes,91.7,57.0,Black,,3.7,Discontinued
+28,Brake Trail 28,Components,Brakes,86.77,33.81,Yellow,XL,3.8,Discontinued
+29,Brake Pro 29,Components,Brakes,285.51,116.24,White,XL,5.4,Discontinued
+30,Brake Pro 30,Components,Brakes,171.45,97.51,Black,XL,11.0,Active
+31,Brake Classic 31,Components,Brakes,98.3,40.01,Silver,XL,2.9,Discontinued
+32,Brake Classic 32,Components,Brakes,98.69,61.88,Green,,1.6,Active
+33,Chain Elite 33,Components,Chains,325.33,196.7,Blue,XL,7.3,Discontinued
+34,Chain Pro 34,Components,Chains,317.32,126.73,Blue,L,13.9,Discontinued
+35,Chain Trail 35,Components,Chains,110.56,61.8,White,XL,2.5,Active
+36,Chain Trail 36,Components,Chains,87.93,32.32,Black,L,1.0,Discontinued
+37,Chain Elite 37,Components,Chains,183.45,111.14,Black,,1.4,Active
+38,Chain Elite 38,Components,Chains,37.95,14.06,Blue,S,14.1,Active
+39,Derailleur Trail 39,Components,Derailleurs,222.49,105.85,Yellow,,4.9,Active
+40,Derailleur Elite 40,Components,Derailleurs,83.43,47.13,Red,XL,2.1,Active
+41,Derailleur Pro 41,Components,Derailleurs,168.17,105.73,Black,XL,9.4,Active
+42,Derailleur Sport 42,Components,Derailleurs,39.54,16.37,Silver,L,13.2,Active
+43,Derailleur Trail 43,Components,Derailleurs,138.79,55.14,White,L,9.3,Active
+44,Handlebar Elite 44,Components,Handlebars,327.14,124.67,Red,S,13.4,Active
+45,Handlebar Sport 45,Components,Handlebars,106.24,56.46,Silver,L,7.7,Active
+46,Handlebar Pro 46,Components,Handlebars,318.29,192.19,White,XL,12.5,Active
+47,Handlebar Sport 47,Components,Handlebars,16.19,9.41,Silver,XL,8.4,Discontinued
+48,Handlebar Elite 48,Components,Handlebars,202.9,77.82,Yellow,S,12.6,Active
+49,Handlebar Sport 49,Components,Handlebars,158.98,57.64,Green,S,13.5,Active
+50,Handlebar Sport 50,Components,Handlebars,243.49,133.94,Green,,13.3,Discontinued
+51,Handlebar Elite 51,Components,Handlebars,341.24,196.16,Green,M,14.6,Active
+52,Handlebar Sport 52,Components,Handlebars,310.27,110.9,Green,XL,12.1,Active
+53,Pedal Classic 53,Components,Pedals,68.33,38.29,Green,S,12.9,Active
+54,Pedal Sport 54,Components,Pedals,81.86,51.21,Red,M,3.5,Active
+55,Pedal Pro 55,Components,Pedals,148.49,64.38,Green,L,5.4,Discontinued
+56,Pedal Sport 56,Components,Pedals,242.64,146.34,Black,S,13.2,Active
+57,Pedal Sport 57,Components,Pedals,74.82,47.79,Black,S,9.0,Active
+58,Pedal Trail 58,Components,Pedals,259.06,115.05,Yellow,S,5.9,Active
+59,Pedal Pro 59,Components,Pedals,100.33,56.45,Yellow,,10.4,Active
+60,Pedal Sport 60,Components,Pedals,137.01,50.83,Yellow,L,10.0,Active
+61,Pedal Sport 61,Components,Pedals,256.12,112.72,White,XL,5.0,Active
+62,Wheel Classic 62,Components,Wheels,79.27,43.56,White,M,9.3,Active
+63,Wheel Sport 63,Components,Wheels,151.04,90.64,Red,M,6.6,Active
+64,Wheel Elite 64,Components,Wheels,170.77,82.42,Yellow,XL,11.9,Active
+65,Wheel Trail 65,Components,Wheels,235.71,102.57,Red,S,12.3,Active
+66,Wheel Elite 66,Components,Wheels,240.39,100.34,Silver,S,0.9,Discontinued
+67,Wheel Classic 67,Components,Wheels,219.78,127.59,Blue,,3.1,Discontinued
+68,Wheel Pro 68,Components,Wheels,180.62,76.44,Green,S,11.7,Active
+69,Jersey Classic 69,Clothing,Jerseys,98.45,55.01,Black,,,Active
+70,Jersey Elite 70,Clothing,Jerseys,110.92,42.86,Green,XL,,Active
+71,Jersey Trail 71,Clothing,Jerseys,114.5,70.7,Green,,,Discontinued
+72,Jersey Elite 72,Clothing,Jerseys,101.36,52.14,White,XL,,Discontinued
+73,Jersey Sport 73,Clothing,Jerseys,38.51,16.33,Green,,,Discontinued
+74,Jersey Pro 74,Clothing,Jerseys,78.94,34.13,White,L,,Active
+75,Jersey Trail 75,Clothing,Jerseys,39.89,17.79,Black,M,,Active
+76,Short Elite 76,Clothing,Shorts,52.13,20.64,Black,XL,,Discontinued
+77,Short Pro 77,Clothing,Shorts,46.4,22.73,Silver,XL,,Discontinued
+78,Short Pro 78,Clothing,Shorts,109.53,57.53,Green,,,Discontinued
+79,Short Sport 79,Clothing,Shorts,62.47,39.53,Green,XL,,Discontinued
+80,Short Trail 80,Clothing,Shorts,69.2,39.47,Silver,XL,,Active
+81,Short Classic 81,Clothing,Shorts,40.02,19.84,Red,XL,,Active
+82,Short Trail 82,Clothing,Shorts,102.46,64.13,Yellow,S,,Discontinued
+83,Short Pro 83,Clothing,Shorts,75.11,41.23,White,XL,,Active
+84,Glove Sport 84,Clothing,Gloves,29.99,12.84,Silver,XL,,Active
+85,Glove Sport 85,Clothing,Gloves,47.13,28.93,Green,XL,,Active
+86,Glove Trail 86,Clothing,Gloves,101.84,50.01,Black,L,,Active
+87,Glove Pro 87,Clothing,Gloves,81.52,47.64,Green,S,,Active
+88,Glove Elite 88,Clothing,Gloves,31.93,11.37,Silver,M,,Discontinued
+89,Glove Elite 89,Clothing,Gloves,83.64,43.43,Blue,L,,Active
+90,Glove Pro 90,Clothing,Gloves,28.46,15.15,Green,M,,Active
+91,Glove Sport 91,Clothing,Gloves,21.89,7.83,Yellow,XL,,Discontinued
+92,Glove Trail 92,Clothing,Gloves,113.56,46.5,White,M,,Active
+93,Glove Trail 93,Clothing,Gloves,86.69,38.18,Green,S,,Active
+94,Glove Sport 94,Clothing,Gloves,48.19,23.06,Black,,,Active
+95,Glove Classic 95,Clothing,Gloves,11.39,5.42,Black,XL,,Active
+96,Vest Trail 96,Clothing,Vests,87.8,42.2,White,L,,Discontinued
+97,Vest Trail 97,Clothing,Vests,61.14,36.54,Red,L,,Active
+98,Vest Classic 98,Clothing,Vests,101.38,38.12,Silver,XL,,Discontinued
+99,Vest Sport 99,Clothing,Vests,47.0,23.42,Silver,XL,,Active
+100,Vest Sport 100,Clothing,Vests,49.03,20.96,Yellow,L,,Active
+101,Vest Elite 101,Clothing,Vests,66.83,27.22,White,XL,,Discontinued
+102,Vest Classic 102,Clothing,Vests,71.07,30.0,White,XL,,Discontinued
+103,Vest Elite 103,Clothing,Vests,97.22,36.74,Blue,M,,Active
+104,Vest Trail 104,Clothing,Vests,83.04,38.26,Yellow,L,,Discontinued
+105,Vest Sport 105,Clothing,Vests,119.63,61.62,White,XL,,Active
+106,Vest Elite 106,Clothing,Vests,43.73,18.33,Red,S,,Active
+107,Vest Sport 107,Clothing,Vests,31.07,17.76,White,,,Active
+108,Cap Sport 108,Clothing,Caps,101.59,44.59,Silver,L,,Active
+109,Cap Pro 109,Clothing,Caps,87.88,34.1,Black,,,Active
+110,Cap Classic 110,Clothing,Caps,86.72,33.64,Black,S,,Active
+111,Cap Elite 111,Clothing,Caps,61.63,29.71,Black,L,,Discontinued
+112,Cap Classic 112,Clothing,Caps,22.55,8.33,Black,,,Active
+113,Cap Sport 113,Clothing,Caps,26.69,15.84,Black,M,,Active
+114,Bottle Elite 114,Accessories,Bottles,47.44,27.86,Green,,,Discontinued
+115,Bottle Trail 115,Accessories,Bottles,36.54,17.64,Blue,L,,Active
+116,Bottle Elite 116,Accessories,Bottles,47.67,27.27,White,M,,Active
+117,Bottle Elite 117,Accessories,Bottles,51.23,20.34,Yellow,S,,Active
+118,Bottle Trail 118,Accessories,Bottles,5.19,2.52,Blue,L,,Active
+119,Bottle Classic 119,Accessories,Bottles,21.2,11.92,Black,M,,Active
+120,Bottle Elite 120,Accessories,Bottles,60.15,32.33,Blue,S,,Active
+121,Bottle Elite 121,Accessories,Bottles,50.33,31.33,Black,S,,Active
+122,Bottle Trail 122,Accessories,Bottles,60.48,31.96,Red,XL,,Active
+123,Bottle Classic 123,Accessories,Bottles,37.81,16.68,Red,,,Discontinued
+124,Bottle Classic 124,Accessories,Bottles,35.64,18.87,White,L,,Active
+125,Helmet Trail 125,Accessories,Helmets,11.39,7.27,Yellow,S,,Active
+126,Helmet Elite 126,Accessories,Helmets,45.34,26.25,Blue,,,Discontinued
+127,Helmet Trail 127,Accessories,Helmets,69.13,27.96,Blue,XL,,Active
+128,Helmet Sport 128,Accessories,Helmets,37.9,17.91,White,S,,Active
+129,Helmet Sport 129,Accessories,Helmets,28.09,15.68,White,XL,,Active
+130,Light Pro 130,Accessories,Lights,11.16,4.75,Green,XL,,Active
+131,Light Classic 131,Accessories,Lights,51.04,26.17,Black,M,,Active
+132,Light Classic 132,Accessories,Lights,48.58,24.27,Green,S,,Active
+133,Light Sport 133,Accessories,Lights,23.69,9.22,Blue,XL,,Active
+134,Light Elite 134,Accessories,Lights,7.02,3.78,White,M,,Active
+135,Light Pro 135,Accessories,Lights,43.56,22.46,Silver,S,,Discontinued
+136,Light Elite 136,Accessories,Lights,71.29,38.8,Blue,L,,Active
+137,Light Classic 137,Accessories,Lights,34.08,16.86,Silver,XL,,Active
+138,Light Trail 138,Accessories,Lights,31.85,19.96,White,M,,Active
+139,Light Classic 139,Accessories,Lights,24.34,14.29,Red,,,Active
+140,Light Sport 140,Accessories,Lights,62.44,27.15,Green,,,Discontinued
+141,Light Classic 141,Accessories,Lights,65.57,31.73,Red,L,,Discontinued
+142,Lock Elite 142,Accessories,Locks,70.3,42.94,Yellow,XL,,Active
+143,Lock Sport 143,Accessories,Locks,64.92,30.72,White,XL,,Discontinued
+144,Lock Elite 144,Accessories,Locks,32.03,17.59,Blue,S,,Active
+145,Lock Pro 145,Accessories,Locks,40.16,21.17,Green,XL,,Active
+146,Lock Elite 146,Accessories,Locks,41.82,20.37,Blue,M,,Active
+147,Lock Sport 147,Accessories,Locks,37.86,24.26,Yellow,XL,,Active
+148,Lock Trail 148,Accessories,Locks,64.62,39.14,Blue,L,,Discontinued
+149,Lock Pro 149,Accessories,Locks,66.07,23.84,Silver,L,,Active
+150,Lock Pro 150,Accessories,Locks,57.27,27.5,Green,S,,Discontinued
+151,Lock Pro 151,Accessories,Locks,16.65,7.32,Black,L,,Active
+152,Lock Elite 152,Accessories,Locks,25.54,11.81,Silver,,,Discontinued
+153,Lock Elite 153,Accessories,Locks,44.61,26.22,Silver,S,,Discontinued
+154,Pump Elite 154,Accessories,Pumps,39.84,20.91,Blue,L,,Discontinued
+155,Pump Classic 155,Accessories,Pumps,22.87,8.07,Red,,,Active
+156,Pump Trail 156,Accessories,Pumps,10.17,6.44,Red,XL,,Active
+157,Pump Classic 157,Accessories,Pumps,36.98,16.29,Green,XL,,Active
+158,Pump Trail 158,Accessories,Pumps,21.6,11.27,Red,L,,Active
+159,Pump Sport 159,Accessories,Pumps,73.46,40.22,Black,,,Active
+160,Pump Sport 160,Accessories,Pumps,68.74,39.43,Green,M,,Active
+161,Pump Sport 161,Accessories,Pumps,20.33,8.28,White,M,,Active
+162,Tire Trail 162,Accessories,Tires,26.63,12.84,Red,M,,Active
+163,Tire Classic 163,Accessories,Tires,68.67,30.77,Silver,M,,Active
+164,Tire Sport 164,Accessories,Tires,60.06,36.81,Yellow,,,Active
+165,Tire Classic 165,Accessories,Tires,63.13,26.96,Green,L,,Active
+166,Tire Pro 166,Accessories,Tires,61.3,30.07,Silver,M,,Discontinued

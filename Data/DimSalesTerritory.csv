@@ -1,0 +1,9 @@
+TerritoryKey,TerritoryName,Region,Country,SalesGroup
+1,West North,West,United States,North
+2,West South,West,United States,South
+3,East North,East,United States,North
+4,East South,East,United States,South
+5,Central North,Central,United States,North
+6,Central South,Central,United States,South
+7,Northwest North,Northwest,United States,North
+8,Northwest South,Northwest,United States,South

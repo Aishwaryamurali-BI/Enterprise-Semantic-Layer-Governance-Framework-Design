@@ -1,0 +1,2001 @@
+CustomerKey,FirstName,LastName,Email,City,State,Region,Country,CustomerSegment,AccountOpenDate
+1,Betty,Gonzalez,customer1@example.com,Dallas,TX,Central,United States,Individual,2021-01-03
+2,Barbara,Perez,customer2@example.com,San Diego,CA,West,United States,Corporate,2019-06-21
+3,Barbara,Brown,customer3@example.com,Helena,MT,Northwest,United States,Corporate,2020-08-23
+4,Sandra,Martin,customer4@example.com,Phoenix,AZ,West,United States,Individual,2018-05-10
+5,Elizabeth,Lee,customer5@example.com,Helena,MT,Northwest,United States,Individual,2018-10-14
+6,Elizabeth,Thomas,customer6@example.com,Los Angeles,CA,West,United States,Individual,2019-04-26
+7,Joseph,Lopez,customer7@example.com,Washington,DC,East,United States,Corporate,2022-03-02
+8,Nancy,White,customer8@example.com,Anchorage,AK,Northwest,United States,Individual,2020-04-29
+9,Karen,Wilson,customer9@example.com,San Diego,CA,West,United States,Reseller,2019-07-27
+10,Michael,Anderson,customer10@example.com,Phoenix,AZ,West,United States,Individual,2019-04-29
+11,Lisa,Lopez,customer11@example.com,Dallas,TX,Central,United States,Corporate,2021-08-13
+12,Richard,Rodriguez,customer12@example.com,Chicago,IL,Central,United States,Individual,2018-09-08
+13,Lisa,Miller,customer13@example.com,Boise,ID,Northwest,United States,Corporate,2021-05-07
+14,Betty,Hernandez,customer14@example.com,Los Angeles,CA,West,United States,Individual,2018-09-15
+15,Mark,Harris,customer15@example.com,Boston,MA,East,United States,Corporate,2021-04-15
+16,William,Harris,customer16@example.com,Miami,FL,East,United States,Individual,2021-05-05
+17,Margaret,Jones,customer17@example.com,Denver,CO,West,United States,Reseller,2021-01-11
+18,Patricia,Perez,customer18@example.com,Houston,TX,Central,United States,Reseller,2018-09-27
+19,Betty,Sanchez,customer19@example.com,Phoenix,AZ,West,United States,Individual,2019-10-26
+20,David,Johnson,customer20@example.com,Seattle,WA,West,United States,Individual,2020-05-12
+21,Jessica,Anderson,customer21@example.com,San Francisco,CA,West,United States,Corporate,2020-11-17
+22,Thomas,Davis,customer22@example.com,San Diego,CA,West,United States,Reseller,2018-03-30
+23,Daniel,Smith,customer23@example.com,Nashville,TN,Central,United States,Individual,2020-09-07
+24,Lisa,Brown,customer24@example.com,Eugene,OR,Northwest,United States,Individual,2020-06-27
+25,William,Martin,customer25@example.com,San Francisco,CA,West,United States,Individual,2018-09-16
+26,Richard,Martin,customer26@example.com,St. Louis,MO,Central,United States,Corporate,2020-07-18
+27,Betty,Thompson,customer27@example.com,Boise,ID,Northwest,United States,Individual,2021-09-02
+28,Joseph,Lewis,customer28@example.com,Washington,DC,East,United States,Individual,2019-11-26
+29,Susan,White,customer29@example.com,Eugene,OR,Northwest,United States,Individual,2020-05-24
+30,Barbara,Jones,customer30@example.com,Detroit,MI,Central,United States,Corporate,2020-08-29
+31,Mark,Williams,customer31@example.com,San Francisco,CA,West,United States,Individual,2018-07-17
+32,Sarah,Johnson,customer32@example.com,Houston,TX,Central,United States,Corporate,2021-02-24
+33,Susan,Lopez,customer33@example.com,Dallas,TX,Central,United States,Reseller,2022-03-17
+34,Mary,Martinez,customer34@example.com,Helena,MT,Northwest,United States,Corporate,2019-12-22
+35,Robert,Perez,customer35@example.com,Portland,OR,West,United States,Individual,2022-10-02
+36,Margaret,Moore,customer36@example.com,Phoenix,AZ,West,United States,Individual,2022-04-11
+37,Betty,Wilson,customer37@example.com,Minneapolis,MN,Central,United States,Reseller,2022-04-21
+38,James,Garcia,customer38@example.com,Denver,CO,West,United States,Individual,2022-04-11
+39,Barbara,Smith,customer39@example.com,St. Louis,MO,Central,United States,Individual,2018-10-21
+40,Robert,White,customer40@example.com,Boise,ID,Northwest,United States,Corporate,2018-03-04
+41,Richard,Wilson,customer41@example.com,Portland,OR,West,United States,Individual,2018-11-19
+42,Nancy,Hernandez,customer42@example.com,Detroit,MI,Central,United States,Corporate,2021-03-08
+43,Robert,Garcia,customer43@example.com,Los Angeles,CA,West,United States,Corporate,2018-04-12
+44,Joseph,Perez,customer44@example.com,Denver,CO,West,United States,Individual,2021-05-28
+45,David,Miller,customer45@example.com,Eugene,OR,Northwest,United States,Corporate,2018-08-22
+46,Patricia,Martinez,customer46@example.com,Kansas City,MO,Central,United States,Corporate,2021-04-29
+47,Lisa,Martinez,customer47@example.com,Anchorage,AK,Northwest,United States,Individual,2020-03-20
+48,Michael,Martinez,customer48@example.com,Los Angeles,CA,West,United States,Reseller,2022-04-21
+49,Elizabeth,Hernandez,customer49@example.com,Atlanta,GA,East,United States,Individual,2020-10-15
+50,Robert,Gonzalez,customer50@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2019-04-17
+51,Richard,Ramirez,customer51@example.com,Dallas,TX,Central,United States,Corporate,2020-06-12
+52,Sandra,Williams,customer52@example.com,San Diego,CA,West,United States,Reseller,2021-03-25
+53,Richard,Thompson,customer53@example.com,Anchorage,AK,Northwest,United States,Corporate,2019-08-16
+54,James,Hernandez,customer54@example.com,Las Vegas,NV,West,United States,Individual,2021-06-19
+55,Sandra,Lopez,customer55@example.com,Helena,MT,Northwest,United States,Individual,2022-09-26
+56,Susan,Jackson,customer56@example.com,Portland,OR,West,United States,Individual,2018-06-11
+57,Nancy,Hernandez,customer57@example.com,Spokane,WA,Northwest,United States,Individual,2022-05-15
+58,Thomas,Lee,customer58@example.com,Boston,MA,East,United States,Individual,2020-11-10
+59,Barbara,White,customer59@example.com,Charlotte,NC,East,United States,Reseller,2021-08-14
+60,Patricia,Jones,customer60@example.com,Miami,FL,East,United States,Individual,2018-12-22
+61,Jennifer,Harris,customer61@example.com,Boston,MA,East,United States,Corporate,2020-08-08
+62,Sandra,Lewis,customer62@example.com,Helena,MT,Northwest,United States,Corporate,2021-07-25
+63,Robert,Anderson,customer63@example.com,St. Louis,MO,Central,United States,Individual,2020-06-24
+64,Christopher,Johnson,customer64@example.com,Detroit,MI,Central,United States,Individual,2018-06-01
+65,Joseph,Johnson,customer65@example.com,Nashville,TN,Central,United States,Individual,2022-08-31
+66,Daniel,Ramirez,customer66@example.com,Dallas,TX,Central,United States,Reseller,2018-07-04
+67,Christopher,Moore,customer67@example.com,Eugene,OR,Northwest,United States,Reseller,2022-02-22
+68,Sandra,Sanchez,customer68@example.com,San Diego,CA,West,United States,Corporate,2019-01-21
+69,Thomas,Jones,customer69@example.com,Nashville,TN,Central,United States,Reseller,2020-07-11
+70,Matthew,Williams,customer70@example.com,Phoenix,AZ,West,United States,Corporate,2018-12-20
+71,Matthew,Anderson,customer71@example.com,Portland,OR,West,United States,Reseller,2020-12-09
+72,Barbara,Robinson,customer72@example.com,Charlotte,NC,East,United States,Individual,2020-04-17
+73,Betty,Lee,customer73@example.com,Chicago,IL,Central,United States,Corporate,2018-05-15
+74,Sarah,Perez,customer74@example.com,Dallas,TX,Central,United States,Individual,2019-06-01
+75,John,Jackson,customer75@example.com,Charlotte,NC,East,United States,Corporate,2019-12-18
+76,Robert,Martin,customer76@example.com,Kansas City,MO,Central,United States,Corporate,2018-06-23
+77,Daniel,Sanchez,customer77@example.com,Kansas City,MO,Central,United States,Individual,2018-09-19
+78,Thomas,Lopez,customer78@example.com,Las Vegas,NV,West,United States,Individual,2019-09-25
+79,William,Harris,customer79@example.com,Miami,FL,East,United States,Individual,2019-04-09
+80,John,Martinez,customer80@example.com,Philadelphia,PA,East,United States,Reseller,2018-07-27
+81,Donald,Harris,customer81@example.com,Phoenix,AZ,West,United States,Corporate,2021-05-08
+82,Jennifer,Garcia,customer82@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-04-29
+83,Mary,Wilson,customer83@example.com,Baltimore,MD,East,United States,Individual,2022-01-13
+84,Karen,Martinez,customer84@example.com,Baltimore,MD,East,United States,Corporate,2022-05-25
+85,Sarah,Davis,customer85@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-07-15
+86,Barbara,Perez,customer86@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2020-06-21
+87,Anthony,Gonzalez,customer87@example.com,Spokane,WA,Northwest,United States,Corporate,2020-05-07
+88,Betty,Martin,customer88@example.com,Miami,FL,East,United States,Individual,2019-05-28
+89,Margaret,Lopez,customer89@example.com,San Diego,CA,West,United States,Corporate,2018-07-30
+90,John,Harris,customer90@example.com,Denver,CO,West,United States,Individual,2020-07-09
+91,John,Robinson,customer91@example.com,Washington,DC,East,United States,Individual,2020-07-12
+92,Susan,Johnson,customer92@example.com,Chicago,IL,Central,United States,Individual,2020-02-05
+93,John,Lopez,customer93@example.com,Washington,DC,East,United States,Individual,2019-10-15
+94,Betty,Jones,customer94@example.com,Phoenix,AZ,West,United States,Individual,2019-08-11
+95,Mark,Jones,customer95@example.com,Helena,MT,Northwest,United States,Corporate,2020-08-18
+96,James,Lewis,customer96@example.com,Anchorage,AK,Northwest,United States,Individual,2019-06-09
+97,Sarah,White,customer97@example.com,Philadelphia,PA,East,United States,Corporate,2020-05-16
+98,Linda,Martinez,customer98@example.com,Denver,CO,West,United States,Individual,2019-05-04
+99,Betty,Martin,customer99@example.com,Helena,MT,Northwest,United States,Individual,2018-08-16
+100,Sarah,Smith,customer100@example.com,Anchorage,AK,Northwest,United States,Corporate,2021-03-23
+101,Elizabeth,Wilson,customer101@example.com,Philadelphia,PA,East,United States,Individual,2019-12-24
+102,Jennifer,Perez,customer102@example.com,Washington,DC,East,United States,Corporate,2020-12-08
+103,Thomas,Moore,customer103@example.com,Dallas,TX,Central,United States,Corporate,2020-11-05
+104,Margaret,Thomas,customer104@example.com,Las Vegas,NV,West,United States,Individual,2020-03-03
+105,Nancy,Smith,customer105@example.com,Detroit,MI,Central,United States,Individual,2018-05-19
+106,Nancy,Perez,customer106@example.com,Minneapolis,MN,Central,United States,Corporate,2022-04-30
+107,Mary,Lopez,customer107@example.com,Houston,TX,Central,United States,Corporate,2022-07-25
+108,Matthew,Thomas,customer108@example.com,Baltimore,MD,East,United States,Corporate,2022-07-20
+109,Matthew,Harris,customer109@example.com,Boston,MA,East,United States,Reseller,2018-03-17
+110,Mary,Sanchez,customer110@example.com,Minneapolis,MN,Central,United States,Individual,2018-03-27
+111,Thomas,Gonzalez,customer111@example.com,Detroit,MI,Central,United States,Reseller,2021-01-17
+112,Mary,Harris,customer112@example.com,Spokane,WA,Northwest,United States,Corporate,2019-08-09
+113,Margaret,Lee,customer113@example.com,Chicago,IL,Central,United States,Individual,2018-09-12
+114,Donald,Gonzalez,customer114@example.com,Kansas City,MO,Central,United States,Corporate,2020-03-02
+115,Jessica,Thompson,customer115@example.com,Houston,TX,Central,United States,Individual,2022-06-21
+116,Nancy,Wilson,customer116@example.com,Dallas,TX,Central,United States,Individual,2021-05-18
+117,William,Brown,customer117@example.com,Atlanta,GA,East,United States,Individual,2021-09-15
+118,Joseph,Martin,customer118@example.com,Detroit,MI,Central,United States,Corporate,2018-12-08
+119,Joseph,Johnson,customer119@example.com,Spokane,WA,Northwest,United States,Corporate,2019-12-24
+120,Daniel,Sanchez,customer120@example.com,Spokane,WA,Northwest,United States,Reseller,2018-06-03
+121,Thomas,Sanchez,customer121@example.com,Spokane,WA,Northwest,United States,Corporate,2018-11-24
+122,Margaret,Martin,customer122@example.com,Seattle,WA,West,United States,Corporate,2020-06-16
+123,John,Davis,customer123@example.com,Seattle,WA,West,United States,Corporate,2020-01-21
+124,Christopher,Johnson,customer124@example.com,Kansas City,MO,Central,United States,Corporate,2021-10-22
+125,Barbara,Anderson,customer125@example.com,Spokane,WA,Northwest,United States,Corporate,2021-03-21
+126,Richard,Hernandez,customer126@example.com,Charlotte,NC,East,United States,Corporate,2019-05-27
+127,Nancy,Garcia,customer127@example.com,Los Angeles,CA,West,United States,Individual,2020-03-03
+128,Anthony,Rodriguez,customer128@example.com,Denver,CO,West,United States,Corporate,2019-03-16
+129,Michael,Brown,customer129@example.com,Nashville,TN,Central,United States,Individual,2018-06-01
+130,Donald,Thompson,customer130@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-06-29
+131,Matthew,Williams,customer131@example.com,St. Louis,MO,Central,United States,Corporate,2019-08-18
+132,Matthew,Thompson,customer132@example.com,Houston,TX,Central,United States,Reseller,2021-07-30
+133,Thomas,Davis,customer133@example.com,Charlotte,NC,East,United States,Individual,2019-02-16
+134,Betty,Thomas,customer134@example.com,Miami,FL,East,United States,Individual,2021-02-08
+135,Betty,Moore,customer135@example.com,Nashville,TN,Central,United States,Individual,2018-06-26
+136,Richard,Thompson,customer136@example.com,Denver,CO,West,United States,Corporate,2020-12-12
+137,Mark,Jackson,customer137@example.com,Eugene,OR,Northwest,United States,Individual,2019-10-12
+138,Joseph,Perez,customer138@example.com,San Diego,CA,West,United States,Corporate,2018-09-20
+139,Susan,Taylor,customer139@example.com,Philadelphia,PA,East,United States,Reseller,2018-04-24
+140,Elizabeth,Garcia,customer140@example.com,Seattle,WA,West,United States,Individual,2021-12-23
+141,Thomas,Lewis,customer141@example.com,Charlotte,NC,East,United States,Individual,2018-06-11
+142,Daniel,Moore,customer142@example.com,Minneapolis,MN,Central,United States,Individual,2021-07-04
+143,Thomas,Lee,customer143@example.com,Dallas,TX,Central,United States,Individual,2021-04-04
+144,Lisa,Martin,customer144@example.com,Philadelphia,PA,East,United States,Corporate,2021-05-24
+145,Mark,Ramirez,customer145@example.com,Chicago,IL,Central,United States,Individual,2018-04-04
+146,Anthony,Jackson,customer146@example.com,Minneapolis,MN,Central,United States,Individual,2021-08-01
+147,Donald,Lee,customer147@example.com,San Diego,CA,West,United States,Corporate,2021-08-07
+148,Linda,Sanchez,customer148@example.com,Nashville,TN,Central,United States,Reseller,2020-04-11
+149,John,Thompson,customer149@example.com,Nashville,TN,Central,United States,Individual,2020-06-19
+150,Joseph,Miller,customer150@example.com,Eugene,OR,Northwest,United States,Individual,2018-10-22
+151,Nancy,Ramirez,customer151@example.com,St. Louis,MO,Central,United States,Individual,2020-03-27
+152,Thomas,Moore,customer152@example.com,Charlotte,NC,East,United States,Individual,2019-05-11
+153,David,Anderson,customer153@example.com,Boise,ID,Northwest,United States,Individual,2018-07-18
+154,Richard,Ramirez,customer154@example.com,Denver,CO,West,United States,Corporate,2019-05-24
+155,Sandra,Jackson,customer155@example.com,Charlotte,NC,East,United States,Corporate,2019-01-24
+156,Thomas,Anderson,customer156@example.com,Baltimore,MD,East,United States,Individual,2019-09-24
+157,John,Gonzalez,customer157@example.com,Boise,ID,Northwest,United States,Corporate,2019-05-09
+158,Mary,Johnson,customer158@example.com,Charlotte,NC,East,United States,Individual,2021-05-08
+159,Sarah,Smith,customer159@example.com,Spokane,WA,Northwest,United States,Reseller,2020-06-01
+160,Nancy,Lopez,customer160@example.com,Atlanta,GA,East,United States,Corporate,2020-01-20
+161,Mary,Jackson,customer161@example.com,Las Vegas,NV,West,United States,Corporate,2020-01-13
+162,Richard,Taylor,customer162@example.com,Dallas,TX,Central,United States,Individual,2021-01-31
+163,Robert,Brown,customer163@example.com,Dallas,TX,Central,United States,Individual,2022-06-16
+164,Anthony,Jones,customer164@example.com,St. Louis,MO,Central,United States,Individual,2020-11-08
+165,Mary,Johnson,customer165@example.com,Anchorage,AK,Northwest,United States,Individual,2022-01-01
+166,Thomas,Anderson,customer166@example.com,Nashville,TN,Central,United States,Individual,2020-11-21
+167,Sandra,Martin,customer167@example.com,Charlotte,NC,East,United States,Individual,2020-03-15
+168,Thomas,Clark,customer168@example.com,St. Louis,MO,Central,United States,Corporate,2020-09-30
+169,Mark,Smith,customer169@example.com,Nashville,TN,Central,United States,Individual,2021-10-11
+170,Christopher,Martinez,customer170@example.com,Las Vegas,NV,West,United States,Corporate,2022-01-25
+171,David,Lee,customer171@example.com,San Diego,CA,West,United States,Corporate,2022-05-09
+172,Christopher,Thomas,customer172@example.com,New York,NY,East,United States,Individual,2021-07-12
+173,Mark,Perez,customer173@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-03-18
+174,James,Anderson,customer174@example.com,Portland,OR,West,United States,Individual,2018-11-07
+175,Michael,Wilson,customer175@example.com,Helena,MT,Northwest,United States,Corporate,2021-06-06
+176,Nancy,Johnson,customer176@example.com,Helena,MT,Northwest,United States,Corporate,2020-11-28
+177,Lisa,Thomas,customer177@example.com,Charlotte,NC,East,United States,Corporate,2019-10-05
+178,Sandra,Moore,customer178@example.com,Baltimore,MD,East,United States,Individual,2019-12-27
+179,Michael,Davis,customer179@example.com,Nashville,TN,Central,United States,Individual,2019-09-04
+180,Anthony,Martinez,customer180@example.com,Atlanta,GA,East,United States,Corporate,2021-11-14
+181,Jessica,Lopez,customer181@example.com,Spokane,WA,Northwest,United States,Corporate,2022-06-17
+182,Patricia,Jackson,customer182@example.com,Detroit,MI,Central,United States,Corporate,2020-02-17
+183,Anthony,Sanchez,customer183@example.com,Spokane,WA,Northwest,United States,Individual,2018-03-28
+184,Barbara,Robinson,customer184@example.com,Dallas,TX,Central,United States,Individual,2019-06-10
+185,Michael,Clark,customer185@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-02-25
+186,Patricia,Martin,customer186@example.com,Houston,TX,Central,United States,Corporate,2019-05-06
+187,Lisa,Lewis,customer187@example.com,New York,NY,East,United States,Corporate,2021-07-30
+188,Patricia,Wilson,customer188@example.com,New York,NY,East,United States,Individual,2020-08-25
+189,James,Moore,customer189@example.com,Seattle,WA,West,United States,Reseller,2018-11-20
+190,Sandra,Lewis,customer190@example.com,Helena,MT,Northwest,United States,Reseller,2020-09-04
+191,William,Martinez,customer191@example.com,Atlanta,GA,East,United States,Corporate,2022-04-24
+192,Sarah,White,customer192@example.com,Portland,OR,West,United States,Corporate,2018-03-18
+193,Donald,Clark,customer193@example.com,Washington,DC,East,United States,Individual,2018-03-16
+194,Jennifer,Robinson,customer194@example.com,Eugene,OR,Northwest,United States,Corporate,2022-11-22
+195,James,Martinez,customer195@example.com,Chicago,IL,Central,United States,Corporate,2018-08-08
+196,Joseph,Lee,customer196@example.com,Detroit,MI,Central,United States,Corporate,2020-10-08
+197,David,Miller,customer197@example.com,Baltimore,MD,East,United States,Reseller,2019-11-09
+198,Daniel,Rodriguez,customer198@example.com,Baltimore,MD,East,United States,Corporate,2018-01-29
+199,Christopher,Perez,customer199@example.com,Detroit,MI,Central,United States,Corporate,2018-12-26
+200,Thomas,Hernandez,customer200@example.com,Eugene,OR,Northwest,United States,Individual,2021-10-02
+201,Robert,Thomas,customer201@example.com,Seattle,WA,West,United States,Individual,2019-05-24
+202,Richard,Davis,customer202@example.com,Denver,CO,West,United States,Individual,2019-07-01
+203,Christopher,White,customer203@example.com,Detroit,MI,Central,United States,Corporate,2019-06-20
+204,Mary,Perez,customer204@example.com,Minneapolis,MN,Central,United States,Individual,2019-09-21
+205,Lisa,Taylor,customer205@example.com,Washington,DC,East,United States,Reseller,2021-12-11
+206,Daniel,Robinson,customer206@example.com,Dallas,TX,Central,United States,Reseller,2020-01-23
+207,Robert,Thomas,customer207@example.com,Miami,FL,East,United States,Individual,2022-03-12
+208,Matthew,Moore,customer208@example.com,Kansas City,MO,Central,United States,Reseller,2022-04-01
+209,Lisa,Harris,customer209@example.com,Miami,FL,East,United States,Corporate,2022-06-01
+210,Thomas,Thompson,customer210@example.com,San Diego,CA,West,United States,Individual,2021-03-01
+211,Mark,Moore,customer211@example.com,Los Angeles,CA,West,United States,Reseller,2019-02-19
+212,William,Ramirez,customer212@example.com,Philadelphia,PA,East,United States,Corporate,2018-08-27
+213,John,Lewis,customer213@example.com,Baltimore,MD,East,United States,Corporate,2022-07-15
+214,Robert,Taylor,customer214@example.com,San Diego,CA,West,United States,Individual,2021-02-28
+215,Lisa,Sanchez,customer215@example.com,San Diego,CA,West,United States,Individual,2018-02-14
+216,Mark,Smith,customer216@example.com,Spokane,WA,Northwest,United States,Corporate,2021-03-30
+217,Susan,Lopez,customer217@example.com,Los Angeles,CA,West,United States,Corporate,2021-01-13
+218,Sandra,Thomas,customer218@example.com,San Francisco,CA,West,United States,Individual,2020-04-17
+219,Anthony,Lee,customer219@example.com,Philadelphia,PA,East,United States,Reseller,2021-08-15
+220,Donald,Gonzalez,customer220@example.com,Spokane,WA,Northwest,United States,Individual,2020-02-13
+221,Lisa,Perez,customer221@example.com,Boise,ID,Northwest,United States,Reseller,2018-09-30
+222,Jennifer,Moore,customer222@example.com,Dallas,TX,Central,United States,Individual,2018-09-18
+223,Anthony,Smith,customer223@example.com,New York,NY,East,United States,Reseller,2020-08-06
+224,Richard,Clark,customer224@example.com,Anchorage,AK,Northwest,United States,Individual,2020-08-01
+225,David,Miller,customer225@example.com,Houston,TX,Central,United States,Reseller,2022-01-24
+226,Betty,Perez,customer226@example.com,Los Angeles,CA,West,United States,Individual,2022-04-18
+227,Michael,Williams,customer227@example.com,Portland,OR,West,United States,Individual,2018-03-10
+228,Lisa,Thompson,customer228@example.com,Anchorage,AK,Northwest,United States,Reseller,2019-05-17
+229,Joseph,Davis,customer229@example.com,Las Vegas,NV,West,United States,Corporate,2022-03-25
+230,Thomas,Martinez,customer230@example.com,Seattle,WA,West,United States,Individual,2022-02-07
+231,Linda,Martinez,customer231@example.com,St. Louis,MO,Central,United States,Reseller,2021-09-14
+232,Elizabeth,Rodriguez,customer232@example.com,Washington,DC,East,United States,Individual,2021-04-26
+233,Sarah,Thomas,customer233@example.com,Washington,DC,East,United States,Individual,2019-12-07
+234,William,Thompson,customer234@example.com,Anchorage,AK,Northwest,United States,Individual,2018-11-02
+235,Jennifer,Harris,customer235@example.com,Kansas City,MO,Central,United States,Corporate,2019-05-09
+236,Margaret,Thompson,customer236@example.com,Atlanta,GA,East,United States,Individual,2020-08-06
+237,Susan,Moore,customer237@example.com,Las Vegas,NV,West,United States,Corporate,2020-03-06
+238,Michael,Hernandez,customer238@example.com,Atlanta,GA,East,United States,Corporate,2020-07-10
+239,Sarah,White,customer239@example.com,Dallas,TX,Central,United States,Reseller,2018-04-16
+240,Lisa,Martin,customer240@example.com,Kansas City,MO,Central,United States,Corporate,2022-11-25
+241,Betty,Harris,customer241@example.com,Portland,OR,West,United States,Corporate,2021-10-07
+242,Michael,Ramirez,customer242@example.com,Baltimore,MD,East,United States,Reseller,2019-09-13
+243,Sandra,Miller,customer243@example.com,Portland,OR,West,United States,Reseller,2018-08-29
+244,Matthew,Martin,customer244@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-03-23
+245,Anthony,Martinez,customer245@example.com,Charlotte,NC,East,United States,Individual,2020-12-28
+246,David,Lopez,customer246@example.com,Detroit,MI,Central,United States,Corporate,2020-10-15
+247,Betty,White,customer247@example.com,Boise,ID,Northwest,United States,Individual,2022-09-16
+248,Barbara,Hernandez,customer248@example.com,Minneapolis,MN,Central,United States,Individual,2021-02-26
+249,James,Rodriguez,customer249@example.com,Philadelphia,PA,East,United States,Corporate,2021-04-11
+250,Robert,Miller,customer250@example.com,Spokane,WA,Northwest,United States,Individual,2020-02-17
+251,Sarah,Lee,customer251@example.com,Baltimore,MD,East,United States,Reseller,2019-11-23
+252,Nancy,Lee,customer252@example.com,Nashville,TN,Central,United States,Corporate,2020-08-01
+253,Jennifer,Jones,customer253@example.com,Charlotte,NC,East,United States,Corporate,2020-09-27
+254,Thomas,Johnson,customer254@example.com,New York,NY,East,United States,Reseller,2018-06-02
+255,Susan,Jones,customer255@example.com,Los Angeles,CA,West,United States,Reseller,2019-04-19
+256,James,Miller,customer256@example.com,Seattle,WA,West,United States,Corporate,2020-02-04
+257,Lisa,Thomas,customer257@example.com,San Diego,CA,West,United States,Individual,2020-12-25
+258,James,Taylor,customer258@example.com,Boise,ID,Northwest,United States,Corporate,2021-01-02
+259,Thomas,Clark,customer259@example.com,Chicago,IL,Central,United States,Corporate,2020-05-31
+260,Sandra,Brown,customer260@example.com,Boston,MA,East,United States,Corporate,2019-05-09
+261,Mark,Lopez,customer261@example.com,Atlanta,GA,East,United States,Individual,2020-03-23
+262,Richard,Anderson,customer262@example.com,Phoenix,AZ,West,United States,Corporate,2021-11-28
+263,Lisa,Clark,customer263@example.com,Atlanta,GA,East,United States,Reseller,2021-08-31
+264,Richard,Gonzalez,customer264@example.com,San Francisco,CA,West,United States,Individual,2020-09-01
+265,Matthew,Garcia,customer265@example.com,Los Angeles,CA,West,United States,Individual,2022-09-28
+266,Betty,Hernandez,customer266@example.com,Helena,MT,Northwest,United States,Corporate,2022-10-24
+267,Linda,Miller,customer267@example.com,Los Angeles,CA,West,United States,Reseller,2021-11-18
+268,Mary,Robinson,customer268@example.com,Spokane,WA,Northwest,United States,Individual,2019-07-29
+269,Sandra,Ramirez,customer269@example.com,Seattle,WA,West,United States,Individual,2019-03-01
+270,Sandra,Williams,customer270@example.com,Washington,DC,East,United States,Individual,2021-02-28
+271,Lisa,Lewis,customer271@example.com,Washington,DC,East,United States,Corporate,2020-02-26
+272,Thomas,White,customer272@example.com,Boston,MA,East,United States,Reseller,2018-04-20
+273,Linda,Clark,customer273@example.com,Las Vegas,NV,West,United States,Individual,2021-05-24
+274,James,Lee,customer274@example.com,Spokane,WA,Northwest,United States,Individual,2020-07-11
+275,Barbara,Moore,customer275@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2020-06-03
+276,John,Harris,customer276@example.com,Washington,DC,East,United States,Corporate,2022-06-23
+277,John,Rodriguez,customer277@example.com,Boston,MA,East,United States,Individual,2021-12-28
+278,William,Lopez,customer278@example.com,Washington,DC,East,United States,Individual,2018-01-11
+279,Barbara,Harris,customer279@example.com,Nashville,TN,Central,United States,Individual,2018-09-29
+280,Susan,Anderson,customer280@example.com,Seattle,WA,West,United States,Corporate,2020-11-15
+281,James,Williams,customer281@example.com,Boise,ID,Northwest,United States,Individual,2018-07-10
+282,James,Martinez,customer282@example.com,Kansas City,MO,Central,United States,Individual,2022-05-15
+283,Christopher,Taylor,customer283@example.com,Portland,OR,West,United States,Individual,2020-02-19
+284,David,Martinez,customer284@example.com,Philadelphia,PA,East,United States,Individual,2018-10-26
+285,Susan,Rodriguez,customer285@example.com,Seattle,WA,West,United States,Individual,2020-09-18
+286,David,Davis,customer286@example.com,Phoenix,AZ,West,United States,Corporate,2020-10-12
+287,Patricia,Jones,customer287@example.com,Baltimore,MD,East,United States,Individual,2020-03-21
+288,Betty,Ramirez,customer288@example.com,Kansas City,MO,Central,United States,Individual,2019-11-17
+289,Karen,Jones,customer289@example.com,Helena,MT,Northwest,United States,Individual,2021-05-20
+290,William,Garcia,customer290@example.com,Baltimore,MD,East,United States,Reseller,2019-10-16
+291,Christopher,Sanchez,customer291@example.com,Nashville,TN,Central,United States,Individual,2020-02-10
+292,Barbara,Brown,customer292@example.com,Kansas City,MO,Central,United States,Reseller,2019-02-14
+293,Nancy,Anderson,customer293@example.com,New York,NY,East,United States,Reseller,2019-03-06
+294,Mark,Thompson,customer294@example.com,Spokane,WA,Northwest,United States,Individual,2022-10-03
+295,Jessica,Jones,customer295@example.com,Helena,MT,Northwest,United States,Corporate,2019-05-11
+296,Matthew,Wilson,customer296@example.com,Houston,TX,Central,United States,Corporate,2018-06-01
+297,Jessica,Jackson,customer297@example.com,Anchorage,AK,Northwest,United States,Individual,2020-11-03
+298,Mary,Sanchez,customer298@example.com,Anchorage,AK,Northwest,United States,Reseller,2021-12-07
+299,Anthony,Davis,customer299@example.com,San Francisco,CA,West,United States,Corporate,2019-12-29
+300,Christopher,Lee,customer300@example.com,New York,NY,East,United States,Corporate,2020-03-29
+301,Patricia,Smith,customer301@example.com,Kansas City,MO,Central,United States,Individual,2019-03-31
+302,Barbara,Gonzalez,customer302@example.com,Baltimore,MD,East,United States,Individual,2021-10-23
+303,James,Thomas,customer303@example.com,Charlotte,NC,East,United States,Individual,2020-05-01
+304,Mark,White,customer304@example.com,San Francisco,CA,West,United States,Individual,2019-10-01
+305,Betty,Miller,customer305@example.com,Nashville,TN,Central,United States,Corporate,2019-12-15
+306,Joseph,White,customer306@example.com,Boise,ID,Northwest,United States,Corporate,2019-10-16
+307,Mary,Sanchez,customer307@example.com,Denver,CO,West,United States,Corporate,2018-02-16
+308,Lisa,Sanchez,customer308@example.com,Dallas,TX,Central,United States,Individual,2022-02-25
+309,Sarah,Garcia,customer309@example.com,Philadelphia,PA,East,United States,Individual,2020-05-23
+310,Betty,Gonzalez,customer310@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2019-01-17
+311,James,White,customer311@example.com,Eugene,OR,Northwest,United States,Corporate,2019-02-09
+312,Susan,Gonzalez,customer312@example.com,Anchorage,AK,Northwest,United States,Individual,2019-03-16
+313,Anthony,Thompson,customer313@example.com,Atlanta,GA,East,United States,Reseller,2018-05-09
+314,Barbara,Hernandez,customer314@example.com,Seattle,WA,West,United States,Individual,2018-08-22
+315,Thomas,Lee,customer315@example.com,Nashville,TN,Central,United States,Individual,2020-03-06
+316,Patricia,Lopez,customer316@example.com,Anchorage,AK,Northwest,United States,Individual,2020-07-26
+317,Sandra,Martin,customer317@example.com,Atlanta,GA,East,United States,Corporate,2021-10-08
+318,Patricia,Davis,customer318@example.com,Charlotte,NC,East,United States,Individual,2019-01-10
+319,Thomas,Gonzalez,customer319@example.com,Houston,TX,Central,United States,Individual,2018-10-10
+320,Jennifer,Thomas,customer320@example.com,Eugene,OR,Northwest,United States,Corporate,2021-11-21
+321,Jessica,Martinez,customer321@example.com,Philadelphia,PA,East,United States,Individual,2019-10-07
+322,Mary,Ramirez,customer322@example.com,Anchorage,AK,Northwest,United States,Individual,2018-01-20
+323,Michael,Clark,customer323@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-02-24
+324,Lisa,Thomas,customer324@example.com,Eugene,OR,Northwest,United States,Individual,2022-09-17
+325,Jennifer,Williams,customer325@example.com,Eugene,OR,Northwest,United States,Corporate,2022-06-18
+326,Mary,Rodriguez,customer326@example.com,Atlanta,GA,East,United States,Individual,2019-08-15
+327,Christopher,White,customer327@example.com,Baltimore,MD,East,United States,Corporate,2020-10-11
+328,David,Harris,customer328@example.com,San Francisco,CA,West,United States,Corporate,2020-01-22
+329,Sarah,Miller,customer329@example.com,San Diego,CA,West,United States,Reseller,2018-07-29
+330,Margaret,Johnson,customer330@example.com,Atlanta,GA,East,United States,Individual,2019-12-15
+331,Margaret,Brown,customer331@example.com,San Diego,CA,West,United States,Corporate,2019-05-01
+332,Margaret,Thompson,customer332@example.com,Charlotte,NC,East,United States,Corporate,2020-05-26
+333,Betty,Miller,customer333@example.com,Philadelphia,PA,East,United States,Reseller,2022-07-08
+334,Sarah,Rodriguez,customer334@example.com,Phoenix,AZ,West,United States,Corporate,2018-12-11
+335,Elizabeth,Jackson,customer335@example.com,Detroit,MI,Central,United States,Individual,2022-10-24
+336,Anthony,Sanchez,customer336@example.com,Seattle,WA,West,United States,Individual,2018-05-02
+337,Matthew,Ramirez,customer337@example.com,Houston,TX,Central,United States,Individual,2018-10-27
+338,Anthony,Clark,customer338@example.com,Minneapolis,MN,Central,United States,Corporate,2020-09-29
+339,Daniel,Wilson,customer339@example.com,Atlanta,GA,East,United States,Individual,2018-06-04
+340,Thomas,White,customer340@example.com,Las Vegas,NV,West,United States,Individual,2022-12-02
+341,Jessica,Hernandez,customer341@example.com,Nashville,TN,Central,United States,Corporate,2022-11-15
+342,Daniel,Perez,customer342@example.com,San Diego,CA,West,United States,Corporate,2022-10-08
+343,Michael,Wilson,customer343@example.com,Las Vegas,NV,West,United States,Reseller,2020-10-10
+344,Mark,Martinez,customer344@example.com,St. Louis,MO,Central,United States,Individual,2021-03-29
+345,Betty,Hernandez,customer345@example.com,Baltimore,MD,East,United States,Reseller,2022-04-11
+346,Patricia,Lee,customer346@example.com,Los Angeles,CA,West,United States,Corporate,2020-07-30
+347,Sandra,Ramirez,customer347@example.com,San Francisco,CA,West,United States,Individual,2020-07-23
+348,Michael,Thompson,customer348@example.com,Las Vegas,NV,West,United States,Reseller,2021-08-24
+349,Margaret,Robinson,customer349@example.com,Houston,TX,Central,United States,Reseller,2018-07-11
+350,John,Lopez,customer350@example.com,Detroit,MI,Central,United States,Corporate,2021-08-21
+351,Richard,Lee,customer351@example.com,New York,NY,East,United States,Individual,2021-12-03
+352,Daniel,Williams,customer352@example.com,Washington,DC,East,United States,Corporate,2018-01-03
+353,John,Jones,customer353@example.com,Baltimore,MD,East,United States,Corporate,2020-11-29
+354,James,Thompson,customer354@example.com,Boise,ID,Northwest,United States,Individual,2018-09-04
+355,Robert,Thomas,customer355@example.com,Helena,MT,Northwest,United States,Individual,2020-02-24
+356,Patricia,Hernandez,customer356@example.com,San Francisco,CA,West,United States,Individual,2019-09-05
+357,Anthony,Clark,customer357@example.com,Washington,DC,East,United States,Corporate,2018-09-30
+358,Thomas,Jackson,customer358@example.com,Boston,MA,East,United States,Individual,2021-08-24
+359,Barbara,White,customer359@example.com,Baltimore,MD,East,United States,Individual,2022-03-13
+360,Karen,Perez,customer360@example.com,Washington,DC,East,United States,Individual,2019-03-21
+361,Robert,Harris,customer361@example.com,San Francisco,CA,West,United States,Individual,2022-02-04
+362,Susan,Hernandez,customer362@example.com,Spokane,WA,Northwest,United States,Corporate,2019-05-23
+363,Linda,Moore,customer363@example.com,Dallas,TX,Central,United States,Corporate,2022-01-16
+364,Margaret,Ramirez,customer364@example.com,Chicago,IL,Central,United States,Corporate,2019-09-10
+365,Nancy,Gonzalez,customer365@example.com,Miami,FL,East,United States,Individual,2018-04-22
+366,Richard,Brown,customer366@example.com,Baltimore,MD,East,United States,Individual,2021-07-30
+367,Barbara,Robinson,customer367@example.com,Los Angeles,CA,West,United States,Individual,2020-03-03
+368,Sarah,Perez,customer368@example.com,Spokane,WA,Northwest,United States,Individual,2020-08-22
+369,Christopher,Williams,customer369@example.com,Los Angeles,CA,West,United States,Individual,2019-03-18
+370,Betty,Gonzalez,customer370@example.com,Los Angeles,CA,West,United States,Corporate,2021-07-11
+371,Matthew,Gonzalez,customer371@example.com,Eugene,OR,Northwest,United States,Individual,2021-01-03
+372,John,Martinez,customer372@example.com,Atlanta,GA,East,United States,Individual,2019-02-21
+373,Richard,Jackson,customer373@example.com,Charlotte,NC,East,United States,Corporate,2022-09-06
+374,Matthew,Wilson,customer374@example.com,Denver,CO,West,United States,Corporate,2022-09-30
+375,Linda,Williams,customer375@example.com,New York,NY,East,United States,Reseller,2018-08-26
+376,Karen,Johnson,customer376@example.com,Anchorage,AK,Northwest,United States,Individual,2022-02-27
+377,James,Thompson,customer377@example.com,Boston,MA,East,United States,Individual,2018-01-24
+378,Barbara,Taylor,customer378@example.com,Baltimore,MD,East,United States,Corporate,2022-08-12
+379,Barbara,Jones,customer379@example.com,Houston,TX,Central,United States,Corporate,2022-11-24
+380,Anthony,Lewis,customer380@example.com,Dallas,TX,Central,United States,Individual,2022-07-11
+381,Thomas,Williams,customer381@example.com,Spokane,WA,Northwest,United States,Individual,2021-03-26
+382,Joseph,Taylor,customer382@example.com,San Diego,CA,West,United States,Individual,2020-10-20
+383,Jennifer,Rodriguez,customer383@example.com,Charlotte,NC,East,United States,Corporate,2021-03-21
+384,Nancy,Taylor,customer384@example.com,Portland,OR,West,United States,Individual,2022-10-25
+385,Mary,Thomas,customer385@example.com,Portland,OR,West,United States,Individual,2018-11-04
+386,Sarah,Sanchez,customer386@example.com,New York,NY,East,United States,Reseller,2022-02-25
+387,William,Davis,customer387@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-01-15
+388,Mark,Williams,customer388@example.com,Detroit,MI,Central,United States,Corporate,2018-09-02
+389,Linda,Sanchez,customer389@example.com,Seattle,WA,West,United States,Corporate,2018-04-05
+390,Donald,Anderson,customer390@example.com,Boise,ID,Northwest,United States,Reseller,2022-05-04
+391,John,Moore,customer391@example.com,St. Louis,MO,Central,United States,Individual,2020-01-26
+392,Christopher,Sanchez,customer392@example.com,Atlanta,GA,East,United States,Individual,2021-06-29
+393,Barbara,Jackson,customer393@example.com,Baltimore,MD,East,United States,Reseller,2022-05-02
+394,Robert,Smith,customer394@example.com,Miami,FL,East,United States,Reseller,2018-02-18
+395,Daniel,Clark,customer395@example.com,Charlotte,NC,East,United States,Corporate,2018-01-20
+396,Anthony,Perez,customer396@example.com,Chicago,IL,Central,United States,Individual,2022-02-20
+397,Michael,Taylor,customer397@example.com,Dallas,TX,Central,United States,Reseller,2020-05-09
+398,Robert,Thompson,customer398@example.com,Boise,ID,Northwest,United States,Individual,2018-03-31
+399,Matthew,Lewis,customer399@example.com,Washington,DC,East,United States,Individual,2022-03-12
+400,Thomas,Jones,customer400@example.com,San Francisco,CA,West,United States,Corporate,2020-03-18
+401,Susan,Perez,customer401@example.com,Los Angeles,CA,West,United States,Reseller,2019-04-30
+402,Margaret,Hernandez,customer402@example.com,Detroit,MI,Central,United States,Reseller,2020-03-15
+403,Joseph,Rodriguez,customer403@example.com,St. Louis,MO,Central,United States,Individual,2019-02-20
+404,Robert,Brown,customer404@example.com,Boston,MA,East,United States,Individual,2020-08-12
+405,Patricia,Moore,customer405@example.com,Kansas City,MO,Central,United States,Individual,2022-04-27
+406,Elizabeth,Anderson,customer406@example.com,Baltimore,MD,East,United States,Individual,2018-09-03
+407,Betty,Perez,customer407@example.com,Seattle,WA,West,United States,Individual,2021-12-14
+408,Mark,Ramirez,customer408@example.com,Portland,OR,West,United States,Individual,2018-07-06
+409,Richard,Taylor,customer409@example.com,Charlotte,NC,East,United States,Individual,2019-09-05
+410,James,Gonzalez,customer410@example.com,Houston,TX,Central,United States,Reseller,2021-02-12
+411,Joseph,Brown,customer411@example.com,Boston,MA,East,United States,Reseller,2018-10-14
+412,Mary,Clark,customer412@example.com,Los Angeles,CA,West,United States,Corporate,2019-04-01
+413,Mark,Gonzalez,customer413@example.com,Miami,FL,East,United States,Individual,2021-07-14
+414,Sandra,Clark,customer414@example.com,Denver,CO,West,United States,Individual,2018-05-13
+415,Betty,Jones,customer415@example.com,Baltimore,MD,East,United States,Individual,2022-10-02
+416,Mary,Anderson,customer416@example.com,Dallas,TX,Central,United States,Individual,2021-03-21
+417,Richard,Thomas,customer417@example.com,Helena,MT,Northwest,United States,Individual,2021-10-31
+418,Barbara,Miller,customer418@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2019-07-18
+419,Donald,Jones,customer419@example.com,Nashville,TN,Central,United States,Individual,2021-06-22
+420,Jessica,Wilson,customer420@example.com,Atlanta,GA,East,United States,Reseller,2020-09-08
+421,David,Gonzalez,customer421@example.com,San Francisco,CA,West,United States,Individual,2019-02-13
+422,Richard,Sanchez,customer422@example.com,New York,NY,East,United States,Corporate,2020-09-09
+423,Sandra,Jackson,customer423@example.com,Spokane,WA,Northwest,United States,Corporate,2020-03-06
+424,James,Hernandez,customer424@example.com,Houston,TX,Central,United States,Corporate,2018-03-02
+425,Betty,Thomas,customer425@example.com,Chicago,IL,Central,United States,Corporate,2022-04-20
+426,Patricia,Davis,customer426@example.com,Philadelphia,PA,East,United States,Corporate,2019-06-30
+427,Christopher,Ramirez,customer427@example.com,Portland,OR,West,United States,Reseller,2020-03-06
+428,Jennifer,Davis,customer428@example.com,Houston,TX,Central,United States,Corporate,2022-07-10
+429,Matthew,Thompson,customer429@example.com,Chicago,IL,Central,United States,Individual,2021-03-08
+430,Mark,Sanchez,customer430@example.com,Miami,FL,East,United States,Reseller,2020-10-05
+431,Jessica,Johnson,customer431@example.com,Houston,TX,Central,United States,Individual,2019-04-22
+432,Thomas,Thomas,customer432@example.com,New York,NY,East,United States,Individual,2021-06-11
+433,William,Thompson,customer433@example.com,Philadelphia,PA,East,United States,Individual,2022-07-02
+434,James,Jones,customer434@example.com,Chicago,IL,Central,United States,Corporate,2018-10-18
+435,John,Lopez,customer435@example.com,Phoenix,AZ,West,United States,Corporate,2021-09-18
+436,Patricia,Hernandez,customer436@example.com,Anchorage,AK,Northwest,United States,Individual,2018-10-07
+437,Betty,Lee,customer437@example.com,Washington,DC,East,United States,Reseller,2021-08-22
+438,Matthew,Moore,customer438@example.com,Houston,TX,Central,United States,Corporate,2021-06-10
+439,Lisa,Jackson,customer439@example.com,Minneapolis,MN,Central,United States,Reseller,2020-02-14
+440,Robert,Garcia,customer440@example.com,Detroit,MI,Central,United States,Corporate,2021-12-08
+441,Mary,Garcia,customer441@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-07-15
+442,Sandra,Thomas,customer442@example.com,Boston,MA,East,United States,Individual,2022-03-07
+443,Barbara,Hernandez,customer443@example.com,Portland,OR,West,United States,Individual,2018-07-01
+444,James,Rodriguez,customer444@example.com,Nashville,TN,Central,United States,Individual,2021-11-20
+445,David,Sanchez,customer445@example.com,Phoenix,AZ,West,United States,Individual,2018-01-03
+446,Joseph,White,customer446@example.com,Las Vegas,NV,West,United States,Individual,2018-12-07
+447,Donald,Gonzalez,customer447@example.com,Eugene,OR,Northwest,United States,Individual,2020-02-08
+448,Betty,Ramirez,customer448@example.com,San Diego,CA,West,United States,Corporate,2022-04-02
+449,Joseph,Williams,customer449@example.com,Philadelphia,PA,East,United States,Corporate,2018-03-10
+450,William,Rodriguez,customer450@example.com,Chicago,IL,Central,United States,Reseller,2018-06-01
+451,Donald,Gonzalez,customer451@example.com,Houston,TX,Central,United States,Individual,2018-06-03
+452,Karen,Martin,customer452@example.com,Phoenix,AZ,West,United States,Reseller,2021-12-13
+453,Daniel,Garcia,customer453@example.com,Las Vegas,NV,West,United States,Corporate,2020-06-08
+454,Patricia,Hernandez,customer454@example.com,New York,NY,East,United States,Individual,2019-01-25
+455,Sarah,White,customer455@example.com,Helena,MT,Northwest,United States,Reseller,2021-01-11
+456,Elizabeth,Davis,customer456@example.com,Detroit,MI,Central,United States,Individual,2020-03-15
+457,Mary,Lopez,customer457@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-06-29
+458,Michael,Brown,customer458@example.com,Nashville,TN,Central,United States,Individual,2018-12-16
+459,Jessica,Ramirez,customer459@example.com,Dallas,TX,Central,United States,Individual,2022-05-27
+460,Jessica,Lewis,customer460@example.com,Eugene,OR,Northwest,United States,Corporate,2018-07-06
+461,Barbara,Lewis,customer461@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-01-18
+462,David,Anderson,customer462@example.com,Boise,ID,Northwest,United States,Individual,2019-04-09
+463,Robert,Harris,customer463@example.com,Chicago,IL,Central,United States,Corporate,2018-07-18
+464,Betty,Moore,customer464@example.com,Phoenix,AZ,West,United States,Individual,2022-03-30
+465,Mark,Gonzalez,customer465@example.com,New York,NY,East,United States,Reseller,2020-05-07
+466,Donald,Davis,customer466@example.com,Anchorage,AK,Northwest,United States,Individual,2018-06-11
+467,Mary,Taylor,customer467@example.com,Helena,MT,Northwest,United States,Corporate,2020-11-24
+468,Anthony,Anderson,customer468@example.com,Boston,MA,East,United States,Individual,2018-12-09
+469,Robert,Johnson,customer469@example.com,Miami,FL,East,United States,Individual,2021-10-31
+470,Mark,Lee,customer470@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-05-03
+471,Sandra,White,customer471@example.com,St. Louis,MO,Central,United States,Reseller,2018-05-18
+472,Sarah,Gonzalez,customer472@example.com,Las Vegas,NV,West,United States,Corporate,2022-10-21
+473,Sandra,Ramirez,customer473@example.com,Nashville,TN,Central,United States,Individual,2021-12-05
+474,Susan,Jones,customer474@example.com,Boise,ID,Northwest,United States,Individual,2021-04-19
+475,Christopher,Harris,customer475@example.com,San Francisco,CA,West,United States,Individual,2019-08-09
+476,David,Gonzalez,customer476@example.com,Kansas City,MO,Central,United States,Corporate,2021-03-17
+477,Jennifer,Rodriguez,customer477@example.com,Boise,ID,Northwest,United States,Individual,2021-06-20
+478,Richard,Lewis,customer478@example.com,Boise,ID,Northwest,United States,Reseller,2021-11-15
+479,Nancy,Thomas,customer479@example.com,New York,NY,East,United States,Reseller,2020-02-02
+480,Mark,Sanchez,customer480@example.com,Phoenix,AZ,West,United States,Individual,2019-07-29
+481,Lisa,Brown,customer481@example.com,Helena,MT,Northwest,United States,Reseller,2019-04-12
+482,Nancy,Anderson,customer482@example.com,Atlanta,GA,East,United States,Corporate,2019-10-20
+483,Karen,Lee,customer483@example.com,Kansas City,MO,Central,United States,Individual,2020-06-23
+484,Nancy,Thomas,customer484@example.com,Washington,DC,East,United States,Corporate,2022-11-12
+485,Thomas,Sanchez,customer485@example.com,Chicago,IL,Central,United States,Individual,2019-09-30
+486,Anthony,Ramirez,customer486@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-03-10
+487,Michael,Lewis,customer487@example.com,Seattle,WA,West,United States,Reseller,2022-09-11
+488,Mary,Anderson,customer488@example.com,Portland,OR,West,United States,Individual,2020-01-09
+489,Barbara,Clark,customer489@example.com,Atlanta,GA,East,United States,Individual,2020-03-23
+490,Linda,Lopez,customer490@example.com,Los Angeles,CA,West,United States,Individual,2020-07-02
+491,Christopher,Moore,customer491@example.com,Baltimore,MD,East,United States,Individual,2018-12-01
+492,Elizabeth,Smith,customer492@example.com,Dallas,TX,Central,United States,Individual,2018-11-30
+493,Daniel,Davis,customer493@example.com,Miami,FL,East,United States,Corporate,2019-07-06
+494,James,Ramirez,customer494@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-04-21
+495,Sandra,Jones,customer495@example.com,San Diego,CA,West,United States,Corporate,2021-05-16
+496,David,Martin,customer496@example.com,Portland,OR,West,United States,Reseller,2019-09-18
+497,Donald,Gonzalez,customer497@example.com,Kansas City,MO,Central,United States,Reseller,2020-07-29
+498,Joseph,Martinez,customer498@example.com,Minneapolis,MN,Central,United States,Corporate,2022-08-16
+499,Patricia,Smith,customer499@example.com,Anchorage,AK,Northwest,United States,Corporate,2021-09-18
+500,Elizabeth,Perez,customer500@example.com,Detroit,MI,Central,United States,Individual,2018-05-11
+501,Daniel,Hernandez,customer501@example.com,Detroit,MI,Central,United States,Reseller,2019-06-19
+502,Robert,Taylor,customer502@example.com,Minneapolis,MN,Central,United States,Corporate,2018-04-27
+503,William,Perez,customer503@example.com,Helena,MT,Northwest,United States,Individual,2018-02-22
+504,David,Robinson,customer504@example.com,Spokane,WA,Northwest,United States,Individual,2020-03-06
+505,William,White,customer505@example.com,Portland,OR,West,United States,Corporate,2021-11-06
+506,Barbara,Taylor,customer506@example.com,Helena,MT,Northwest,United States,Individual,2018-12-15
+507,Patricia,Thomas,customer507@example.com,Atlanta,GA,East,United States,Individual,2019-06-14
+508,Daniel,Williams,customer508@example.com,Charlotte,NC,East,United States,Individual,2019-04-03
+509,Betty,Lewis,customer509@example.com,Kansas City,MO,Central,United States,Individual,2019-06-18
+510,Margaret,Brown,customer510@example.com,Nashville,TN,Central,United States,Individual,2022-11-10
+511,Donald,Miller,customer511@example.com,San Diego,CA,West,United States,Corporate,2022-11-12
+512,Elizabeth,Wilson,customer512@example.com,Anchorage,AK,Northwest,United States,Individual,2022-10-16
+513,Michael,Hernandez,customer513@example.com,Philadelphia,PA,East,United States,Individual,2021-03-12
+514,William,Ramirez,customer514@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2022-05-15
+515,William,Lee,customer515@example.com,San Diego,CA,West,United States,Reseller,2019-10-04
+516,Joseph,Rodriguez,customer516@example.com,Los Angeles,CA,West,United States,Individual,2022-05-04
+517,Jessica,Sanchez,customer517@example.com,Philadelphia,PA,East,United States,Corporate,2018-06-30
+518,Daniel,Wilson,customer518@example.com,Washington,DC,East,United States,Individual,2020-09-04
+519,Mary,Moore,customer519@example.com,Boise,ID,Northwest,United States,Individual,2020-02-04
+520,Anthony,Clark,customer520@example.com,Phoenix,AZ,West,United States,Corporate,2018-02-06
+521,Linda,Thompson,customer521@example.com,Portland,OR,West,United States,Reseller,2019-10-02
+522,Richard,Taylor,customer522@example.com,Boston,MA,East,United States,Corporate,2018-12-09
+523,Elizabeth,Martinez,customer523@example.com,Los Angeles,CA,West,United States,Individual,2020-12-01
+524,Donald,Perez,customer524@example.com,Kansas City,MO,Central,United States,Reseller,2019-12-03
+525,Anthony,Miller,customer525@example.com,Spokane,WA,Northwest,United States,Individual,2022-07-21
+526,Linda,Davis,customer526@example.com,Boise,ID,Northwest,United States,Corporate,2018-09-26
+527,Christopher,Taylor,customer527@example.com,New York,NY,East,United States,Individual,2020-01-21
+528,Donald,Lee,customer528@example.com,Las Vegas,NV,West,United States,Individual,2020-12-31
+529,Lisa,Brown,customer529@example.com,Los Angeles,CA,West,United States,Corporate,2018-02-10
+530,Susan,Anderson,customer530@example.com,San Francisco,CA,West,United States,Individual,2021-01-25
+531,Matthew,Jones,customer531@example.com,Nashville,TN,Central,United States,Individual,2021-11-05
+532,Susan,Perez,customer532@example.com,Denver,CO,West,United States,Individual,2020-12-01
+533,Susan,Clark,customer533@example.com,Houston,TX,Central,United States,Reseller,2020-11-13
+534,Patricia,Sanchez,customer534@example.com,Denver,CO,West,United States,Individual,2019-02-11
+535,Mark,Taylor,customer535@example.com,Atlanta,GA,East,United States,Reseller,2020-01-04
+536,Jennifer,Johnson,customer536@example.com,Spokane,WA,Northwest,United States,Corporate,2019-03-02
+537,Linda,Smith,customer537@example.com,Spokane,WA,Northwest,United States,Individual,2018-07-02
+538,Robert,Williams,customer538@example.com,San Diego,CA,West,United States,Corporate,2018-06-03
+539,Daniel,Davis,customer539@example.com,Denver,CO,West,United States,Individual,2019-08-30
+540,Mary,Brown,customer540@example.com,Nashville,TN,Central,United States,Reseller,2022-11-26
+541,Barbara,Sanchez,customer541@example.com,Denver,CO,West,United States,Corporate,2020-05-22
+542,Margaret,Harris,customer542@example.com,San Francisco,CA,West,United States,Reseller,2018-01-20
+543,William,Lopez,customer543@example.com,Philadelphia,PA,East,United States,Reseller,2021-06-27
+544,Barbara,Clark,customer544@example.com,Dallas,TX,Central,United States,Individual,2018-08-22
+545,Joseph,Rodriguez,customer545@example.com,Eugene,OR,Northwest,United States,Reseller,2021-11-13
+546,Daniel,Lewis,customer546@example.com,Eugene,OR,Northwest,United States,Corporate,2018-08-20
+547,Margaret,Garcia,customer547@example.com,New York,NY,East,United States,Individual,2021-04-24
+548,Lisa,Anderson,customer548@example.com,Anchorage,AK,Northwest,United States,Individual,2020-02-17
+549,Margaret,Perez,customer549@example.com,Chicago,IL,Central,United States,Reseller,2022-01-29
+550,Sandra,Thomas,customer550@example.com,Baltimore,MD,East,United States,Individual,2020-04-22
+551,John,Rodriguez,customer551@example.com,Boise,ID,Northwest,United States,Corporate,2018-01-26
+552,Thomas,Taylor,customer552@example.com,Charlotte,NC,East,United States,Corporate,2021-06-20
+553,Lisa,White,customer553@example.com,Las Vegas,NV,West,United States,Individual,2019-12-10
+554,Mark,Clark,customer554@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-06-09
+555,Daniel,Robinson,customer555@example.com,Los Angeles,CA,West,United States,Individual,2022-10-05
+556,Margaret,Garcia,customer556@example.com,Eugene,OR,Northwest,United States,Individual,2020-10-03
+557,William,Rodriguez,customer557@example.com,Minneapolis,MN,Central,United States,Individual,2019-04-02
+558,Mark,Davis,customer558@example.com,Eugene,OR,Northwest,United States,Individual,2020-06-28
+559,Margaret,Thomas,customer559@example.com,Boise,ID,Northwest,United States,Individual,2018-09-01
+560,Daniel,Smith,customer560@example.com,Helena,MT,Northwest,United States,Individual,2020-04-24
+561,Mark,Williams,customer561@example.com,Los Angeles,CA,West,United States,Corporate,2021-06-21
+562,Daniel,Perez,customer562@example.com,Minneapolis,MN,Central,United States,Individual,2019-11-30
+563,Mark,Davis,customer563@example.com,Chicago,IL,Central,United States,Reseller,2019-11-11
+564,Lisa,Lopez,customer564@example.com,Helena,MT,Northwest,United States,Corporate,2018-08-22
+565,James,Hernandez,customer565@example.com,Portland,OR,West,United States,Individual,2021-07-21
+566,Matthew,Brown,customer566@example.com,St. Louis,MO,Central,United States,Individual,2018-12-03
+567,Mark,Thompson,customer567@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-04-18
+568,Karen,Miller,customer568@example.com,Denver,CO,West,United States,Individual,2022-10-12
+569,Joseph,Clark,customer569@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2022-01-07
+570,Anthony,Wilson,customer570@example.com,Dallas,TX,Central,United States,Individual,2021-07-20
+571,Joseph,Perez,customer571@example.com,San Diego,CA,West,United States,Corporate,2020-10-29
+572,James,Taylor,customer572@example.com,Baltimore,MD,East,United States,Corporate,2021-02-07
+573,Jessica,Robinson,customer573@example.com,Anchorage,AK,Northwest,United States,Corporate,2018-12-29
+574,Patricia,Gonzalez,customer574@example.com,Philadelphia,PA,East,United States,Corporate,2021-05-26
+575,Susan,Martin,customer575@example.com,Kansas City,MO,Central,United States,Reseller,2022-04-11
+576,Richard,Hernandez,customer576@example.com,Atlanta,GA,East,United States,Reseller,2020-07-16
+577,Susan,Martin,customer577@example.com,Philadelphia,PA,East,United States,Corporate,2022-03-13
+578,Matthew,White,customer578@example.com,St. Louis,MO,Central,United States,Reseller,2021-07-19
+579,Michael,Martin,customer579@example.com,Miami,FL,East,United States,Corporate,2021-11-07
+580,Matthew,Lee,customer580@example.com,Houston,TX,Central,United States,Reseller,2018-12-31
+581,Anthony,Lopez,customer581@example.com,Dallas,TX,Central,United States,Corporate,2021-04-08
+582,Nancy,Lewis,customer582@example.com,Helena,MT,Northwest,United States,Reseller,2019-08-09
+583,Thomas,Brown,customer583@example.com,Boise,ID,Northwest,United States,Individual,2018-10-25
+584,Michael,Rodriguez,customer584@example.com,Los Angeles,CA,West,United States,Corporate,2018-11-26
+585,Robert,Clark,customer585@example.com,Detroit,MI,Central,United States,Individual,2022-05-26
+586,Anthony,Moore,customer586@example.com,Minneapolis,MN,Central,United States,Individual,2022-07-26
+587,Karen,Ramirez,customer587@example.com,Boise,ID,Northwest,United States,Corporate,2021-02-24
+588,Linda,Taylor,customer588@example.com,Washington,DC,East,United States,Corporate,2022-06-24
+589,Sandra,Gonzalez,customer589@example.com,Chicago,IL,Central,United States,Individual,2022-06-03
+590,James,White,customer590@example.com,Chicago,IL,Central,United States,Individual,2021-06-24
+591,Sandra,Lee,customer591@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-08-19
+592,Anthony,White,customer592@example.com,Minneapolis,MN,Central,United States,Reseller,2019-08-26
+593,Lisa,Williams,customer593@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-12-22
+594,Mary,Wilson,customer594@example.com,Las Vegas,NV,West,United States,Individual,2019-06-26
+595,Christopher,Ramirez,customer595@example.com,Philadelphia,PA,East,United States,Individual,2019-11-08
+596,Sandra,Jones,customer596@example.com,Helena,MT,Northwest,United States,Individual,2019-10-23
+597,Jessica,Sanchez,customer597@example.com,Denver,CO,West,United States,Corporate,2020-01-04
+598,Thomas,Davis,customer598@example.com,Phoenix,AZ,West,United States,Reseller,2020-12-02
+599,Susan,Moore,customer599@example.com,Seattle,WA,West,United States,Corporate,2018-07-08
+600,Donald,Miller,customer600@example.com,Minneapolis,MN,Central,United States,Corporate,2019-11-10
+601,Michael,Harris,customer601@example.com,Detroit,MI,Central,United States,Corporate,2020-08-30
+602,Lisa,Lopez,customer602@example.com,San Francisco,CA,West,United States,Individual,2021-08-08
+603,Lisa,Lewis,customer603@example.com,New York,NY,East,United States,Individual,2022-06-19
+604,David,Moore,customer604@example.com,Las Vegas,NV,West,United States,Corporate,2018-02-20
+605,Jessica,Johnson,customer605@example.com,Nashville,TN,Central,United States,Individual,2021-08-27
+606,Thomas,Williams,customer606@example.com,Charlotte,NC,East,United States,Reseller,2018-12-09
+607,Michael,Perez,customer607@example.com,San Francisco,CA,West,United States,Corporate,2019-03-13
+608,Michael,Moore,customer608@example.com,Boise,ID,Northwest,United States,Reseller,2022-12-05
+609,Mark,Williams,customer609@example.com,Helena,MT,Northwest,United States,Corporate,2018-11-11
+610,Matthew,Hernandez,customer610@example.com,San Diego,CA,West,United States,Individual,2018-05-31
+611,Betty,Rodriguez,customer611@example.com,Seattle,WA,West,United States,Corporate,2021-03-23
+612,Susan,Gonzalez,customer612@example.com,Atlanta,GA,East,United States,Individual,2020-04-08
+613,James,Gonzalez,customer613@example.com,Spokane,WA,Northwest,United States,Corporate,2020-12-31
+614,Anthony,White,customer614@example.com,San Francisco,CA,West,United States,Corporate,2021-12-06
+615,Sandra,Taylor,customer615@example.com,Phoenix,AZ,West,United States,Individual,2022-05-31
+616,Elizabeth,Harris,customer616@example.com,Dallas,TX,Central,United States,Reseller,2020-02-21
+617,James,Thomas,customer617@example.com,Helena,MT,Northwest,United States,Individual,2019-03-27
+618,Betty,Sanchez,customer618@example.com,Washington,DC,East,United States,Reseller,2019-08-28
+619,Lisa,Lewis,customer619@example.com,Atlanta,GA,East,United States,Reseller,2022-06-17
+620,Sarah,Ramirez,customer620@example.com,Chicago,IL,Central,United States,Corporate,2018-09-10
+621,Christopher,Martin,customer621@example.com,Los Angeles,CA,West,United States,Individual,2021-01-26
+622,Michael,White,customer622@example.com,Denver,CO,West,United States,Corporate,2022-01-26
+623,Susan,Lewis,customer623@example.com,Minneapolis,MN,Central,United States,Corporate,2020-11-15
+624,Jennifer,Davis,customer624@example.com,Philadelphia,PA,East,United States,Corporate,2019-06-02
+625,Jennifer,Perez,customer625@example.com,Boston,MA,East,United States,Corporate,2022-10-12
+626,Daniel,Moore,customer626@example.com,San Diego,CA,West,United States,Individual,2021-10-07
+627,Patricia,Miller,customer627@example.com,Denver,CO,West,United States,Corporate,2020-09-24
+628,Robert,Perez,customer628@example.com,St. Louis,MO,Central,United States,Corporate,2018-07-24
+629,Donald,Miller,customer629@example.com,Dallas,TX,Central,United States,Individual,2020-07-11
+630,Matthew,Jackson,customer630@example.com,Detroit,MI,Central,United States,Individual,2021-03-06
+631,Susan,Garcia,customer631@example.com,St. Louis,MO,Central,United States,Individual,2019-05-20
+632,David,Clark,customer632@example.com,Washington,DC,East,United States,Individual,2021-10-23
+633,Joseph,Anderson,customer633@example.com,Nashville,TN,Central,United States,Individual,2019-09-18
+634,Patricia,Garcia,customer634@example.com,Anchorage,AK,Northwest,United States,Corporate,2018-06-17
+635,Donald,Moore,customer635@example.com,Houston,TX,Central,United States,Individual,2022-02-11
+636,Donald,Smith,customer636@example.com,San Francisco,CA,West,United States,Reseller,2021-07-17
+637,Anthony,Jackson,customer637@example.com,Las Vegas,NV,West,United States,Individual,2018-03-17
+638,Daniel,Harris,customer638@example.com,Nashville,TN,Central,United States,Individual,2020-03-14
+639,Robert,Anderson,customer639@example.com,Atlanta,GA,East,United States,Corporate,2018-07-05
+640,Thomas,Smith,customer640@example.com,Spokane,WA,Northwest,United States,Corporate,2022-10-03
+641,Joseph,Garcia,customer641@example.com,Philadelphia,PA,East,United States,Individual,2021-03-04
+642,Barbara,Johnson,customer642@example.com,Baltimore,MD,East,United States,Individual,2020-09-25
+643,David,Lopez,customer643@example.com,Boston,MA,East,United States,Individual,2021-10-01
+644,Richard,Thomas,customer644@example.com,Charlotte,NC,East,United States,Reseller,2018-04-06
+645,Patricia,Thompson,customer645@example.com,Phoenix,AZ,West,United States,Reseller,2021-07-21
+646,Christopher,Moore,customer646@example.com,Detroit,MI,Central,United States,Corporate,2020-02-11
+647,Christopher,Lee,customer647@example.com,Spokane,WA,Northwest,United States,Reseller,2018-06-09
+648,Sandra,Davis,customer648@example.com,Kansas City,MO,Central,United States,Corporate,2019-12-24
+649,Betty,Thomas,customer649@example.com,Nashville,TN,Central,United States,Reseller,2018-01-14
+650,Jennifer,Davis,customer650@example.com,Baltimore,MD,East,United States,Individual,2021-08-10
+651,Robert,Garcia,customer651@example.com,Minneapolis,MN,Central,United States,Individual,2021-05-17
+652,Susan,Sanchez,customer652@example.com,Portland,OR,West,United States,Individual,2018-08-21
+653,Jessica,Thomas,customer653@example.com,Helena,MT,Northwest,United States,Individual,2018-11-27
+654,Linda,Johnson,customer654@example.com,Boise,ID,Northwest,United States,Individual,2021-04-28
+655,Daniel,Taylor,customer655@example.com,Philadelphia,PA,East,United States,Individual,2021-03-18
+656,Jennifer,Rodriguez,customer656@example.com,New York,NY,East,United States,Reseller,2020-11-24
+657,Christopher,Lee,customer657@example.com,Anchorage,AK,Northwest,United States,Individual,2022-01-13
+658,Michael,Anderson,customer658@example.com,Dallas,TX,Central,United States,Corporate,2020-08-23
+659,Linda,Clark,customer659@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-10-20
+660,Jennifer,White,customer660@example.com,Atlanta,GA,East,United States,Corporate,2020-07-17
+661,Richard,Gonzalez,customer661@example.com,Portland,OR,West,United States,Individual,2018-02-03
+662,Mark,Jones,customer662@example.com,Washington,DC,East,United States,Corporate,2018-12-30
+663,Karen,Johnson,customer663@example.com,Anchorage,AK,Northwest,United States,Reseller,2020-12-24
+664,Jessica,Perez,customer664@example.com,San Francisco,CA,West,United States,Individual,2021-05-20
+665,Thomas,Wilson,customer665@example.com,Las Vegas,NV,West,United States,Individual,2018-03-30
+666,Betty,Thomas,customer666@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-02-20
+667,Susan,Jones,customer667@example.com,Dallas,TX,Central,United States,Individual,2022-04-18
+668,Elizabeth,Martin,customer668@example.com,Boston,MA,East,United States,Reseller,2020-04-16
+669,James,Thompson,customer669@example.com,Minneapolis,MN,Central,United States,Corporate,2018-01-15
+670,Richard,Lee,customer670@example.com,Los Angeles,CA,West,United States,Individual,2022-07-06
+671,Barbara,Brown,customer671@example.com,Kansas City,MO,Central,United States,Individual,2021-08-27
+672,Margaret,Moore,customer672@example.com,Detroit,MI,Central,United States,Individual,2020-01-19
+673,Anthony,Miller,customer673@example.com,Kansas City,MO,Central,United States,Individual,2022-05-25
+674,Barbara,Moore,customer674@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2019-06-04
+675,Anthony,Thompson,customer675@example.com,St. Louis,MO,Central,United States,Individual,2018-10-10
+676,Joseph,Sanchez,customer676@example.com,Portland,OR,West,United States,Corporate,2018-11-28
+677,Thomas,Gonzalez,customer677@example.com,Portland,OR,West,United States,Corporate,2022-06-29
+678,Richard,Lee,customer678@example.com,Seattle,WA,West,United States,Individual,2018-07-06
+679,Sandra,Martin,customer679@example.com,Baltimore,MD,East,United States,Individual,2018-05-12
+680,Barbara,Williams,customer680@example.com,Minneapolis,MN,Central,United States,Corporate,2022-01-23
+681,Karen,Lee,customer681@example.com,Eugene,OR,Northwest,United States,Corporate,2021-12-28
+682,Daniel,Thomas,customer682@example.com,Seattle,WA,West,United States,Individual,2019-02-18
+683,Mary,Sanchez,customer683@example.com,Minneapolis,MN,Central,United States,Corporate,2020-11-22
+684,Lisa,Johnson,customer684@example.com,Philadelphia,PA,East,United States,Individual,2021-09-03
+685,John,Rodriguez,customer685@example.com,Seattle,WA,West,United States,Corporate,2019-12-25
+686,Christopher,Miller,customer686@example.com,Eugene,OR,Northwest,United States,Corporate,2022-02-18
+687,Sarah,Martinez,customer687@example.com,San Francisco,CA,West,United States,Corporate,2021-02-19
+688,Mark,Rodriguez,customer688@example.com,St. Louis,MO,Central,United States,Individual,2019-02-03
+689,Christopher,Smith,customer689@example.com,Eugene,OR,Northwest,United States,Individual,2020-04-13
+690,Thomas,Martinez,customer690@example.com,San Francisco,CA,West,United States,Individual,2018-08-28
+691,Matthew,Anderson,customer691@example.com,Detroit,MI,Central,United States,Reseller,2021-02-27
+692,Anthony,Hernandez,customer692@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2020-07-28
+693,Margaret,Smith,customer693@example.com,Anchorage,AK,Northwest,United States,Individual,2019-06-13
+694,Daniel,Sanchez,customer694@example.com,Las Vegas,NV,West,United States,Reseller,2021-10-18
+695,Susan,Lopez,customer695@example.com,Charlotte,NC,East,United States,Corporate,2018-01-20
+696,Elizabeth,Williams,customer696@example.com,Minneapolis,MN,Central,United States,Individual,2022-03-14
+697,Sarah,Robinson,customer697@example.com,Dallas,TX,Central,United States,Individual,2019-10-05
+698,Donald,Jackson,customer698@example.com,Minneapolis,MN,Central,United States,Individual,2022-03-09
+699,Nancy,Miller,customer699@example.com,Baltimore,MD,East,United States,Individual,2019-05-11
+700,Linda,Miller,customer700@example.com,Minneapolis,MN,Central,United States,Reseller,2022-09-09
+701,Anthony,Brown,customer701@example.com,Houston,TX,Central,United States,Individual,2018-06-10
+702,James,Harris,customer702@example.com,Anchorage,AK,Northwest,United States,Reseller,2018-03-28
+703,Karen,Hernandez,customer703@example.com,Spokane,WA,Northwest,United States,Individual,2021-03-22
+704,Jennifer,Harris,customer704@example.com,Nashville,TN,Central,United States,Reseller,2019-07-28
+705,Anthony,Jackson,customer705@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-12-12
+706,Sarah,Johnson,customer706@example.com,Eugene,OR,Northwest,United States,Corporate,2020-03-17
+707,Patricia,Thompson,customer707@example.com,Baltimore,MD,East,United States,Corporate,2019-10-09
+708,Lisa,Miller,customer708@example.com,Los Angeles,CA,West,United States,Individual,2018-07-26
+709,Karen,Ramirez,customer709@example.com,St. Louis,MO,Central,United States,Individual,2021-01-28
+710,David,Thomas,customer710@example.com,Minneapolis,MN,Central,United States,Reseller,2019-12-04
+711,Jessica,Wilson,customer711@example.com,Houston,TX,Central,United States,Individual,2021-12-06
+712,Margaret,Gonzalez,customer712@example.com,St. Louis,MO,Central,United States,Individual,2019-01-04
+713,Mark,Brown,customer713@example.com,Miami,FL,East,United States,Corporate,2022-07-05
+714,Margaret,Gonzalez,customer714@example.com,Washington,DC,East,United States,Individual,2022-06-27
+715,Betty,Smith,customer715@example.com,Baltimore,MD,East,United States,Individual,2020-10-20
+716,Betty,Thomas,customer716@example.com,Charlotte,NC,East,United States,Individual,2021-02-25
+717,Patricia,Thompson,customer717@example.com,Las Vegas,NV,West,United States,Individual,2019-03-18
+718,Mark,Lee,customer718@example.com,Nashville,TN,Central,United States,Individual,2022-03-05
+719,Barbara,Lopez,customer719@example.com,Detroit,MI,Central,United States,Corporate,2022-07-17
+720,James,Wilson,customer720@example.com,St. Louis,MO,Central,United States,Individual,2022-11-12
+721,Anthony,Martinez,customer721@example.com,Philadelphia,PA,East,United States,Individual,2021-10-10
+722,Joseph,Lewis,customer722@example.com,Helena,MT,Northwest,United States,Individual,2021-06-10
+723,Daniel,Jones,customer723@example.com,Nashville,TN,Central,United States,Reseller,2021-08-04
+724,Daniel,Martin,customer724@example.com,Kansas City,MO,Central,United States,Corporate,2022-10-05
+725,Jennifer,Hernandez,customer725@example.com,San Francisco,CA,West,United States,Individual,2019-10-11
+726,Karen,Lee,customer726@example.com,Detroit,MI,Central,United States,Individual,2020-06-30
+727,Susan,Garcia,customer727@example.com,Nashville,TN,Central,United States,Individual,2018-02-17
+728,Lisa,Rodriguez,customer728@example.com,Miami,FL,East,United States,Reseller,2021-12-06
+729,Jennifer,Gonzalez,customer729@example.com,Portland,OR,West,United States,Individual,2018-05-11
+730,Mary,Smith,customer730@example.com,Anchorage,AK,Northwest,United States,Corporate,2020-12-09
+731,David,Martin,customer731@example.com,San Francisco,CA,West,United States,Individual,2021-09-03
+732,Linda,Davis,customer732@example.com,Spokane,WA,Northwest,United States,Corporate,2020-06-26
+733,Thomas,Clark,customer733@example.com,Philadelphia,PA,East,United States,Individual,2018-03-13
+734,Margaret,Thomas,customer734@example.com,St. Louis,MO,Central,United States,Individual,2022-11-19
+735,Robert,Thompson,customer735@example.com,Nashville,TN,Central,United States,Corporate,2021-04-25
+736,Nancy,Lee,customer736@example.com,Helena,MT,Northwest,United States,Reseller,2020-06-09
+737,Jessica,Moore,customer737@example.com,St. Louis,MO,Central,United States,Individual,2018-07-03
+738,Barbara,Wilson,customer738@example.com,Spokane,WA,Northwest,United States,Individual,2019-09-14
+739,Thomas,Clark,customer739@example.com,Los Angeles,CA,West,United States,Corporate,2018-10-07
+740,Jessica,Moore,customer740@example.com,Detroit,MI,Central,United States,Individual,2020-10-04
+741,James,Harris,customer741@example.com,Spokane,WA,Northwest,United States,Individual,2019-08-23
+742,Sarah,Lopez,customer742@example.com,New York,NY,East,United States,Individual,2021-02-22
+743,Linda,Garcia,customer743@example.com,Eugene,OR,Northwest,United States,Corporate,2021-08-15
+744,Linda,Rodriguez,customer744@example.com,Eugene,OR,Northwest,United States,Individual,2021-07-04
+745,Elizabeth,Lee,customer745@example.com,Atlanta,GA,East,United States,Corporate,2022-07-15
+746,Michael,Ramirez,customer746@example.com,Kansas City,MO,Central,United States,Individual,2018-10-07
+747,Daniel,Anderson,customer747@example.com,Dallas,TX,Central,United States,Corporate,2019-07-12
+748,William,Smith,customer748@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-12-31
+749,Patricia,Martinez,customer749@example.com,Seattle,WA,West,United States,Individual,2022-01-04
+750,James,Davis,customer750@example.com,Helena,MT,Northwest,United States,Individual,2018-01-31
+751,William,Wilson,customer751@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-06-26
+752,Joseph,Thompson,customer752@example.com,Spokane,WA,Northwest,United States,Corporate,2019-11-08
+753,Mary,Rodriguez,customer753@example.com,Seattle,WA,West,United States,Corporate,2018-05-27
+754,Michael,Lewis,customer754@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-08-01
+755,Patricia,Harris,customer755@example.com,Boise,ID,Northwest,United States,Corporate,2020-02-28
+756,Nancy,Johnson,customer756@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-02-14
+757,Jessica,Gonzalez,customer757@example.com,Portland,OR,West,United States,Corporate,2019-10-02
+758,Daniel,White,customer758@example.com,Houston,TX,Central,United States,Individual,2021-01-30
+759,Jessica,Lee,customer759@example.com,Denver,CO,West,United States,Individual,2020-01-09
+760,Patricia,Davis,customer760@example.com,Portland,OR,West,United States,Corporate,2019-10-27
+761,Betty,Rodriguez,customer761@example.com,Seattle,WA,West,United States,Corporate,2020-03-21
+762,Mary,Jackson,customer762@example.com,New York,NY,East,United States,Corporate,2020-08-31
+763,Anthony,Williams,customer763@example.com,Charlotte,NC,East,United States,Individual,2020-10-20
+764,Sandra,Harris,customer764@example.com,Phoenix,AZ,West,United States,Corporate,2018-05-03
+765,Matthew,Moore,customer765@example.com,Houston,TX,Central,United States,Corporate,2018-09-15
+766,William,Moore,customer766@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2022-03-30
+767,Nancy,Miller,customer767@example.com,Nashville,TN,Central,United States,Individual,2020-02-13
+768,David,Lewis,customer768@example.com,Houston,TX,Central,United States,Individual,2021-12-18
+769,Elizabeth,Moore,customer769@example.com,Anchorage,AK,Northwest,United States,Corporate,2019-01-24
+770,William,White,customer770@example.com,Charlotte,NC,East,United States,Individual,2022-11-12
+771,Thomas,Jones,customer771@example.com,Boston,MA,East,United States,Individual,2022-08-06
+772,Joseph,Smith,customer772@example.com,St. Louis,MO,Central,United States,Corporate,2020-11-02
+773,Jennifer,Lewis,customer773@example.com,Helena,MT,Northwest,United States,Individual,2022-10-21
+774,William,White,customer774@example.com,Minneapolis,MN,Central,United States,Individual,2021-01-08
+775,Thomas,Perez,customer775@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-02-03
+776,William,Wilson,customer776@example.com,Atlanta,GA,East,United States,Corporate,2018-08-15
+777,Mary,Clark,customer777@example.com,San Francisco,CA,West,United States,Reseller,2019-01-01
+778,Patricia,Thomas,customer778@example.com,Portland,OR,West,United States,Individual,2018-03-07
+779,Jessica,Taylor,customer779@example.com,Helena,MT,Northwest,United States,Corporate,2021-04-23
+780,Barbara,Davis,customer780@example.com,Chicago,IL,Central,United States,Corporate,2018-05-26
+781,Daniel,Thomas,customer781@example.com,Portland,OR,West,United States,Reseller,2022-09-01
+782,Betty,Lee,customer782@example.com,San Diego,CA,West,United States,Individual,2021-02-16
+783,Betty,Thompson,customer783@example.com,Spokane,WA,Northwest,United States,Individual,2021-06-17
+784,Nancy,Williams,customer784@example.com,Chicago,IL,Central,United States,Reseller,2018-06-09
+785,Patricia,White,customer785@example.com,Boston,MA,East,United States,Individual,2020-02-29
+786,Thomas,Perez,customer786@example.com,Miami,FL,East,United States,Individual,2021-07-04
+787,Nancy,Brown,customer787@example.com,Washington,DC,East,United States,Corporate,2021-03-26
+788,Matthew,Perez,customer788@example.com,Nashville,TN,Central,United States,Individual,2018-08-02
+789,Sarah,Gonzalez,customer789@example.com,Philadelphia,PA,East,United States,Corporate,2021-09-08
+790,Sandra,Lopez,customer790@example.com,Baltimore,MD,East,United States,Reseller,2021-01-31
+791,Susan,Harris,customer791@example.com,St. Louis,MO,Central,United States,Corporate,2022-08-19
+792,Christopher,Moore,customer792@example.com,Minneapolis,MN,Central,United States,Individual,2022-04-18
+793,Joseph,Anderson,customer793@example.com,St. Louis,MO,Central,United States,Reseller,2018-01-01
+794,Karen,Smith,customer794@example.com,Denver,CO,West,United States,Corporate,2019-09-11
+795,Linda,Miller,customer795@example.com,Denver,CO,West,United States,Reseller,2018-02-14
+796,Patricia,Johnson,customer796@example.com,Houston,TX,Central,United States,Individual,2018-11-16
+797,Barbara,Lewis,customer797@example.com,Atlanta,GA,East,United States,Corporate,2019-04-23
+798,John,Jackson,customer798@example.com,Detroit,MI,Central,United States,Individual,2019-03-22
+799,Betty,Thomas,customer799@example.com,Phoenix,AZ,West,United States,Individual,2022-08-19
+800,Mary,White,customer800@example.com,Denver,CO,West,United States,Reseller,2020-02-21
+801,Sandra,Harris,customer801@example.com,Los Angeles,CA,West,United States,Individual,2022-08-01
+802,Sandra,Ramirez,customer802@example.com,Eugene,OR,Northwest,United States,Individual,2022-04-27
+803,Daniel,Harris,customer803@example.com,New York,NY,East,United States,Corporate,2018-04-21
+804,William,Moore,customer804@example.com,Chicago,IL,Central,United States,Corporate,2019-11-01
+805,Mary,Perez,customer805@example.com,Philadelphia,PA,East,United States,Corporate,2020-03-15
+806,Christopher,Taylor,customer806@example.com,Anchorage,AK,Northwest,United States,Individual,2020-06-03
+807,Robert,Jones,customer807@example.com,Kansas City,MO,Central,United States,Individual,2020-09-01
+808,David,Williams,customer808@example.com,Las Vegas,NV,West,United States,Individual,2020-06-08
+809,Jessica,Moore,customer809@example.com,Philadelphia,PA,East,United States,Individual,2020-03-20
+810,Linda,Williams,customer810@example.com,Miami,FL,East,United States,Individual,2020-05-30
+811,Patricia,Perez,customer811@example.com,Dallas,TX,Central,United States,Individual,2020-01-19
+812,William,Lopez,customer812@example.com,Minneapolis,MN,Central,United States,Corporate,2018-02-19
+813,Barbara,Martin,customer813@example.com,Houston,TX,Central,United States,Reseller,2022-07-03
+814,Robert,Anderson,customer814@example.com,Anchorage,AK,Northwest,United States,Individual,2022-08-03
+815,Lisa,Lopez,customer815@example.com,Miami,FL,East,United States,Individual,2022-01-31
+816,Nancy,Johnson,customer816@example.com,San Francisco,CA,West,United States,Individual,2021-06-25
+817,James,Hernandez,customer817@example.com,Atlanta,GA,East,United States,Corporate,2018-08-16
+818,Jessica,Smith,customer818@example.com,Nashville,TN,Central,United States,Individual,2022-02-24
+819,Sarah,Taylor,customer819@example.com,Miami,FL,East,United States,Corporate,2021-01-28
+820,Nancy,Jones,customer820@example.com,Anchorage,AK,Northwest,United States,Corporate,2021-09-30
+821,Christopher,Lewis,customer821@example.com,Las Vegas,NV,West,United States,Corporate,2018-03-31
+822,Mary,Martinez,customer822@example.com,Houston,TX,Central,United States,Individual,2021-11-27
+823,Joseph,Lee,customer823@example.com,Chicago,IL,Central,United States,Reseller,2018-05-17
+824,David,Perez,customer824@example.com,Helena,MT,Northwest,United States,Reseller,2021-09-13
+825,James,Martinez,customer825@example.com,Dallas,TX,Central,United States,Reseller,2021-08-22
+826,Richard,Taylor,customer826@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2018-07-23
+827,Margaret,Martin,customer827@example.com,Nashville,TN,Central,United States,Corporate,2019-01-17
+828,Sarah,Robinson,customer828@example.com,Baltimore,MD,East,United States,Corporate,2018-03-23
+829,William,Thomas,customer829@example.com,Atlanta,GA,East,United States,Individual,2018-11-18
+830,Lisa,Lopez,customer830@example.com,Phoenix,AZ,West,United States,Individual,2019-09-12
+831,Betty,Johnson,customer831@example.com,Atlanta,GA,East,United States,Corporate,2022-12-05
+832,Sarah,Rodriguez,customer832@example.com,Boise,ID,Northwest,United States,Individual,2019-12-01
+833,Robert,Williams,customer833@example.com,Helena,MT,Northwest,United States,Corporate,2020-12-02
+834,Linda,Jackson,customer834@example.com,Washington,DC,East,United States,Individual,2019-10-02
+835,Sarah,Jones,customer835@example.com,Nashville,TN,Central,United States,Individual,2018-10-11
+836,Elizabeth,Thompson,customer836@example.com,Philadelphia,PA,East,United States,Corporate,2020-12-08
+837,Sandra,Harris,customer837@example.com,Washington,DC,East,United States,Individual,2021-03-02
+838,John,Moore,customer838@example.com,Charlotte,NC,East,United States,Corporate,2022-01-13
+839,William,Clark,customer839@example.com,Seattle,WA,West,United States,Reseller,2022-01-29
+840,Donald,Wilson,customer840@example.com,Phoenix,AZ,West,United States,Reseller,2019-09-14
+841,Sandra,Clark,customer841@example.com,Helena,MT,Northwest,United States,Reseller,2022-02-21
+842,Anthony,Miller,customer842@example.com,Houston,TX,Central,United States,Individual,2019-01-14
+843,Karen,Jackson,customer843@example.com,Denver,CO,West,United States,Corporate,2021-05-06
+844,Lisa,Smith,customer844@example.com,Miami,FL,East,United States,Individual,2021-11-10
+845,Thomas,Ramirez,customer845@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-12-29
+846,Margaret,Gonzalez,customer846@example.com,Houston,TX,Central,United States,Individual,2018-10-09
+847,Linda,Johnson,customer847@example.com,Miami,FL,East,United States,Individual,2018-01-31
+848,Linda,White,customer848@example.com,Kansas City,MO,Central,United States,Corporate,2019-02-20
+849,Jennifer,Robinson,customer849@example.com,Boston,MA,East,United States,Reseller,2020-06-18
+850,William,Ramirez,customer850@example.com,Helena,MT,Northwest,United States,Individual,2019-05-21
+851,Anthony,Johnson,customer851@example.com,Eugene,OR,Northwest,United States,Corporate,2022-08-16
+852,William,Gonzalez,customer852@example.com,Helena,MT,Northwest,United States,Corporate,2022-03-01
+853,Joseph,Anderson,customer853@example.com,San Francisco,CA,West,United States,Reseller,2018-03-28
+854,Nancy,Johnson,customer854@example.com,Washington,DC,East,United States,Corporate,2020-11-23
+855,Elizabeth,Anderson,customer855@example.com,Portland,OR,West,United States,Individual,2019-09-16
+856,Jennifer,Wilson,customer856@example.com,Nashville,TN,Central,United States,Individual,2018-04-22
+857,Mark,Lee,customer857@example.com,Baltimore,MD,East,United States,Individual,2022-01-19
+858,Anthony,Jackson,customer858@example.com,Seattle,WA,West,United States,Reseller,2021-11-26
+859,Susan,Hernandez,customer859@example.com,Washington,DC,East,United States,Individual,2019-01-02
+860,Donald,Thompson,customer860@example.com,Anchorage,AK,Northwest,United States,Reseller,2020-07-20
+861,William,Thompson,customer861@example.com,Denver,CO,West,United States,Corporate,2021-12-28
+862,John,Brown,customer862@example.com,Boston,MA,East,United States,Corporate,2021-07-22
+863,Thomas,Thompson,customer863@example.com,Dallas,TX,Central,United States,Individual,2022-06-09
+864,Sarah,Gonzalez,customer864@example.com,Washington,DC,East,United States,Individual,2018-12-16
+865,Jennifer,Ramirez,customer865@example.com,Houston,TX,Central,United States,Individual,2022-04-25
+866,Elizabeth,Martinez,customer866@example.com,Las Vegas,NV,West,United States,Corporate,2020-07-02
+867,Patricia,Lewis,customer867@example.com,Houston,TX,Central,United States,Individual,2019-02-20
+868,James,Anderson,customer868@example.com,Denver,CO,West,United States,Individual,2020-10-18
+869,Linda,Miller,customer869@example.com,San Diego,CA,West,United States,Corporate,2020-09-01
+870,Joseph,Williams,customer870@example.com,Eugene,OR,Northwest,United States,Corporate,2018-01-14
+871,Karen,Lee,customer871@example.com,Atlanta,GA,East,United States,Corporate,2022-08-18
+872,Jennifer,Jones,customer872@example.com,New York,NY,East,United States,Individual,2019-12-16
+873,Margaret,Johnson,customer873@example.com,Seattle,WA,West,United States,Corporate,2022-09-13
+874,Sandra,Williams,customer874@example.com,St. Louis,MO,Central,United States,Individual,2020-05-03
+875,Lisa,Martinez,customer875@example.com,Philadelphia,PA,East,United States,Corporate,2021-11-17
+876,Nancy,Jackson,customer876@example.com,Baltimore,MD,East,United States,Individual,2018-03-15
+877,William,Lopez,customer877@example.com,Denver,CO,West,United States,Reseller,2022-08-07
+878,Mark,Moore,customer878@example.com,Las Vegas,NV,West,United States,Individual,2020-08-22
+879,Matthew,Ramirez,customer879@example.com,Boston,MA,East,United States,Individual,2020-12-15
+880,Michael,Thompson,customer880@example.com,Anchorage,AK,Northwest,United States,Individual,2018-04-30
+881,Jessica,White,customer881@example.com,San Francisco,CA,West,United States,Corporate,2022-06-03
+882,Karen,Ramirez,customer882@example.com,Kansas City,MO,Central,United States,Individual,2020-12-12
+883,Karen,Jackson,customer883@example.com,Houston,TX,Central,United States,Individual,2022-02-02
+884,Betty,Garcia,customer884@example.com,Eugene,OR,Northwest,United States,Reseller,2019-04-22
+885,James,Brown,customer885@example.com,Minneapolis,MN,Central,United States,Individual,2021-07-04
+886,Betty,Martin,customer886@example.com,Portland,OR,West,United States,Reseller,2020-04-27
+887,Barbara,Moore,customer887@example.com,Phoenix,AZ,West,United States,Reseller,2019-03-11
+888,Matthew,Martinez,customer888@example.com,Portland,OR,West,United States,Individual,2018-05-19
+889,Thomas,Moore,customer889@example.com,Detroit,MI,Central,United States,Individual,2018-01-13
+890,William,Gonzalez,customer890@example.com,Phoenix,AZ,West,United States,Corporate,2021-06-15
+891,Michael,Hernandez,customer891@example.com,Seattle,WA,West,United States,Reseller,2021-10-09
+892,Betty,Johnson,customer892@example.com,Eugene,OR,Northwest,United States,Corporate,2020-09-13
+893,Donald,Ramirez,customer893@example.com,Baltimore,MD,East,United States,Corporate,2019-11-18
+894,Sandra,White,customer894@example.com,Eugene,OR,Northwest,United States,Individual,2020-12-03
+895,Sarah,Moore,customer895@example.com,St. Louis,MO,Central,United States,Individual,2021-03-28
+896,John,Jones,customer896@example.com,St. Louis,MO,Central,United States,Individual,2018-03-05
+897,Daniel,Moore,customer897@example.com,Kansas City,MO,Central,United States,Reseller,2021-03-15
+898,Karen,Brown,customer898@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-03-20
+899,Matthew,Johnson,customer899@example.com,St. Louis,MO,Central,United States,Individual,2018-06-27
+900,Barbara,Anderson,customer900@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2019-09-12
+901,Jennifer,Brown,customer901@example.com,Atlanta,GA,East,United States,Individual,2018-03-18
+902,Joseph,Taylor,customer902@example.com,Boston,MA,East,United States,Individual,2020-09-15
+903,William,Robinson,customer903@example.com,Miami,FL,East,United States,Individual,2022-11-25
+904,Robert,Harris,customer904@example.com,St. Louis,MO,Central,United States,Reseller,2022-08-11
+905,Nancy,Johnson,customer905@example.com,Miami,FL,East,United States,Individual,2022-01-01
+906,Elizabeth,Robinson,customer906@example.com,Los Angeles,CA,West,United States,Individual,2022-10-03
+907,Joseph,Lewis,customer907@example.com,Phoenix,AZ,West,United States,Individual,2020-12-02
+908,Christopher,Harris,customer908@example.com,Chicago,IL,Central,United States,Individual,2019-03-06
+909,Michael,Martinez,customer909@example.com,Minneapolis,MN,Central,United States,Individual,2019-10-16
+910,Patricia,Rodriguez,customer910@example.com,Helena,MT,Northwest,United States,Individual,2019-07-15
+911,Karen,Moore,customer911@example.com,Los Angeles,CA,West,United States,Corporate,2019-02-28
+912,David,Jones,customer912@example.com,St. Louis,MO,Central,United States,Reseller,2022-07-05
+913,Jennifer,Williams,customer913@example.com,Minneapolis,MN,Central,United States,Individual,2019-11-25
+914,Robert,Smith,customer914@example.com,Boise,ID,Northwest,United States,Individual,2021-10-15
+915,Richard,Johnson,customer915@example.com,San Francisco,CA,West,United States,Individual,2020-03-13
+916,Karen,Lopez,customer916@example.com,Baltimore,MD,East,United States,Individual,2022-08-02
+917,Sandra,Harris,customer917@example.com,Boston,MA,East,United States,Corporate,2021-03-08
+918,Mark,Sanchez,customer918@example.com,Boston,MA,East,United States,Reseller,2020-08-17
+919,Elizabeth,Perez,customer919@example.com,San Diego,CA,West,United States,Corporate,2022-04-19
+920,Linda,Davis,customer920@example.com,Eugene,OR,Northwest,United States,Individual,2021-06-17
+921,Richard,Garcia,customer921@example.com,St. Louis,MO,Central,United States,Corporate,2021-09-24
+922,Joseph,Thomas,customer922@example.com,St. Louis,MO,Central,United States,Individual,2020-08-31
+923,Jessica,Anderson,customer923@example.com,Phoenix,AZ,West,United States,Reseller,2019-08-02
+924,Thomas,Brown,customer924@example.com,Houston,TX,Central,United States,Individual,2022-01-02
+925,Sarah,Lee,customer925@example.com,Phoenix,AZ,West,United States,Individual,2019-09-11
+926,Christopher,Wilson,customer926@example.com,Eugene,OR,Northwest,United States,Individual,2019-05-15
+927,Richard,Williams,customer927@example.com,Baltimore,MD,East,United States,Individual,2022-07-25
+928,Christopher,Sanchez,customer928@example.com,Eugene,OR,Northwest,United States,Individual,2021-11-22
+929,Lisa,Perez,customer929@example.com,Philadelphia,PA,East,United States,Individual,2021-12-28
+930,Christopher,Martin,customer930@example.com,Boise,ID,Northwest,United States,Individual,2021-02-10
+931,Jennifer,Martinez,customer931@example.com,San Diego,CA,West,United States,Reseller,2018-05-23
+932,William,Thomas,customer932@example.com,Las Vegas,NV,West,United States,Corporate,2018-05-06
+933,Mark,Jones,customer933@example.com,Portland,OR,West,United States,Reseller,2022-03-27
+934,Lisa,Jones,customer934@example.com,Seattle,WA,West,United States,Individual,2019-08-20
+935,Christopher,Anderson,customer935@example.com,Anchorage,AK,Northwest,United States,Individual,2021-10-27
+936,Christopher,Sanchez,customer936@example.com,Detroit,MI,Central,United States,Reseller,2019-09-16
+937,Sandra,Lopez,customer937@example.com,Helena,MT,Northwest,United States,Reseller,2021-04-08
+938,Margaret,Jones,customer938@example.com,Las Vegas,NV,West,United States,Reseller,2018-05-08
+939,James,Thompson,customer939@example.com,Chicago,IL,Central,United States,Corporate,2020-01-06
+940,Margaret,Smith,customer940@example.com,Denver,CO,West,United States,Individual,2021-12-09
+941,William,Thompson,customer941@example.com,Helena,MT,Northwest,United States,Individual,2020-02-21
+942,Michael,Perez,customer942@example.com,Anchorage,AK,Northwest,United States,Individual,2018-10-12
+943,Mark,Robinson,customer943@example.com,Washington,DC,East,United States,Individual,2020-05-04
+944,Margaret,Perez,customer944@example.com,Atlanta,GA,East,United States,Individual,2018-01-24
+945,Robert,White,customer945@example.com,Los Angeles,CA,West,United States,Reseller,2021-09-09
+946,John,Jones,customer946@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-05-01
+947,Karen,Robinson,customer947@example.com,Helena,MT,Northwest,United States,Individual,2019-01-04
+948,Susan,Moore,customer948@example.com,Anchorage,AK,Northwest,United States,Reseller,2020-02-27
+949,Jennifer,Wilson,customer949@example.com,Minneapolis,MN,Central,United States,Corporate,2021-03-29
+950,Linda,Thompson,customer950@example.com,Helena,MT,Northwest,United States,Corporate,2020-04-21
+951,Mary,Jackson,customer951@example.com,Chicago,IL,Central,United States,Individual,2020-01-25
+952,Matthew,Williams,customer952@example.com,San Diego,CA,West,United States,Individual,2022-02-06
+953,Thomas,Williams,customer953@example.com,Nashville,TN,Central,United States,Corporate,2021-06-03
+954,Jessica,Lee,customer954@example.com,Portland,OR,West,United States,Corporate,2021-10-01
+955,Karen,Johnson,customer955@example.com,Denver,CO,West,United States,Reseller,2020-12-31
+956,Joseph,Taylor,customer956@example.com,San Diego,CA,West,United States,Reseller,2021-03-21
+957,Barbara,Sanchez,customer957@example.com,Kansas City,MO,Central,United States,Individual,2018-12-10
+958,Nancy,Sanchez,customer958@example.com,Denver,CO,West,United States,Corporate,2018-05-06
+959,Jennifer,Jackson,customer959@example.com,Anchorage,AK,Northwest,United States,Individual,2019-08-21
+960,Jessica,Williams,customer960@example.com,Denver,CO,West,United States,Individual,2018-06-07
+961,Robert,Martin,customer961@example.com,Detroit,MI,Central,United States,Individual,2022-10-23
+962,Nancy,Brown,customer962@example.com,Chicago,IL,Central,United States,Corporate,2021-04-26
+963,Barbara,Sanchez,customer963@example.com,Baltimore,MD,East,United States,Individual,2022-05-22
+964,Jennifer,Sanchez,customer964@example.com,Baltimore,MD,East,United States,Corporate,2018-03-09
+965,Robert,Martin,customer965@example.com,Dallas,TX,Central,United States,Reseller,2018-11-12
+966,Anthony,Gonzalez,customer966@example.com,Eugene,OR,Northwest,United States,Individual,2020-06-20
+967,Christopher,White,customer967@example.com,Miami,FL,East,United States,Reseller,2018-04-22
+968,Mary,Garcia,customer968@example.com,Dallas,TX,Central,United States,Individual,2020-09-02
+969,Nancy,Harris,customer969@example.com,Nashville,TN,Central,United States,Reseller,2019-04-24
+970,Matthew,Gonzalez,customer970@example.com,Helena,MT,Northwest,United States,Individual,2018-10-25
+971,Elizabeth,Robinson,customer971@example.com,Boise,ID,Northwest,United States,Corporate,2020-02-22
+972,Patricia,Robinson,customer972@example.com,Chicago,IL,Central,United States,Corporate,2019-12-26
+973,Sandra,Lee,customer973@example.com,Anchorage,AK,Northwest,United States,Reseller,2019-11-18
+974,Betty,Brown,customer974@example.com,Detroit,MI,Central,United States,Individual,2021-04-11
+975,Anthony,Perez,customer975@example.com,Eugene,OR,Northwest,United States,Corporate,2022-02-12
+976,Lisa,Thompson,customer976@example.com,Charlotte,NC,East,United States,Reseller,2019-10-04
+977,Mark,Williams,customer977@example.com,Los Angeles,CA,West,United States,Individual,2018-07-20
+978,Barbara,Davis,customer978@example.com,San Diego,CA,West,United States,Corporate,2019-05-31
+979,James,Martin,customer979@example.com,New York,NY,East,United States,Individual,2021-05-01
+980,Matthew,Brown,customer980@example.com,Boston,MA,East,United States,Individual,2021-05-23
+981,Lisa,Harris,customer981@example.com,Washington,DC,East,United States,Reseller,2021-03-05
+982,Matthew,Garcia,customer982@example.com,Boston,MA,East,United States,Individual,2020-08-14
+983,Sandra,Rodriguez,customer983@example.com,San Diego,CA,West,United States,Corporate,2021-11-18
+984,Jennifer,Harris,customer984@example.com,Detroit,MI,Central,United States,Individual,2022-05-11
+985,Richard,Hernandez,customer985@example.com,Las Vegas,NV,West,United States,Reseller,2019-06-13
+986,Joseph,Williams,customer986@example.com,Houston,TX,Central,United States,Individual,2019-02-15
+987,Daniel,Thomas,customer987@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-01-12
+988,Karen,Lee,customer988@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-06-23
+989,Mary,Williams,customer989@example.com,Dallas,TX,Central,United States,Individual,2022-01-30
+990,James,Lewis,customer990@example.com,Nashville,TN,Central,United States,Individual,2021-08-30
+991,Lisa,Gonzalez,customer991@example.com,Los Angeles,CA,West,United States,Individual,2021-12-04
+992,Christopher,Smith,customer992@example.com,Kansas City,MO,Central,United States,Corporate,2022-04-28
+993,Susan,Gonzalez,customer993@example.com,Eugene,OR,Northwest,United States,Reseller,2022-05-19
+994,James,Gonzalez,customer994@example.com,Portland,OR,West,United States,Reseller,2022-08-03
+995,Christopher,Moore,customer995@example.com,Boise,ID,Northwest,United States,Reseller,2020-01-06
+996,Richard,Johnson,customer996@example.com,Detroit,MI,Central,United States,Corporate,2021-08-18
+997,Sarah,Ramirez,customer997@example.com,Phoenix,AZ,West,United States,Reseller,2018-06-14
+998,Daniel,Miller,customer998@example.com,Spokane,WA,Northwest,United States,Individual,2018-03-22
+999,Michael,Martinez,customer999@example.com,Helena,MT,Northwest,United States,Corporate,2018-08-07
+1000,John,Lewis,customer1000@example.com,Nashville,TN,Central,United States,Corporate,2022-02-14
+1001,Mary,Miller,customer1001@example.com,Philadelphia,PA,East,United States,Individual,2021-04-29
+1002,Richard,Williams,customer1002@example.com,Baltimore,MD,East,United States,Corporate,2021-08-10
+1003,Sarah,Clark,customer1003@example.com,Nashville,TN,Central,United States,Reseller,2018-02-03
+1004,Mary,Hernandez,customer1004@example.com,Phoenix,AZ,West,United States,Corporate,2018-03-29
+1005,Michael,Sanchez,customer1005@example.com,Boise,ID,Northwest,United States,Corporate,2020-12-07
+1006,Margaret,Ramirez,customer1006@example.com,Helena,MT,Northwest,United States,Corporate,2022-02-26
+1007,Mary,White,customer1007@example.com,Boston,MA,East,United States,Individual,2021-09-01
+1008,Sandra,Robinson,customer1008@example.com,San Diego,CA,West,United States,Corporate,2019-05-13
+1009,Jennifer,Lee,customer1009@example.com,New York,NY,East,United States,Individual,2019-09-22
+1010,Karen,Garcia,customer1010@example.com,San Diego,CA,West,United States,Reseller,2018-05-11
+1011,Jessica,Martin,customer1011@example.com,San Francisco,CA,West,United States,Corporate,2019-03-28
+1012,Susan,Hernandez,customer1012@example.com,Portland,OR,West,United States,Reseller,2022-02-20
+1013,Patricia,Perez,customer1013@example.com,Spokane,WA,Northwest,United States,Corporate,2018-10-09
+1014,Anthony,Johnson,customer1014@example.com,Minneapolis,MN,Central,United States,Corporate,2019-11-19
+1015,David,Jones,customer1015@example.com,San Francisco,CA,West,United States,Corporate,2018-12-11
+1016,Joseph,Davis,customer1016@example.com,Houston,TX,Central,United States,Reseller,2018-03-25
+1017,Betty,Ramirez,customer1017@example.com,Boston,MA,East,United States,Corporate,2020-02-10
+1018,Donald,Thomas,customer1018@example.com,New York,NY,East,United States,Individual,2018-01-15
+1019,Matthew,Lee,customer1019@example.com,Boston,MA,East,United States,Corporate,2019-08-05
+1020,Betty,Sanchez,customer1020@example.com,Helena,MT,Northwest,United States,Corporate,2021-11-18
+1021,Robert,Lee,customer1021@example.com,Miami,FL,East,United States,Individual,2020-07-11
+1022,Jennifer,Martin,customer1022@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-05-06
+1023,Karen,Williams,customer1023@example.com,Baltimore,MD,East,United States,Corporate,2022-05-22
+1024,Susan,Smith,customer1024@example.com,St. Louis,MO,Central,United States,Corporate,2019-01-29
+1025,Karen,Lopez,customer1025@example.com,San Francisco,CA,West,United States,Reseller,2021-01-10
+1026,Anthony,Lee,customer1026@example.com,Baltimore,MD,East,United States,Corporate,2019-07-21
+1027,Patricia,Sanchez,customer1027@example.com,Portland,OR,West,United States,Individual,2022-09-25
+1028,Jennifer,Garcia,customer1028@example.com,Eugene,OR,Northwest,United States,Corporate,2018-03-30
+1029,Elizabeth,Miller,customer1029@example.com,Phoenix,AZ,West,United States,Individual,2019-11-16
+1030,Patricia,White,customer1030@example.com,Boise,ID,Northwest,United States,Individual,2021-01-05
+1031,Betty,Smith,customer1031@example.com,Philadelphia,PA,East,United States,Individual,2018-08-26
+1032,Nancy,Anderson,customer1032@example.com,Portland,OR,West,United States,Corporate,2019-10-30
+1033,Nancy,Perez,customer1033@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2019-04-17
+1034,Linda,Brown,customer1034@example.com,Phoenix,AZ,West,United States,Individual,2020-04-24
+1035,Donald,Davis,customer1035@example.com,Washington,DC,East,United States,Individual,2021-04-13
+1036,Donald,Wilson,customer1036@example.com,Boise,ID,Northwest,United States,Individual,2021-06-02
+1037,Richard,Lopez,customer1037@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-01-14
+1038,David,Miller,customer1038@example.com,Charlotte,NC,East,United States,Individual,2018-03-07
+1039,Robert,Brown,customer1039@example.com,Denver,CO,West,United States,Reseller,2020-07-28
+1040,Anthony,Hernandez,customer1040@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-08-28
+1041,Christopher,Moore,customer1041@example.com,Philadelphia,PA,East,United States,Reseller,2018-06-27
+1042,Jessica,Ramirez,customer1042@example.com,Anchorage,AK,Northwest,United States,Reseller,2021-04-26
+1043,David,Smith,customer1043@example.com,Eugene,OR,Northwest,United States,Corporate,2022-02-16
+1044,William,Wilson,customer1044@example.com,Miami,FL,East,United States,Corporate,2021-04-26
+1045,Susan,Johnson,customer1045@example.com,New York,NY,East,United States,Individual,2020-08-21
+1046,Thomas,Gonzalez,customer1046@example.com,Las Vegas,NV,West,United States,Individual,2022-06-23
+1047,Jessica,Davis,customer1047@example.com,San Diego,CA,West,United States,Individual,2022-03-23
+1048,Michael,Jones,customer1048@example.com,Las Vegas,NV,West,United States,Individual,2019-05-05
+1049,Jessica,Perez,customer1049@example.com,Los Angeles,CA,West,United States,Individual,2021-12-11
+1050,Nancy,Jackson,customer1050@example.com,Anchorage,AK,Northwest,United States,Individual,2020-07-20
+1051,Margaret,Thompson,customer1051@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-06-06
+1052,Matthew,Lee,customer1052@example.com,Nashville,TN,Central,United States,Individual,2021-07-08
+1053,Donald,Thompson,customer1053@example.com,Las Vegas,NV,West,United States,Individual,2018-03-08
+1054,Anthony,Rodriguez,customer1054@example.com,Kansas City,MO,Central,United States,Corporate,2021-06-08
+1055,Karen,Lewis,customer1055@example.com,Boston,MA,East,United States,Individual,2018-04-23
+1056,Patricia,Gonzalez,customer1056@example.com,Chicago,IL,Central,United States,Individual,2021-06-21
+1057,Barbara,Garcia,customer1057@example.com,Phoenix,AZ,West,United States,Corporate,2021-12-14
+1058,Robert,Hernandez,customer1058@example.com,Portland,OR,West,United States,Individual,2018-08-21
+1059,Anthony,Jackson,customer1059@example.com,Helena,MT,Northwest,United States,Reseller,2021-12-10
+1060,William,Lopez,customer1060@example.com,Miami,FL,East,United States,Reseller,2020-10-28
+1061,Mary,Williams,customer1061@example.com,Spokane,WA,Northwest,United States,Individual,2020-07-15
+1062,Thomas,Clark,customer1062@example.com,Anchorage,AK,Northwest,United States,Individual,2021-12-24
+1063,Karen,Lopez,customer1063@example.com,Nashville,TN,Central,United States,Corporate,2021-11-20
+1064,Donald,Lewis,customer1064@example.com,Portland,OR,West,United States,Individual,2018-06-14
+1065,Elizabeth,Williams,customer1065@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-07-20
+1066,Jessica,Jones,customer1066@example.com,Seattle,WA,West,United States,Reseller,2020-12-02
+1067,Susan,Perez,customer1067@example.com,Denver,CO,West,United States,Corporate,2018-09-28
+1068,Susan,Anderson,customer1068@example.com,Spokane,WA,Northwest,United States,Corporate,2018-02-13
+1069,John,Smith,customer1069@example.com,Minneapolis,MN,Central,United States,Reseller,2019-04-21
+1070,Christopher,Hernandez,customer1070@example.com,Kansas City,MO,Central,United States,Corporate,2022-05-31
+1071,Christopher,Perez,customer1071@example.com,Nashville,TN,Central,United States,Corporate,2022-09-21
+1072,Elizabeth,Jackson,customer1072@example.com,Eugene,OR,Northwest,United States,Individual,2022-06-05
+1073,Betty,Rodriguez,customer1073@example.com,Houston,TX,Central,United States,Individual,2020-02-01
+1074,Robert,Lopez,customer1074@example.com,Chicago,IL,Central,United States,Individual,2018-12-07
+1075,Jennifer,Garcia,customer1075@example.com,Atlanta,GA,East,United States,Reseller,2021-11-19
+1076,Linda,Brown,customer1076@example.com,Philadelphia,PA,East,United States,Individual,2019-10-11
+1077,David,Lopez,customer1077@example.com,Baltimore,MD,East,United States,Individual,2021-02-25
+1078,Barbara,Jones,customer1078@example.com,Phoenix,AZ,West,United States,Individual,2021-01-10
+1079,Patricia,Robinson,customer1079@example.com,Atlanta,GA,East,United States,Individual,2020-10-19
+1080,Sandra,Hernandez,customer1080@example.com,Baltimore,MD,East,United States,Individual,2022-02-21
+1081,Jessica,Lewis,customer1081@example.com,Detroit,MI,Central,United States,Individual,2022-03-25
+1082,William,Thompson,customer1082@example.com,Baltimore,MD,East,United States,Individual,2020-09-07
+1083,Lisa,Moore,customer1083@example.com,Seattle,WA,West,United States,Individual,2018-02-20
+1084,Mark,Davis,customer1084@example.com,Anchorage,AK,Northwest,United States,Individual,2018-07-09
+1085,Karen,Lee,customer1085@example.com,Chicago,IL,Central,United States,Individual,2020-12-14
+1086,Michael,Smith,customer1086@example.com,Atlanta,GA,East,United States,Individual,2022-10-06
+1087,Lisa,Williams,customer1087@example.com,Helena,MT,Northwest,United States,Reseller,2020-03-18
+1088,William,Martin,customer1088@example.com,Baltimore,MD,East,United States,Corporate,2018-04-25
+1089,Robert,Thompson,customer1089@example.com,Kansas City,MO,Central,United States,Reseller,2020-01-28
+1090,James,Martinez,customer1090@example.com,Spokane,WA,Northwest,United States,Individual,2019-09-23
+1091,John,Miller,customer1091@example.com,Anchorage,AK,Northwest,United States,Corporate,2020-06-28
+1092,Elizabeth,Garcia,customer1092@example.com,Eugene,OR,Northwest,United States,Reseller,2020-05-18
+1093,Mark,Jackson,customer1093@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2018-10-22
+1094,Jessica,Ramirez,customer1094@example.com,Atlanta,GA,East,United States,Corporate,2019-11-18
+1095,John,Smith,customer1095@example.com,Las Vegas,NV,West,United States,Individual,2019-07-14
+1096,Sarah,Anderson,customer1096@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2022-03-27
+1097,Jennifer,Clark,customer1097@example.com,Miami,FL,East,United States,Individual,2021-02-08
+1098,Mark,Clark,customer1098@example.com,Boise,ID,Northwest,United States,Individual,2021-04-13
+1099,Sarah,White,customer1099@example.com,Nashville,TN,Central,United States,Individual,2018-02-24
+1100,David,Martinez,customer1100@example.com,Seattle,WA,West,United States,Reseller,2022-09-05
+1101,Daniel,Perez,customer1101@example.com,Boise,ID,Northwest,United States,Reseller,2020-05-04
+1102,Sandra,Thompson,customer1102@example.com,Baltimore,MD,East,United States,Corporate,2018-02-28
+1103,Jessica,Williams,customer1103@example.com,Denver,CO,West,United States,Corporate,2020-01-11
+1104,Susan,Ramirez,customer1104@example.com,Anchorage,AK,Northwest,United States,Individual,2021-11-05
+1105,Mark,Brown,customer1105@example.com,Helena,MT,Northwest,United States,Individual,2022-02-10
+1106,Jennifer,Jackson,customer1106@example.com,Denver,CO,West,United States,Individual,2019-10-17
+1107,Robert,Lopez,customer1107@example.com,Helena,MT,Northwest,United States,Individual,2019-07-13
+1108,Daniel,Robinson,customer1108@example.com,Kansas City,MO,Central,United States,Reseller,2018-04-10
+1109,Thomas,Lee,customer1109@example.com,Detroit,MI,Central,United States,Reseller,2020-11-18
+1110,Anthony,Brown,customer1110@example.com,Philadelphia,PA,East,United States,Corporate,2018-12-09
+1111,Mark,Ramirez,customer1111@example.com,St. Louis,MO,Central,United States,Corporate,2019-09-09
+1112,Patricia,Moore,customer1112@example.com,St. Louis,MO,Central,United States,Corporate,2022-08-14
+1113,Robert,Taylor,customer1113@example.com,New York,NY,East,United States,Individual,2022-05-14
+1114,William,Robinson,customer1114@example.com,Eugene,OR,Northwest,United States,Reseller,2018-07-29
+1115,Thomas,Davis,customer1115@example.com,Philadelphia,PA,East,United States,Reseller,2022-06-17
+1116,Joseph,Robinson,customer1116@example.com,Las Vegas,NV,West,United States,Individual,2022-08-04
+1117,Jessica,Lopez,customer1117@example.com,New York,NY,East,United States,Individual,2020-01-13
+1118,Donald,Martin,customer1118@example.com,Baltimore,MD,East,United States,Corporate,2019-12-02
+1119,James,White,customer1119@example.com,Atlanta,GA,East,United States,Reseller,2019-04-01
+1120,Matthew,Davis,customer1120@example.com,Philadelphia,PA,East,United States,Individual,2019-03-06
+1121,Susan,Thompson,customer1121@example.com,Boston,MA,East,United States,Corporate,2018-08-17
+1122,Anthony,Thomas,customer1122@example.com,Los Angeles,CA,West,United States,Corporate,2018-03-29
+1123,Mary,Sanchez,customer1123@example.com,Boston,MA,East,United States,Corporate,2021-04-29
+1124,Patricia,Robinson,customer1124@example.com,San Diego,CA,West,United States,Individual,2018-05-16
+1125,Anthony,Brown,customer1125@example.com,Chicago,IL,Central,United States,Corporate,2021-05-17
+1126,Jennifer,Perez,customer1126@example.com,Miami,FL,East,United States,Individual,2018-07-05
+1127,Christopher,Lopez,customer1127@example.com,Atlanta,GA,East,United States,Individual,2022-10-18
+1128,Patricia,Clark,customer1128@example.com,Boston,MA,East,United States,Corporate,2018-01-29
+1129,Elizabeth,Garcia,customer1129@example.com,Miami,FL,East,United States,Reseller,2021-01-05
+1130,Sandra,Miller,customer1130@example.com,San Francisco,CA,West,United States,Reseller,2022-10-10
+1131,Matthew,Jackson,customer1131@example.com,Spokane,WA,Northwest,United States,Individual,2021-10-11
+1132,Mark,Lopez,customer1132@example.com,Seattle,WA,West,United States,Reseller,2020-05-18
+1133,Susan,Brown,customer1133@example.com,Miami,FL,East,United States,Corporate,2019-10-06
+1134,Patricia,Taylor,customer1134@example.com,San Diego,CA,West,United States,Individual,2022-04-11
+1135,Sarah,White,customer1135@example.com,Detroit,MI,Central,United States,Individual,2019-11-03
+1136,Richard,Martinez,customer1136@example.com,Boise,ID,Northwest,United States,Individual,2022-02-16
+1137,Linda,Moore,customer1137@example.com,Nashville,TN,Central,United States,Individual,2022-10-18
+1138,Margaret,Williams,customer1138@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-07-02
+1139,Barbara,Garcia,customer1139@example.com,Helena,MT,Northwest,United States,Individual,2021-10-12
+1140,Patricia,Gonzalez,customer1140@example.com,Helena,MT,Northwest,United States,Individual,2021-09-10
+1141,Robert,Gonzalez,customer1141@example.com,San Francisco,CA,West,United States,Individual,2021-04-24
+1142,John,Lopez,customer1142@example.com,Seattle,WA,West,United States,Reseller,2019-11-25
+1143,Patricia,Davis,customer1143@example.com,Washington,DC,East,United States,Reseller,2022-01-25
+1144,Anthony,Thompson,customer1144@example.com,Spokane,WA,Northwest,United States,Corporate,2021-04-30
+1145,Barbara,Thomas,customer1145@example.com,Kansas City,MO,Central,United States,Corporate,2020-04-08
+1146,David,Jones,customer1146@example.com,Anchorage,AK,Northwest,United States,Corporate,2018-08-10
+1147,Jessica,Thomas,customer1147@example.com,Denver,CO,West,United States,Individual,2018-10-03
+1148,Nancy,Johnson,customer1148@example.com,San Francisco,CA,West,United States,Reseller,2020-10-17
+1149,Richard,Martin,customer1149@example.com,Seattle,WA,West,United States,Corporate,2018-11-09
+1150,Anthony,Williams,customer1150@example.com,Dallas,TX,Central,United States,Corporate,2020-11-30
+1151,Michael,Martinez,customer1151@example.com,Eugene,OR,Northwest,United States,Corporate,2020-10-01
+1152,Betty,Ramirez,customer1152@example.com,St. Louis,MO,Central,United States,Corporate,2018-02-06
+1153,Donald,Robinson,customer1153@example.com,Las Vegas,NV,West,United States,Individual,2020-07-10
+1154,Joseph,Anderson,customer1154@example.com,Kansas City,MO,Central,United States,Individual,2018-12-29
+1155,Jessica,Wilson,customer1155@example.com,Houston,TX,Central,United States,Individual,2022-01-05
+1156,Anthony,Brown,customer1156@example.com,Eugene,OR,Northwest,United States,Corporate,2020-10-01
+1157,Sarah,Ramirez,customer1157@example.com,Eugene,OR,Northwest,United States,Individual,2018-04-25
+1158,Jessica,Jackson,customer1158@example.com,Spokane,WA,Northwest,United States,Reseller,2021-06-17
+1159,William,Johnson,customer1159@example.com,Detroit,MI,Central,United States,Individual,2018-04-03
+1160,Barbara,Sanchez,customer1160@example.com,Charlotte,NC,East,United States,Corporate,2018-02-25
+1161,Patricia,Wilson,customer1161@example.com,Kansas City,MO,Central,United States,Individual,2020-01-02
+1162,Mary,Perez,customer1162@example.com,Spokane,WA,Northwest,United States,Individual,2019-04-26
+1163,Sandra,Thompson,customer1163@example.com,Dallas,TX,Central,United States,Individual,2019-09-17
+1164,Jennifer,Smith,customer1164@example.com,Phoenix,AZ,West,United States,Corporate,2018-03-18
+1165,Margaret,Wilson,customer1165@example.com,Helena,MT,Northwest,United States,Corporate,2020-05-12
+1166,Matthew,Thomas,customer1166@example.com,Chicago,IL,Central,United States,Corporate,2019-10-11
+1167,Richard,Hernandez,customer1167@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-07-14
+1168,Matthew,Perez,customer1168@example.com,Boise,ID,Northwest,United States,Individual,2020-10-14
+1169,Karen,Martinez,customer1169@example.com,Houston,TX,Central,United States,Individual,2020-06-11
+1170,Daniel,Ramirez,customer1170@example.com,Baltimore,MD,East,United States,Reseller,2018-06-04
+1171,David,Johnson,customer1171@example.com,Atlanta,GA,East,United States,Individual,2021-03-20
+1172,Karen,White,customer1172@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-01-09
+1173,David,Williams,customer1173@example.com,Phoenix,AZ,West,United States,Corporate,2020-12-23
+1174,Michael,Lopez,customer1174@example.com,Eugene,OR,Northwest,United States,Corporate,2021-08-27
+1175,Susan,Perez,customer1175@example.com,Detroit,MI,Central,United States,Corporate,2019-02-14
+1176,David,Martin,customer1176@example.com,Eugene,OR,Northwest,United States,Corporate,2021-10-07
+1177,Daniel,Thompson,customer1177@example.com,New York,NY,East,United States,Corporate,2019-01-18
+1178,Lisa,Clark,customer1178@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-08-15
+1179,Sandra,Jackson,customer1179@example.com,Kansas City,MO,Central,United States,Corporate,2018-05-03
+1180,Joseph,Jones,customer1180@example.com,Charlotte,NC,East,United States,Individual,2022-03-09
+1181,Susan,Hernandez,customer1181@example.com,Kansas City,MO,Central,United States,Reseller,2018-05-12
+1182,David,Clark,customer1182@example.com,Washington,DC,East,United States,Individual,2018-11-25
+1183,Richard,Davis,customer1183@example.com,Minneapolis,MN,Central,United States,Individual,2019-01-29
+1184,Betty,Clark,customer1184@example.com,Portland,OR,West,United States,Individual,2020-09-21
+1185,Daniel,Lewis,customer1185@example.com,Eugene,OR,Northwest,United States,Individual,2018-11-23
+1186,James,Rodriguez,customer1186@example.com,Houston,TX,Central,United States,Corporate,2019-07-23
+1187,Nancy,Thomas,customer1187@example.com,New York,NY,East,United States,Corporate,2018-04-24
+1188,Karen,Martinez,customer1188@example.com,Phoenix,AZ,West,United States,Reseller,2020-04-13
+1189,Richard,Clark,customer1189@example.com,Dallas,TX,Central,United States,Corporate,2018-10-15
+1190,Christopher,White,customer1190@example.com,Boston,MA,East,United States,Corporate,2018-09-05
+1191,Donald,Williams,customer1191@example.com,Nashville,TN,Central,United States,Individual,2018-09-08
+1192,Mark,Jackson,customer1192@example.com,St. Louis,MO,Central,United States,Corporate,2022-07-09
+1193,Michael,Jones,customer1193@example.com,Washington,DC,East,United States,Individual,2019-03-15
+1194,Susan,Rodriguez,customer1194@example.com,Nashville,TN,Central,United States,Reseller,2018-04-25
+1195,Barbara,Thompson,customer1195@example.com,Anchorage,AK,Northwest,United States,Reseller,2019-10-11
+1196,Lisa,Davis,customer1196@example.com,Eugene,OR,Northwest,United States,Reseller,2022-05-26
+1197,Jessica,Thompson,customer1197@example.com,Charlotte,NC,East,United States,Individual,2019-09-24
+1198,Mark,White,customer1198@example.com,Los Angeles,CA,West,United States,Corporate,2018-04-22
+1199,Sarah,Gonzalez,customer1199@example.com,Atlanta,GA,East,United States,Individual,2021-12-05
+1200,Sarah,Ramirez,customer1200@example.com,Dallas,TX,Central,United States,Individual,2020-06-25
+1201,Sandra,Gonzalez,customer1201@example.com,Boise,ID,Northwest,United States,Reseller,2019-06-08
+1202,Sandra,Clark,customer1202@example.com,Dallas,TX,Central,United States,Corporate,2019-09-02
+1203,Sandra,Anderson,customer1203@example.com,Philadelphia,PA,East,United States,Corporate,2022-07-22
+1204,David,Ramirez,customer1204@example.com,Boise,ID,Northwest,United States,Individual,2022-05-16
+1205,Nancy,Wilson,customer1205@example.com,Eugene,OR,Northwest,United States,Reseller,2019-11-13
+1206,Mark,Garcia,customer1206@example.com,Boise,ID,Northwest,United States,Corporate,2020-11-02
+1207,Susan,Martin,customer1207@example.com,Phoenix,AZ,West,United States,Corporate,2021-01-26
+1208,Matthew,Smith,customer1208@example.com,Nashville,TN,Central,United States,Corporate,2021-08-06
+1209,Betty,Lee,customer1209@example.com,Baltimore,MD,East,United States,Individual,2020-03-31
+1210,William,Jackson,customer1210@example.com,Atlanta,GA,East,United States,Individual,2018-11-20
+1211,Margaret,Martin,customer1211@example.com,Philadelphia,PA,East,United States,Corporate,2022-06-12
+1212,Jessica,Ramirez,customer1212@example.com,Nashville,TN,Central,United States,Corporate,2019-06-18
+1213,Betty,Martinez,customer1213@example.com,Charlotte,NC,East,United States,Individual,2020-04-28
+1214,Richard,Lewis,customer1214@example.com,Houston,TX,Central,United States,Individual,2022-09-06
+1215,James,Robinson,customer1215@example.com,New York,NY,East,United States,Corporate,2021-06-07
+1216,Joseph,Miller,customer1216@example.com,Boston,MA,East,United States,Individual,2022-10-11
+1217,Richard,Martin,customer1217@example.com,New York,NY,East,United States,Individual,2019-06-17
+1218,Barbara,Garcia,customer1218@example.com,Boston,MA,East,United States,Reseller,2018-08-29
+1219,Anthony,Robinson,customer1219@example.com,Las Vegas,NV,West,United States,Reseller,2022-08-22
+1220,Linda,Thompson,customer1220@example.com,Boise,ID,Northwest,United States,Individual,2022-11-01
+1221,Nancy,Thomas,customer1221@example.com,Detroit,MI,Central,United States,Individual,2020-06-02
+1222,Mark,Martinez,customer1222@example.com,Miami,FL,East,United States,Corporate,2019-01-23
+1223,Susan,Sanchez,customer1223@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-08-18
+1224,Karen,Anderson,customer1224@example.com,Minneapolis,MN,Central,United States,Reseller,2020-01-28
+1225,James,Thomas,customer1225@example.com,Boise,ID,Northwest,United States,Individual,2019-10-25
+1226,Michael,Thompson,customer1226@example.com,Helena,MT,Northwest,United States,Individual,2020-05-16
+1227,Patricia,Moore,customer1227@example.com,Dallas,TX,Central,United States,Individual,2019-11-13
+1228,Sandra,Lopez,customer1228@example.com,Baltimore,MD,East,United States,Reseller,2021-10-05
+1229,David,Taylor,customer1229@example.com,Los Angeles,CA,West,United States,Corporate,2019-09-12
+1230,Barbara,Jones,customer1230@example.com,Helena,MT,Northwest,United States,Reseller,2021-02-19
+1231,David,Garcia,customer1231@example.com,Seattle,WA,West,United States,Corporate,2019-11-26
+1232,John,Hernandez,customer1232@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-06-05
+1233,Patricia,Hernandez,customer1233@example.com,Atlanta,GA,East,United States,Individual,2018-09-19
+1234,Nancy,Lopez,customer1234@example.com,Spokane,WA,Northwest,United States,Reseller,2019-08-03
+1235,Thomas,Hernandez,customer1235@example.com,Detroit,MI,Central,United States,Individual,2018-12-04
+1236,Anthony,Jones,customer1236@example.com,Nashville,TN,Central,United States,Corporate,2021-09-08
+1237,Michael,Jones,customer1237@example.com,Boise,ID,Northwest,United States,Individual,2019-01-11
+1238,David,Garcia,customer1238@example.com,San Diego,CA,West,United States,Corporate,2020-06-12
+1239,Mary,Anderson,customer1239@example.com,San Diego,CA,West,United States,Individual,2021-12-23
+1240,Jessica,Brown,customer1240@example.com,Eugene,OR,Northwest,United States,Reseller,2022-11-11
+1241,Barbara,Williams,customer1241@example.com,Boston,MA,East,United States,Individual,2019-08-05
+1242,Nancy,Taylor,customer1242@example.com,Philadelphia,PA,East,United States,Reseller,2021-02-27
+1243,Thomas,Harris,customer1243@example.com,New York,NY,East,United States,Corporate,2020-05-02
+1244,Anthony,Thomas,customer1244@example.com,Portland,OR,West,United States,Corporate,2019-11-05
+1245,Lisa,Perez,customer1245@example.com,Denver,CO,West,United States,Individual,2020-02-05
+1246,Robert,Smith,customer1246@example.com,Phoenix,AZ,West,United States,Individual,2022-08-29
+1247,Daniel,Rodriguez,customer1247@example.com,Eugene,OR,Northwest,United States,Corporate,2018-01-12
+1248,Daniel,Martin,customer1248@example.com,Chicago,IL,Central,United States,Reseller,2019-10-28
+1249,Margaret,Johnson,customer1249@example.com,Miami,FL,East,United States,Reseller,2019-08-03
+1250,Nancy,Williams,customer1250@example.com,Chicago,IL,Central,United States,Corporate,2021-05-18
+1251,Richard,Rodriguez,customer1251@example.com,Boise,ID,Northwest,United States,Individual,2022-04-28
+1252,James,Ramirez,customer1252@example.com,Boise,ID,Northwest,United States,Individual,2020-03-06
+1253,Daniel,Harris,customer1253@example.com,Spokane,WA,Northwest,United States,Reseller,2018-11-12
+1254,Jessica,Sanchez,customer1254@example.com,Denver,CO,West,United States,Individual,2022-07-10
+1255,Barbara,Perez,customer1255@example.com,Houston,TX,Central,United States,Individual,2020-01-23
+1256,Joseph,Lewis,customer1256@example.com,Baltimore,MD,East,United States,Individual,2019-07-04
+1257,Anthony,Wilson,customer1257@example.com,Boise,ID,Northwest,United States,Reseller,2021-06-11
+1258,Daniel,Wilson,customer1258@example.com,Washington,DC,East,United States,Individual,2020-11-17
+1259,Lisa,Davis,customer1259@example.com,Nashville,TN,Central,United States,Corporate,2022-01-01
+1260,Thomas,Lee,customer1260@example.com,Baltimore,MD,East,United States,Corporate,2018-06-21
+1261,Susan,Williams,customer1261@example.com,Nashville,TN,Central,United States,Reseller,2020-09-05
+1262,Robert,Perez,customer1262@example.com,Houston,TX,Central,United States,Reseller,2022-09-20
+1263,Elizabeth,Jackson,customer1263@example.com,Washington,DC,East,United States,Individual,2018-06-06
+1264,Thomas,Wilson,customer1264@example.com,San Francisco,CA,West,United States,Individual,2020-08-09
+1265,David,Jackson,customer1265@example.com,St. Louis,MO,Central,United States,Individual,2020-10-28
+1266,Nancy,Perez,customer1266@example.com,San Francisco,CA,West,United States,Individual,2022-05-30
+1267,Mary,Williams,customer1267@example.com,Washington,DC,East,United States,Individual,2021-12-13
+1268,Christopher,White,customer1268@example.com,St. Louis,MO,Central,United States,Individual,2021-10-04
+1269,Betty,Rodriguez,customer1269@example.com,Anchorage,AK,Northwest,United States,Individual,2022-11-20
+1270,Jennifer,Williams,customer1270@example.com,Miami,FL,East,United States,Corporate,2021-05-22
+1271,Susan,Moore,customer1271@example.com,Dallas,TX,Central,United States,Individual,2020-03-19
+1272,Jennifer,Lee,customer1272@example.com,Los Angeles,CA,West,United States,Individual,2021-11-17
+1273,Nancy,Martin,customer1273@example.com,Helena,MT,Northwest,United States,Corporate,2019-09-13
+1274,Betty,Martinez,customer1274@example.com,Kansas City,MO,Central,United States,Individual,2018-10-04
+1275,Patricia,Clark,customer1275@example.com,Portland,OR,West,United States,Individual,2019-01-21
+1276,Jessica,Lee,customer1276@example.com,Portland,OR,West,United States,Individual,2019-05-11
+1277,Margaret,Sanchez,customer1277@example.com,Helena,MT,Northwest,United States,Corporate,2018-06-26
+1278,Robert,Thomas,customer1278@example.com,Nashville,TN,Central,United States,Individual,2018-08-27
+1279,Nancy,Thompson,customer1279@example.com,Philadelphia,PA,East,United States,Individual,2020-09-20
+1280,Margaret,Anderson,customer1280@example.com,Boise,ID,Northwest,United States,Corporate,2019-02-17
+1281,Mary,Hernandez,customer1281@example.com,Kansas City,MO,Central,United States,Individual,2021-07-15
+1282,Margaret,Thomas,customer1282@example.com,Eugene,OR,Northwest,United States,Corporate,2021-05-05
+1283,Jessica,Gonzalez,customer1283@example.com,Chicago,IL,Central,United States,Individual,2021-04-25
+1284,Matthew,Johnson,customer1284@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-05-14
+1285,David,Lewis,customer1285@example.com,Dallas,TX,Central,United States,Corporate,2020-08-27
+1286,Karen,Lee,customer1286@example.com,San Diego,CA,West,United States,Individual,2021-11-29
+1287,Jennifer,Martinez,customer1287@example.com,Boise,ID,Northwest,United States,Corporate,2020-08-19
+1288,Linda,Taylor,customer1288@example.com,Nashville,TN,Central,United States,Individual,2021-11-03
+1289,Robert,Lewis,customer1289@example.com,Nashville,TN,Central,United States,Individual,2021-12-27
+1290,Mark,Perez,customer1290@example.com,Eugene,OR,Northwest,United States,Corporate,2020-01-08
+1291,Karen,Miller,customer1291@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-03-15
+1292,Robert,Garcia,customer1292@example.com,San Diego,CA,West,United States,Individual,2021-05-25
+1293,Betty,Wilson,customer1293@example.com,Boise,ID,Northwest,United States,Reseller,2020-10-08
+1294,Michael,Moore,customer1294@example.com,Minneapolis,MN,Central,United States,Individual,2018-02-07
+1295,Barbara,Perez,customer1295@example.com,Detroit,MI,Central,United States,Individual,2022-08-23
+1296,William,Wilson,customer1296@example.com,San Francisco,CA,West,United States,Individual,2019-04-10
+1297,Jessica,Rodriguez,customer1297@example.com,Portland,OR,West,United States,Reseller,2022-05-27
+1298,Anthony,Lewis,customer1298@example.com,Chicago,IL,Central,United States,Corporate,2018-11-06
+1299,Sandra,Anderson,customer1299@example.com,Los Angeles,CA,West,United States,Corporate,2022-09-20
+1300,Betty,Martin,customer1300@example.com,San Francisco,CA,West,United States,Corporate,2022-10-24
+1301,Thomas,Brown,customer1301@example.com,Los Angeles,CA,West,United States,Individual,2018-08-30
+1302,Jennifer,White,customer1302@example.com,Charlotte,NC,East,United States,Individual,2020-06-23
+1303,Margaret,Brown,customer1303@example.com,Helena,MT,Northwest,United States,Individual,2020-01-15
+1304,Patricia,Ramirez,customer1304@example.com,Houston,TX,Central,United States,Individual,2020-05-01
+1305,Mark,Sanchez,customer1305@example.com,Portland,OR,West,United States,Individual,2019-08-11
+1306,David,Lopez,customer1306@example.com,Boston,MA,East,United States,Corporate,2020-04-29
+1307,Robert,Harris,customer1307@example.com,Minneapolis,MN,Central,United States,Corporate,2020-05-13
+1308,Betty,Wilson,customer1308@example.com,Philadelphia,PA,East,United States,Individual,2020-04-18
+1309,Betty,Perez,customer1309@example.com,Anchorage,AK,Northwest,United States,Individual,2018-03-02
+1310,Anthony,Smith,customer1310@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-11-25
+1311,William,Hernandez,customer1311@example.com,San Francisco,CA,West,United States,Individual,2022-05-01
+1312,Mary,Gonzalez,customer1312@example.com,Washington,DC,East,United States,Corporate,2021-09-14
+1313,Daniel,Thompson,customer1313@example.com,New York,NY,East,United States,Corporate,2022-11-29
+1314,Richard,Lewis,customer1314@example.com,Kansas City,MO,Central,United States,Corporate,2021-02-07
+1315,Sandra,Lopez,customer1315@example.com,St. Louis,MO,Central,United States,Individual,2019-07-27
+1316,Joseph,Lee,customer1316@example.com,Washington,DC,East,United States,Individual,2021-01-19
+1317,Barbara,Lewis,customer1317@example.com,Helena,MT,Northwest,United States,Reseller,2021-08-21
+1318,Donald,Martinez,customer1318@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-01-05
+1319,Nancy,White,customer1319@example.com,Kansas City,MO,Central,United States,Corporate,2018-09-16
+1320,John,Taylor,customer1320@example.com,Minneapolis,MN,Central,United States,Corporate,2020-12-03
+1321,James,Smith,customer1321@example.com,Houston,TX,Central,United States,Reseller,2021-01-10
+1322,Mark,Harris,customer1322@example.com,Minneapolis,MN,Central,United States,Individual,2020-05-15
+1323,Mark,Lopez,customer1323@example.com,Los Angeles,CA,West,United States,Individual,2020-11-05
+1324,Mary,Harris,customer1324@example.com,Dallas,TX,Central,United States,Corporate,2018-09-13
+1325,Christopher,White,customer1325@example.com,Spokane,WA,Northwest,United States,Individual,2019-11-26
+1326,Barbara,Martinez,customer1326@example.com,Miami,FL,East,United States,Individual,2022-05-27
+1327,Thomas,White,customer1327@example.com,Washington,DC,East,United States,Individual,2019-11-03
+1328,Joseph,Brown,customer1328@example.com,Charlotte,NC,East,United States,Individual,2020-05-21
+1329,John,Johnson,customer1329@example.com,Boise,ID,Northwest,United States,Individual,2018-09-24
+1330,Joseph,Williams,customer1330@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-12-13
+1331,Sarah,Taylor,customer1331@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-11-21
+1332,Daniel,Wilson,customer1332@example.com,Nashville,TN,Central,United States,Reseller,2021-11-12
+1333,Susan,Clark,customer1333@example.com,Helena,MT,Northwest,United States,Individual,2020-11-01
+1334,Matthew,Anderson,customer1334@example.com,Baltimore,MD,East,United States,Individual,2021-12-13
+1335,Joseph,Thomas,customer1335@example.com,Portland,OR,West,United States,Individual,2018-11-18
+1336,Karen,Ramirez,customer1336@example.com,Dallas,TX,Central,United States,Individual,2018-09-05
+1337,Mary,Taylor,customer1337@example.com,Detroit,MI,Central,United States,Individual,2020-01-31
+1338,Elizabeth,Martinez,customer1338@example.com,St. Louis,MO,Central,United States,Individual,2022-06-09
+1339,Betty,Jackson,customer1339@example.com,Philadelphia,PA,East,United States,Individual,2019-09-17
+1340,Jennifer,Clark,customer1340@example.com,Minneapolis,MN,Central,United States,Corporate,2018-01-05
+1341,John,Ramirez,customer1341@example.com,Phoenix,AZ,West,United States,Individual,2020-09-12
+1342,Donald,Hernandez,customer1342@example.com,Nashville,TN,Central,United States,Corporate,2020-08-31
+1343,Thomas,Lee,customer1343@example.com,Philadelphia,PA,East,United States,Individual,2020-07-10
+1344,Margaret,White,customer1344@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-06-27
+1345,Linda,Lewis,customer1345@example.com,Eugene,OR,Northwest,United States,Individual,2021-01-12
+1346,Nancy,Rodriguez,customer1346@example.com,San Diego,CA,West,United States,Corporate,2022-11-09
+1347,Christopher,Lee,customer1347@example.com,New York,NY,East,United States,Corporate,2021-12-19
+1348,Daniel,Moore,customer1348@example.com,Dallas,TX,Central,United States,Individual,2021-06-21
+1349,Anthony,Thomas,customer1349@example.com,Portland,OR,West,United States,Corporate,2018-02-08
+1350,James,Rodriguez,customer1350@example.com,Seattle,WA,West,United States,Corporate,2019-05-18
+1351,Betty,Moore,customer1351@example.com,Boise,ID,Northwest,United States,Corporate,2020-04-02
+1352,Margaret,Robinson,customer1352@example.com,San Diego,CA,West,United States,Individual,2020-06-14
+1353,James,Ramirez,customer1353@example.com,Washington,DC,East,United States,Corporate,2020-02-22
+1354,Patricia,Brown,customer1354@example.com,Dallas,TX,Central,United States,Corporate,2019-08-08
+1355,David,Harris,customer1355@example.com,Philadelphia,PA,East,United States,Individual,2019-09-21
+1356,Jennifer,Johnson,customer1356@example.com,Helena,MT,Northwest,United States,Corporate,2019-10-29
+1357,Matthew,Johnson,customer1357@example.com,New York,NY,East,United States,Individual,2018-07-22
+1358,Susan,Lewis,customer1358@example.com,Houston,TX,Central,United States,Individual,2020-02-09
+1359,Michael,Davis,customer1359@example.com,Los Angeles,CA,West,United States,Corporate,2021-04-15
+1360,Thomas,Harris,customer1360@example.com,Baltimore,MD,East,United States,Corporate,2018-08-24
+1361,William,Anderson,customer1361@example.com,Chicago,IL,Central,United States,Corporate,2018-05-15
+1362,Susan,Lee,customer1362@example.com,Boise,ID,Northwest,United States,Individual,2018-02-08
+1363,Linda,Harris,customer1363@example.com,Dallas,TX,Central,United States,Corporate,2022-05-28
+1364,Christopher,Wilson,customer1364@example.com,Atlanta,GA,East,United States,Individual,2022-09-30
+1365,Barbara,Moore,customer1365@example.com,Philadelphia,PA,East,United States,Reseller,2022-05-21
+1366,Sandra,Moore,customer1366@example.com,Washington,DC,East,United States,Individual,2018-01-03
+1367,Elizabeth,Lee,customer1367@example.com,Anchorage,AK,Northwest,United States,Reseller,2018-01-02
+1368,David,Martin,customer1368@example.com,San Diego,CA,West,United States,Individual,2021-10-24
+1369,Mark,Lee,customer1369@example.com,Spokane,WA,Northwest,United States,Individual,2022-09-18
+1370,Jennifer,White,customer1370@example.com,Chicago,IL,Central,United States,Corporate,2018-05-24
+1371,Richard,Thompson,customer1371@example.com,Dallas,TX,Central,United States,Individual,2018-10-14
+1372,Michael,Martin,customer1372@example.com,Kansas City,MO,Central,United States,Corporate,2022-07-01
+1373,Daniel,Rodriguez,customer1373@example.com,St. Louis,MO,Central,United States,Reseller,2021-12-20
+1374,Linda,Perez,customer1374@example.com,Spokane,WA,Northwest,United States,Reseller,2019-12-01
+1375,Karen,Hernandez,customer1375@example.com,Baltimore,MD,East,United States,Individual,2021-11-17
+1376,Karen,Thomas,customer1376@example.com,New York,NY,East,United States,Individual,2018-01-20
+1377,Sarah,Lewis,customer1377@example.com,Washington,DC,East,United States,Corporate,2020-09-28
+1378,John,Sanchez,customer1378@example.com,Anchorage,AK,Northwest,United States,Reseller,2021-08-26
+1379,Donald,Clark,customer1379@example.com,Los Angeles,CA,West,United States,Reseller,2020-06-30
+1380,Mark,Gonzalez,customer1380@example.com,Phoenix,AZ,West,United States,Reseller,2020-01-04
+1381,Mark,Harris,customer1381@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2018-01-18
+1382,Barbara,Robinson,customer1382@example.com,San Diego,CA,West,United States,Individual,2018-01-20
+1383,Anthony,Rodriguez,customer1383@example.com,New York,NY,East,United States,Corporate,2021-12-23
+1384,John,Clark,customer1384@example.com,Minneapolis,MN,Central,United States,Corporate,2019-09-13
+1385,Jessica,Lopez,customer1385@example.com,Miami,FL,East,United States,Individual,2020-10-06
+1386,Michael,Clark,customer1386@example.com,New York,NY,East,United States,Corporate,2018-08-16
+1387,Jennifer,Moore,customer1387@example.com,Nashville,TN,Central,United States,Individual,2022-02-22
+1388,Christopher,Jones,customer1388@example.com,Boston,MA,East,United States,Corporate,2018-09-18
+1389,Donald,Taylor,customer1389@example.com,Minneapolis,MN,Central,United States,Corporate,2019-07-16
+1390,Matthew,Perez,customer1390@example.com,New York,NY,East,United States,Corporate,2019-06-02
+1391,Susan,Lee,customer1391@example.com,Boise,ID,Northwest,United States,Corporate,2021-08-24
+1392,Susan,Ramirez,customer1392@example.com,Phoenix,AZ,West,United States,Reseller,2019-07-16
+1393,Jessica,Lopez,customer1393@example.com,San Diego,CA,West,United States,Corporate,2018-03-31
+1394,David,Robinson,customer1394@example.com,New York,NY,East,United States,Individual,2020-07-08
+1395,Richard,Miller,customer1395@example.com,Chicago,IL,Central,United States,Individual,2021-03-17
+1396,Matthew,Wilson,customer1396@example.com,Portland,OR,West,United States,Reseller,2019-05-27
+1397,William,Martinez,customer1397@example.com,Philadelphia,PA,East,United States,Individual,2021-07-04
+1398,Jessica,Wilson,customer1398@example.com,Los Angeles,CA,West,United States,Reseller,2021-04-28
+1399,Linda,Brown,customer1399@example.com,Detroit,MI,Central,United States,Individual,2019-11-29
+1400,Thomas,Sanchez,customer1400@example.com,Phoenix,AZ,West,United States,Individual,2018-05-30
+1401,Daniel,Anderson,customer1401@example.com,Boise,ID,Northwest,United States,Corporate,2018-06-25
+1402,Richard,Hernandez,customer1402@example.com,Los Angeles,CA,West,United States,Reseller,2021-11-21
+1403,Mary,Robinson,customer1403@example.com,Seattle,WA,West,United States,Reseller,2018-04-23
+1404,John,Brown,customer1404@example.com,Kansas City,MO,Central,United States,Corporate,2021-02-19
+1405,Margaret,Gonzalez,customer1405@example.com,Denver,CO,West,United States,Individual,2021-06-18
+1406,Margaret,Martin,customer1406@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-07-01
+1407,Richard,Anderson,customer1407@example.com,San Diego,CA,West,United States,Corporate,2021-06-24
+1408,Daniel,Perez,customer1408@example.com,Phoenix,AZ,West,United States,Corporate,2020-07-18
+1409,Patricia,Brown,customer1409@example.com,Minneapolis,MN,Central,United States,Individual,2021-12-31
+1410,Donald,Jackson,customer1410@example.com,Portland,OR,West,United States,Individual,2020-11-08
+1411,Susan,Thomas,customer1411@example.com,St. Louis,MO,Central,United States,Corporate,2020-06-29
+1412,Robert,Sanchez,customer1412@example.com,Miami,FL,East,United States,Individual,2018-09-19
+1413,Thomas,Lee,customer1413@example.com,Kansas City,MO,Central,United States,Corporate,2019-09-30
+1414,Jessica,Martinez,customer1414@example.com,Philadelphia,PA,East,United States,Corporate,2019-08-20
+1415,Thomas,Jackson,customer1415@example.com,Chicago,IL,Central,United States,Corporate,2018-10-24
+1416,Thomas,Clark,customer1416@example.com,Portland,OR,West,United States,Reseller,2022-10-25
+1417,Barbara,Miller,customer1417@example.com,Las Vegas,NV,West,United States,Reseller,2021-08-04
+1418,William,Miller,customer1418@example.com,Boston,MA,East,United States,Corporate,2021-11-23
+1419,Matthew,Hernandez,customer1419@example.com,Anchorage,AK,Northwest,United States,Reseller,2021-03-05
+1420,Susan,Hernandez,customer1420@example.com,Detroit,MI,Central,United States,Individual,2020-07-19
+1421,Linda,Robinson,customer1421@example.com,San Diego,CA,West,United States,Individual,2019-04-02
+1422,Karen,Miller,customer1422@example.com,Baltimore,MD,East,United States,Individual,2022-02-13
+1423,Michael,Gonzalez,customer1423@example.com,Kansas City,MO,Central,United States,Individual,2018-01-14
+1424,John,Lopez,customer1424@example.com,Chicago,IL,Central,United States,Individual,2018-08-24
+1425,Joseph,Miller,customer1425@example.com,Atlanta,GA,East,United States,Corporate,2022-04-17
+1426,James,Miller,customer1426@example.com,Chicago,IL,Central,United States,Individual,2018-12-23
+1427,Nancy,Garcia,customer1427@example.com,Atlanta,GA,East,United States,Individual,2021-02-09
+1428,Michael,Smith,customer1428@example.com,Philadelphia,PA,East,United States,Individual,2019-06-21
+1429,Mark,Perez,customer1429@example.com,Los Angeles,CA,West,United States,Individual,2021-09-03
+1430,Sandra,Miller,customer1430@example.com,Phoenix,AZ,West,United States,Individual,2019-05-07
+1431,Lisa,Garcia,customer1431@example.com,St. Louis,MO,Central,United States,Reseller,2022-06-25
+1432,John,Brown,customer1432@example.com,Helena,MT,Northwest,United States,Individual,2018-09-25
+1433,Sarah,Gonzalez,customer1433@example.com,Miami,FL,East,United States,Corporate,2019-10-14
+1434,Linda,Robinson,customer1434@example.com,Helena,MT,Northwest,United States,Individual,2021-06-15
+1435,Betty,Jones,customer1435@example.com,Atlanta,GA,East,United States,Individual,2018-04-20
+1436,Margaret,Taylor,customer1436@example.com,Houston,TX,Central,United States,Reseller,2020-09-28
+1437,Betty,Thomas,customer1437@example.com,Boston,MA,East,United States,Corporate,2021-06-13
+1438,Thomas,Gonzalez,customer1438@example.com,Seattle,WA,West,United States,Corporate,2021-08-14
+1439,Thomas,Anderson,customer1439@example.com,Nashville,TN,Central,United States,Individual,2021-12-30
+1440,Matthew,Thomas,customer1440@example.com,Nashville,TN,Central,United States,Individual,2021-04-05
+1441,Sandra,Sanchez,customer1441@example.com,Helena,MT,Northwest,United States,Corporate,2018-03-16
+1442,Donald,Miller,customer1442@example.com,Miami,FL,East,United States,Individual,2019-04-26
+1443,Elizabeth,Wilson,customer1443@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2021-03-16
+1444,David,Moore,customer1444@example.com,Charlotte,NC,East,United States,Individual,2022-03-20
+1445,Joseph,Taylor,customer1445@example.com,Denver,CO,West,United States,Individual,2021-04-10
+1446,Thomas,Martin,customer1446@example.com,San Diego,CA,West,United States,Individual,2020-07-12
+1447,Susan,Lopez,customer1447@example.com,Eugene,OR,Northwest,United States,Reseller,2019-10-12
+1448,James,Garcia,customer1448@example.com,Kansas City,MO,Central,United States,Individual,2019-06-28
+1449,Donald,Williams,customer1449@example.com,Phoenix,AZ,West,United States,Individual,2020-10-24
+1450,Sandra,Davis,customer1450@example.com,Denver,CO,West,United States,Individual,2018-05-27
+1451,Sarah,Miller,customer1451@example.com,Chicago,IL,Central,United States,Individual,2021-10-14
+1452,Elizabeth,White,customer1452@example.com,Detroit,MI,Central,United States,Reseller,2021-10-31
+1453,Matthew,Martin,customer1453@example.com,Minneapolis,MN,Central,United States,Reseller,2022-10-18
+1454,Anthony,Martinez,customer1454@example.com,Chicago,IL,Central,United States,Individual,2019-12-11
+1455,Mark,Jackson,customer1455@example.com,Eugene,OR,Northwest,United States,Corporate,2018-01-25
+1456,Thomas,Harris,customer1456@example.com,Helena,MT,Northwest,United States,Reseller,2022-11-08
+1457,Linda,White,customer1457@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-08-29
+1458,Nancy,Clark,customer1458@example.com,Baltimore,MD,East,United States,Individual,2022-06-10
+1459,Margaret,Miller,customer1459@example.com,Phoenix,AZ,West,United States,Individual,2021-11-30
+1460,Joseph,Anderson,customer1460@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2018-03-03
+1461,Christopher,Ramirez,customer1461@example.com,Houston,TX,Central,United States,Individual,2022-02-20
+1462,Betty,Perez,customer1462@example.com,San Diego,CA,West,United States,Reseller,2019-11-27
+1463,Susan,Perez,customer1463@example.com,Washington,DC,East,United States,Corporate,2022-04-12
+1464,Christopher,Smith,customer1464@example.com,St. Louis,MO,Central,United States,Corporate,2018-03-07
+1465,William,Jackson,customer1465@example.com,Philadelphia,PA,East,United States,Corporate,2021-05-19
+1466,Michael,Gonzalez,customer1466@example.com,Eugene,OR,Northwest,United States,Individual,2020-03-02
+1467,Patricia,Hernandez,customer1467@example.com,Baltimore,MD,East,United States,Corporate,2020-07-13
+1468,Jennifer,Brown,customer1468@example.com,Dallas,TX,Central,United States,Corporate,2018-12-30
+1469,James,Garcia,customer1469@example.com,San Diego,CA,West,United States,Individual,2020-03-01
+1470,Linda,Martinez,customer1470@example.com,Minneapolis,MN,Central,United States,Corporate,2018-05-24
+1471,Barbara,Taylor,customer1471@example.com,Boise,ID,Northwest,United States,Individual,2019-11-01
+1472,Jennifer,Brown,customer1472@example.com,Eugene,OR,Northwest,United States,Individual,2020-05-06
+1473,John,Gonzalez,customer1473@example.com,Helena,MT,Northwest,United States,Reseller,2022-11-08
+1474,Margaret,Miller,customer1474@example.com,Philadelphia,PA,East,United States,Individual,2022-08-03
+1475,Karen,Jackson,customer1475@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2021-04-18
+1476,David,Miller,customer1476@example.com,Baltimore,MD,East,United States,Individual,2018-10-20
+1477,Mark,Gonzalez,customer1477@example.com,Boise,ID,Northwest,United States,Corporate,2019-05-21
+1478,Joseph,Anderson,customer1478@example.com,Nashville,TN,Central,United States,Corporate,2022-02-18
+1479,Daniel,Lewis,customer1479@example.com,Denver,CO,West,United States,Reseller,2019-12-12
+1480,Karen,Clark,customer1480@example.com,Kansas City,MO,Central,United States,Reseller,2018-12-25
+1481,Jennifer,Lewis,customer1481@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-06-03
+1482,Sandra,Perez,customer1482@example.com,Eugene,OR,Northwest,United States,Individual,2021-03-10
+1483,Matthew,Johnson,customer1483@example.com,Las Vegas,NV,West,United States,Individual,2022-11-18
+1484,Donald,Lee,customer1484@example.com,Atlanta,GA,East,United States,Corporate,2021-09-27
+1485,Sandra,Thomas,customer1485@example.com,Portland,OR,West,United States,Individual,2022-04-10
+1486,John,Harris,customer1486@example.com,Phoenix,AZ,West,United States,Individual,2022-04-19
+1487,Joseph,Garcia,customer1487@example.com,Kansas City,MO,Central,United States,Individual,2020-11-02
+1488,James,Williams,customer1488@example.com,San Diego,CA,West,United States,Corporate,2021-10-15
+1489,William,White,customer1489@example.com,Eugene,OR,Northwest,United States,Individual,2019-02-03
+1490,James,Rodriguez,customer1490@example.com,Boise,ID,Northwest,United States,Individual,2018-10-07
+1491,Jessica,Anderson,customer1491@example.com,Nashville,TN,Central,United States,Individual,2021-01-28
+1492,Robert,Thomas,customer1492@example.com,Baltimore,MD,East,United States,Reseller,2022-09-20
+1493,Mark,Smith,customer1493@example.com,Philadelphia,PA,East,United States,Corporate,2018-12-29
+1494,Sarah,White,customer1494@example.com,Dallas,TX,Central,United States,Individual,2018-06-08
+1495,Robert,Anderson,customer1495@example.com,Denver,CO,West,United States,Individual,2019-03-20
+1496,Joseph,Thompson,customer1496@example.com,Portland,OR,West,United States,Individual,2021-07-24
+1497,Matthew,Martinez,customer1497@example.com,Las Vegas,NV,West,United States,Individual,2021-05-10
+1498,Anthony,Gonzalez,customer1498@example.com,Los Angeles,CA,West,United States,Corporate,2019-05-27
+1499,Michael,Williams,customer1499@example.com,Minneapolis,MN,Central,United States,Individual,2018-02-27
+1500,Mark,Miller,customer1500@example.com,Phoenix,AZ,West,United States,Corporate,2018-05-10
+1501,Betty,Clark,customer1501@example.com,Boston,MA,East,United States,Reseller,2018-12-10
+1502,Susan,Taylor,customer1502@example.com,New York,NY,East,United States,Individual,2019-11-01
+1503,Karen,Miller,customer1503@example.com,Minneapolis,MN,Central,United States,Reseller,2020-03-20
+1504,Linda,Miller,customer1504@example.com,Boise,ID,Northwest,United States,Individual,2019-10-25
+1505,Richard,Lee,customer1505@example.com,New York,NY,East,United States,Individual,2020-03-08
+1506,Linda,Williams,customer1506@example.com,Baltimore,MD,East,United States,Corporate,2019-07-25
+1507,John,Lewis,customer1507@example.com,Chicago,IL,Central,United States,Individual,2019-09-10
+1508,Matthew,Moore,customer1508@example.com,Boise,ID,Northwest,United States,Corporate,2022-10-08
+1509,Patricia,Martin,customer1509@example.com,Atlanta,GA,East,United States,Individual,2021-07-16
+1510,Sandra,Harris,customer1510@example.com,Helena,MT,Northwest,United States,Corporate,2019-11-12
+1511,Margaret,Perez,customer1511@example.com,Charlotte,NC,East,United States,Individual,2019-11-18
+1512,Richard,Taylor,customer1512@example.com,San Diego,CA,West,United States,Corporate,2019-04-22
+1513,James,Martin,customer1513@example.com,Portland,OR,West,United States,Corporate,2018-09-12
+1514,Nancy,Wilson,customer1514@example.com,Minneapolis,MN,Central,United States,Corporate,2021-06-23
+1515,Robert,Lopez,customer1515@example.com,Los Angeles,CA,West,United States,Individual,2019-02-18
+1516,Michael,Lee,customer1516@example.com,Washington,DC,East,United States,Individual,2022-01-25
+1517,Donald,Hernandez,customer1517@example.com,Helena,MT,Northwest,United States,Individual,2019-10-13
+1518,Daniel,Clark,customer1518@example.com,Las Vegas,NV,West,United States,Individual,2018-02-18
+1519,William,Davis,customer1519@example.com,Charlotte,NC,East,United States,Individual,2018-04-21
+1520,Karen,Ramirez,customer1520@example.com,Miami,FL,East,United States,Individual,2019-10-21
+1521,Daniel,Smith,customer1521@example.com,Baltimore,MD,East,United States,Individual,2020-10-03
+1522,Mary,Lee,customer1522@example.com,Portland,OR,West,United States,Reseller,2019-02-23
+1523,Jennifer,Jackson,customer1523@example.com,Boston,MA,East,United States,Corporate,2022-06-17
+1524,Thomas,Williams,customer1524@example.com,Miami,FL,East,United States,Individual,2020-08-14
+1525,Nancy,Miller,customer1525@example.com,Houston,TX,Central,United States,Individual,2018-12-28
+1526,Elizabeth,Jackson,customer1526@example.com,Atlanta,GA,East,United States,Individual,2021-07-25
+1527,Margaret,Sanchez,customer1527@example.com,Atlanta,GA,East,United States,Individual,2020-01-07
+1528,Jennifer,Thomas,customer1528@example.com,Eugene,OR,Northwest,United States,Individual,2020-10-31
+1529,Mark,Sanchez,customer1529@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-04-10
+1530,Margaret,Williams,customer1530@example.com,Eugene,OR,Northwest,United States,Corporate,2019-09-07
+1531,David,Gonzalez,customer1531@example.com,Philadelphia,PA,East,United States,Individual,2020-07-17
+1532,Sarah,Martin,customer1532@example.com,Kansas City,MO,Central,United States,Individual,2019-11-14
+1533,Michael,Jones,customer1533@example.com,Baltimore,MD,East,United States,Reseller,2018-01-09
+1534,Jessica,Gonzalez,customer1534@example.com,Phoenix,AZ,West,United States,Reseller,2020-03-19
+1535,Jessica,Martinez,customer1535@example.com,Kansas City,MO,Central,United States,Corporate,2021-04-19
+1536,Donald,Johnson,customer1536@example.com,Las Vegas,NV,West,United States,Reseller,2018-09-12
+1537,Jennifer,Miller,customer1537@example.com,Anchorage,AK,Northwest,United States,Corporate,2019-06-07
+1538,Daniel,Thompson,customer1538@example.com,Nashville,TN,Central,United States,Individual,2018-04-29
+1539,Nancy,Davis,customer1539@example.com,Eugene,OR,Northwest,United States,Individual,2018-03-12
+1540,Matthew,Perez,customer1540@example.com,Chicago,IL,Central,United States,Corporate,2019-06-20
+1541,Robert,Rodriguez,customer1541@example.com,Helena,MT,Northwest,United States,Individual,2021-03-30
+1542,Patricia,Harris,customer1542@example.com,New York,NY,East,United States,Individual,2021-12-28
+1543,Matthew,Jackson,customer1543@example.com,Eugene,OR,Northwest,United States,Reseller,2018-06-14
+1544,Jennifer,Clark,customer1544@example.com,Washington,DC,East,United States,Individual,2021-11-17
+1545,Christopher,Martinez,customer1545@example.com,Kansas City,MO,Central,United States,Corporate,2022-03-22
+1546,Daniel,Jackson,customer1546@example.com,San Francisco,CA,West,United States,Corporate,2019-12-07
+1547,Nancy,Miller,customer1547@example.com,Atlanta,GA,East,United States,Reseller,2020-03-26
+1548,Jennifer,Clark,customer1548@example.com,Chicago,IL,Central,United States,Individual,2018-07-18
+1549,Thomas,Wilson,customer1549@example.com,Las Vegas,NV,West,United States,Corporate,2022-02-10
+1550,Jennifer,Lopez,customer1550@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-10-03
+1551,Jennifer,Taylor,customer1551@example.com,Baltimore,MD,East,United States,Reseller,2020-07-11
+1552,Michael,Johnson,customer1552@example.com,Philadelphia,PA,East,United States,Corporate,2022-07-16
+1553,Donald,Ramirez,customer1553@example.com,Atlanta,GA,East,United States,Individual,2021-07-07
+1554,John,Martinez,customer1554@example.com,Seattle,WA,West,United States,Individual,2018-09-13
+1555,William,Smith,customer1555@example.com,Dallas,TX,Central,United States,Corporate,2020-09-05
+1556,Anthony,Brown,customer1556@example.com,Helena,MT,Northwest,United States,Individual,2019-06-29
+1557,Patricia,Miller,customer1557@example.com,Los Angeles,CA,West,United States,Corporate,2018-01-15
+1558,Thomas,Harris,customer1558@example.com,Anchorage,AK,Northwest,United States,Individual,2020-09-22
+1559,Karen,Wilson,customer1559@example.com,Spokane,WA,Northwest,United States,Individual,2021-10-28
+1560,Mark,Davis,customer1560@example.com,St. Louis,MO,Central,United States,Reseller,2021-09-24
+1561,Karen,Johnson,customer1561@example.com,Eugene,OR,Northwest,United States,Reseller,2022-11-24
+1562,James,Anderson,customer1562@example.com,Dallas,TX,Central,United States,Reseller,2020-04-02
+1563,Karen,Brown,customer1563@example.com,New York,NY,East,United States,Reseller,2019-07-27
+1564,Joseph,Martin,customer1564@example.com,Charlotte,NC,East,United States,Corporate,2022-11-17
+1565,Susan,Perez,customer1565@example.com,Anchorage,AK,Northwest,United States,Individual,2021-07-30
+1566,Daniel,Lopez,customer1566@example.com,Chicago,IL,Central,United States,Reseller,2022-07-12
+1567,Linda,Martin,customer1567@example.com,Nashville,TN,Central,United States,Individual,2022-02-22
+1568,Susan,Robinson,customer1568@example.com,Phoenix,AZ,West,United States,Reseller,2020-09-02
+1569,Elizabeth,Martin,customer1569@example.com,Las Vegas,NV,West,United States,Individual,2018-10-21
+1570,Jessica,Sanchez,customer1570@example.com,Seattle,WA,West,United States,Individual,2022-09-01
+1571,Donald,Anderson,customer1571@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2020-09-14
+1572,Michael,Garcia,customer1572@example.com,Miami,FL,East,United States,Corporate,2021-09-13
+1573,Susan,Thompson,customer1573@example.com,San Francisco,CA,West,United States,Individual,2019-10-31
+1574,Linda,White,customer1574@example.com,Spokane,WA,Northwest,United States,Individual,2020-09-02
+1575,Sandra,Moore,customer1575@example.com,Seattle,WA,West,United States,Corporate,2020-10-04
+1576,Margaret,Davis,customer1576@example.com,Phoenix,AZ,West,United States,Reseller,2022-04-19
+1577,Richard,Robinson,customer1577@example.com,Phoenix,AZ,West,United States,Corporate,2022-02-16
+1578,Daniel,Sanchez,customer1578@example.com,Helena,MT,Northwest,United States,Corporate,2022-10-20
+1579,Linda,Rodriguez,customer1579@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-06-29
+1580,William,White,customer1580@example.com,San Francisco,CA,West,United States,Corporate,2019-01-21
+1581,Robert,Ramirez,customer1581@example.com,Phoenix,AZ,West,United States,Individual,2020-02-18
+1582,Mary,Jackson,customer1582@example.com,Denver,CO,West,United States,Corporate,2022-10-01
+1583,William,Harris,customer1583@example.com,Eugene,OR,Northwest,United States,Individual,2021-10-23
+1584,Patricia,Gonzalez,customer1584@example.com,Miami,FL,East,United States,Individual,2022-10-12
+1585,Robert,Clark,customer1585@example.com,Spokane,WA,Northwest,United States,Reseller,2022-09-11
+1586,Lisa,Anderson,customer1586@example.com,Baltimore,MD,East,United States,Individual,2019-08-04
+1587,Karen,Hernandez,customer1587@example.com,New York,NY,East,United States,Individual,2021-11-11
+1588,Margaret,Thompson,customer1588@example.com,Denver,CO,West,United States,Corporate,2021-07-16
+1589,Elizabeth,Thompson,customer1589@example.com,Baltimore,MD,East,United States,Reseller,2018-05-01
+1590,Mark,Thompson,customer1590@example.com,Houston,TX,Central,United States,Individual,2022-02-09
+1591,Sandra,Ramirez,customer1591@example.com,New York,NY,East,United States,Corporate,2022-10-21
+1592,Richard,Martinez,customer1592@example.com,Helena,MT,Northwest,United States,Reseller,2021-09-12
+1593,Sarah,Gonzalez,customer1593@example.com,New York,NY,East,United States,Individual,2021-10-20
+1594,Anthony,Gonzalez,customer1594@example.com,Spokane,WA,Northwest,United States,Individual,2020-12-17
+1595,Matthew,Robinson,customer1595@example.com,Detroit,MI,Central,United States,Individual,2022-10-20
+1596,Robert,Hernandez,customer1596@example.com,Boise,ID,Northwest,United States,Corporate,2021-04-03
+1597,Joseph,Lee,customer1597@example.com,Denver,CO,West,United States,Individual,2018-10-09
+1598,Jessica,Martinez,customer1598@example.com,Helena,MT,Northwest,United States,Reseller,2019-03-06
+1599,Nancy,Lee,customer1599@example.com,Miami,FL,East,United States,Individual,2022-01-26
+1600,Richard,Wilson,customer1600@example.com,Seattle,WA,West,United States,Corporate,2018-12-11
+1601,Barbara,Thomas,customer1601@example.com,San Francisco,CA,West,United States,Individual,2018-04-18
+1602,Christopher,Wilson,customer1602@example.com,Phoenix,AZ,West,United States,Reseller,2021-07-08
+1603,Mary,Brown,customer1603@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-09-27
+1604,Daniel,White,customer1604@example.com,Houston,TX,Central,United States,Individual,2021-11-17
+1605,Margaret,Clark,customer1605@example.com,San Diego,CA,West,United States,Corporate,2019-07-18
+1606,James,Brown,customer1606@example.com,Spokane,WA,Northwest,United States,Individual,2018-09-07
+1607,Lisa,Robinson,customer1607@example.com,Helena,MT,Northwest,United States,Corporate,2018-02-17
+1608,Matthew,White,customer1608@example.com,Spokane,WA,Northwest,United States,Individual,2021-04-29
+1609,Jessica,Lee,customer1609@example.com,Washington,DC,East,United States,Corporate,2019-09-04
+1610,William,Williams,customer1610@example.com,Boston,MA,East,United States,Corporate,2022-11-01
+1611,Mark,Thompson,customer1611@example.com,Washington,DC,East,United States,Individual,2021-02-12
+1612,Thomas,Clark,customer1612@example.com,Boise,ID,Northwest,United States,Corporate,2022-01-01
+1613,Lisa,Lewis,customer1613@example.com,Portland,OR,West,United States,Individual,2022-11-01
+1614,Sarah,Anderson,customer1614@example.com,New York,NY,East,United States,Reseller,2018-09-09
+1615,Christopher,Miller,customer1615@example.com,Seattle,WA,West,United States,Corporate,2018-06-29
+1616,John,Brown,customer1616@example.com,Chicago,IL,Central,United States,Corporate,2020-01-15
+1617,Lisa,Smith,customer1617@example.com,Washington,DC,East,United States,Individual,2018-04-05
+1618,Robert,Jackson,customer1618@example.com,Nashville,TN,Central,United States,Individual,2019-10-03
+1619,Matthew,Brown,customer1619@example.com,Minneapolis,MN,Central,United States,Corporate,2018-04-02
+1620,Michael,Jones,customer1620@example.com,New York,NY,East,United States,Individual,2022-09-02
+1621,Karen,Moore,customer1621@example.com,Philadelphia,PA,East,United States,Individual,2020-01-06
+1622,Nancy,Martin,customer1622@example.com,Houston,TX,Central,United States,Individual,2021-01-31
+1623,Richard,Lee,customer1623@example.com,Detroit,MI,Central,United States,Reseller,2020-03-30
+1624,David,Perez,customer1624@example.com,Boise,ID,Northwest,United States,Individual,2021-11-23
+1625,John,Lee,customer1625@example.com,Miami,FL,East,United States,Corporate,2021-07-20
+1626,Christopher,Perez,customer1626@example.com,Charlotte,NC,East,United States,Corporate,2020-11-13
+1627,Mark,Jones,customer1627@example.com,Washington,DC,East,United States,Individual,2022-06-02
+1628,James,Martin,customer1628@example.com,Eugene,OR,Northwest,United States,Individual,2019-07-08
+1629,Lisa,Moore,customer1629@example.com,San Francisco,CA,West,United States,Individual,2019-11-06
+1630,Sandra,Hernandez,customer1630@example.com,Phoenix,AZ,West,United States,Corporate,2018-10-27
+1631,James,Brown,customer1631@example.com,Atlanta,GA,East,United States,Individual,2019-04-01
+1632,Betty,Robinson,customer1632@example.com,Boise,ID,Northwest,United States,Individual,2020-12-14
+1633,Patricia,Taylor,customer1633@example.com,Nashville,TN,Central,United States,Individual,2021-03-17
+1634,Karen,Brown,customer1634@example.com,Detroit,MI,Central,United States,Reseller,2018-12-16
+1635,Jennifer,Lopez,customer1635@example.com,Kansas City,MO,Central,United States,Reseller,2021-10-20
+1636,Christopher,Jones,customer1636@example.com,Eugene,OR,Northwest,United States,Individual,2021-11-07
+1637,Robert,Gonzalez,customer1637@example.com,Philadelphia,PA,East,United States,Corporate,2019-07-02
+1638,Matthew,Harris,customer1638@example.com,Phoenix,AZ,West,United States,Individual,2021-05-31
+1639,Joseph,Garcia,customer1639@example.com,Helena,MT,Northwest,United States,Individual,2019-12-26
+1640,Elizabeth,Rodriguez,customer1640@example.com,Anchorage,AK,Northwest,United States,Reseller,2020-12-02
+1641,Daniel,Ramirez,customer1641@example.com,Atlanta,GA,East,United States,Individual,2019-09-18
+1642,Margaret,Williams,customer1642@example.com,Spokane,WA,Northwest,United States,Corporate,2018-06-07
+1643,Jennifer,Jackson,customer1643@example.com,Boston,MA,East,United States,Individual,2022-03-03
+1644,Betty,Ramirez,customer1644@example.com,Nashville,TN,Central,United States,Individual,2020-05-18
+1645,Jessica,Taylor,customer1645@example.com,Baltimore,MD,East,United States,Corporate,2021-10-18
+1646,James,Martin,customer1646@example.com,Las Vegas,NV,West,United States,Individual,2022-08-30
+1647,Matthew,Moore,customer1647@example.com,Las Vegas,NV,West,United States,Corporate,2019-05-16
+1648,Jennifer,Perez,customer1648@example.com,San Diego,CA,West,United States,Reseller,2022-04-14
+1649,John,Lopez,customer1649@example.com,Philadelphia,PA,East,United States,Reseller,2020-11-18
+1650,Susan,Thomas,customer1650@example.com,Chicago,IL,Central,United States,Individual,2020-02-04
+1651,Sandra,Perez,customer1651@example.com,Phoenix,AZ,West,United States,Individual,2021-01-09
+1652,Elizabeth,Thomas,customer1652@example.com,Denver,CO,West,United States,Individual,2019-03-13
+1653,Michael,Robinson,customer1653@example.com,Las Vegas,NV,West,United States,Individual,2021-08-09
+1654,Donald,Martin,customer1654@example.com,San Diego,CA,West,United States,Reseller,2018-04-28
+1655,Karen,Anderson,customer1655@example.com,Chicago,IL,Central,United States,Individual,2019-12-26
+1656,Barbara,Lewis,customer1656@example.com,Los Angeles,CA,West,United States,Corporate,2020-04-03
+1657,Patricia,Wilson,customer1657@example.com,Chicago,IL,Central,United States,Individual,2018-06-23
+1658,Patricia,Robinson,customer1658@example.com,Washington,DC,East,United States,Individual,2018-11-15
+1659,Jessica,Gonzalez,customer1659@example.com,Minneapolis,MN,Central,United States,Individual,2020-01-17
+1660,Sarah,Sanchez,customer1660@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-06-17
+1661,Robert,Lopez,customer1661@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2018-01-12
+1662,Patricia,Miller,customer1662@example.com,Minneapolis,MN,Central,United States,Individual,2018-10-01
+1663,Nancy,Hernandez,customer1663@example.com,Eugene,OR,Northwest,United States,Reseller,2018-11-25
+1664,Lisa,Rodriguez,customer1664@example.com,Baltimore,MD,East,United States,Individual,2020-09-28
+1665,Matthew,Jones,customer1665@example.com,Helena,MT,Northwest,United States,Individual,2022-04-15
+1666,Nancy,Robinson,customer1666@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-08-18
+1667,Patricia,Brown,customer1667@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2018-09-16
+1668,Thomas,Smith,customer1668@example.com,Charlotte,NC,East,United States,Corporate,2019-04-30
+1669,Susan,Martin,customer1669@example.com,Phoenix,AZ,West,United States,Corporate,2020-06-08
+1670,Elizabeth,Thomas,customer1670@example.com,Spokane,WA,Northwest,United States,Individual,2020-05-28
+1671,Nancy,Taylor,customer1671@example.com,Philadelphia,PA,East,United States,Individual,2019-07-30
+1672,Matthew,Davis,customer1672@example.com,Denver,CO,West,United States,Corporate,2020-05-28
+1673,Matthew,Sanchez,customer1673@example.com,Baltimore,MD,East,United States,Reseller,2021-12-06
+1674,Margaret,Jackson,customer1674@example.com,Miami,FL,East,United States,Corporate,2018-11-01
+1675,Robert,Gonzalez,customer1675@example.com,Boston,MA,East,United States,Individual,2019-01-29
+1676,James,Martin,customer1676@example.com,Washington,DC,East,United States,Individual,2022-11-06
+1677,Susan,Taylor,customer1677@example.com,Las Vegas,NV,West,United States,Individual,2021-07-21
+1678,William,Wilson,customer1678@example.com,Miami,FL,East,United States,Individual,2020-11-10
+1679,Mary,Martinez,customer1679@example.com,Helena,MT,Northwest,United States,Individual,2020-01-15
+1680,Matthew,Wilson,customer1680@example.com,St. Louis,MO,Central,United States,Individual,2018-04-08
+1681,James,Johnson,customer1681@example.com,New York,NY,East,United States,Corporate,2019-10-21
+1682,Jessica,Rodriguez,customer1682@example.com,Atlanta,GA,East,United States,Reseller,2018-07-26
+1683,David,Thomas,customer1683@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-09-16
+1684,Lisa,Smith,customer1684@example.com,San Francisco,CA,West,United States,Corporate,2022-04-27
+1685,Barbara,White,customer1685@example.com,Charlotte,NC,East,United States,Reseller,2022-03-02
+1686,Daniel,Rodriguez,customer1686@example.com,Minneapolis,MN,Central,United States,Individual,2020-02-26
+1687,Robert,Lee,customer1687@example.com,San Francisco,CA,West,United States,Corporate,2018-09-04
+1688,Michael,Thompson,customer1688@example.com,Portland,OR,West,United States,Individual,2018-07-22
+1689,Elizabeth,White,customer1689@example.com,Phoenix,AZ,West,United States,Individual,2022-04-08
+1690,Mary,Jones,customer1690@example.com,Philadelphia,PA,East,United States,Individual,2021-02-01
+1691,Donald,Lopez,customer1691@example.com,St. Louis,MO,Central,United States,Individual,2022-01-09
+1692,John,Thomas,customer1692@example.com,Las Vegas,NV,West,United States,Individual,2020-10-28
+1693,Karen,Rodriguez,customer1693@example.com,Seattle,WA,West,United States,Corporate,2018-09-22
+1694,Christopher,Johnson,customer1694@example.com,Chicago,IL,Central,United States,Corporate,2021-11-21
+1695,Jessica,Perez,customer1695@example.com,Washington,DC,East,United States,Corporate,2020-11-17
+1696,Joseph,Harris,customer1696@example.com,Seattle,WA,West,United States,Corporate,2021-02-25
+1697,Karen,Rodriguez,customer1697@example.com,Eugene,OR,Northwest,United States,Individual,2018-01-08
+1698,Christopher,Thompson,customer1698@example.com,Miami,FL,East,United States,Individual,2022-06-08
+1699,Matthew,White,customer1699@example.com,Anchorage,AK,Northwest,United States,Corporate,2019-09-14
+1700,Matthew,Rodriguez,customer1700@example.com,Atlanta,GA,East,United States,Corporate,2018-12-17
+1701,Sarah,Davis,customer1701@example.com,New York,NY,East,United States,Individual,2021-08-02
+1702,Sandra,Jones,customer1702@example.com,Atlanta,GA,East,United States,Individual,2022-06-08
+1703,Mark,Miller,customer1703@example.com,Portland,OR,West,United States,Corporate,2018-01-03
+1704,William,Williams,customer1704@example.com,St. Louis,MO,Central,United States,Reseller,2021-01-29
+1705,Susan,Lewis,customer1705@example.com,Houston,TX,Central,United States,Corporate,2019-10-27
+1706,Mark,Lopez,customer1706@example.com,Los Angeles,CA,West,United States,Individual,2019-07-27
+1707,James,Moore,customer1707@example.com,Atlanta,GA,East,United States,Corporate,2022-11-13
+1708,Daniel,Rodriguez,customer1708@example.com,Las Vegas,NV,West,United States,Reseller,2021-07-23
+1709,Linda,Hernandez,customer1709@example.com,Baltimore,MD,East,United States,Individual,2021-04-06
+1710,Joseph,Davis,customer1710@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2020-06-07
+1711,Donald,Thomas,customer1711@example.com,Houston,TX,Central,United States,Individual,2019-01-07
+1712,Mark,Ramirez,customer1712@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-03-12
+1713,Jennifer,Lee,customer1713@example.com,Helena,MT,Northwest,United States,Individual,2019-09-28
+1714,Mark,Gonzalez,customer1714@example.com,Philadelphia,PA,East,United States,Corporate,2019-01-20
+1715,John,Wilson,customer1715@example.com,Seattle,WA,West,United States,Individual,2021-08-14
+1716,Nancy,Taylor,customer1716@example.com,Boise,ID,Northwest,United States,Individual,2022-03-17
+1717,Richard,Gonzalez,customer1717@example.com,San Francisco,CA,West,United States,Individual,2022-08-20
+1718,Robert,Davis,customer1718@example.com,Los Angeles,CA,West,United States,Corporate,2019-07-03
+1719,Betty,Smith,customer1719@example.com,New York,NY,East,United States,Reseller,2018-08-06
+1720,Michael,Jones,customer1720@example.com,Dallas,TX,Central,United States,Individual,2021-02-26
+1721,Elizabeth,Hernandez,customer1721@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-05-15
+1722,Daniel,Moore,customer1722@example.com,Denver,CO,West,United States,Individual,2022-08-17
+1723,Sarah,Martinez,customer1723@example.com,San Francisco,CA,West,United States,Individual,2022-09-10
+1724,James,Robinson,customer1724@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-04-10
+1725,Robert,Lopez,customer1725@example.com,Eugene,OR,Northwest,United States,Corporate,2019-04-08
+1726,Donald,Thompson,customer1726@example.com,Helena,MT,Northwest,United States,Reseller,2018-08-19
+1727,Patricia,Davis,customer1727@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-08-01
+1728,Karen,Hernandez,customer1728@example.com,Dallas,TX,Central,United States,Individual,2018-06-23
+1729,Jennifer,Wilson,customer1729@example.com,Seattle,WA,West,United States,Corporate,2021-05-13
+1730,Robert,Lewis,customer1730@example.com,Washington,DC,East,United States,Corporate,2019-09-10
+1731,Donald,Brown,customer1731@example.com,St. Louis,MO,Central,United States,Individual,2020-10-19
+1732,Betty,Robinson,customer1732@example.com,Detroit,MI,Central,United States,Corporate,2018-06-06
+1733,Anthony,Lee,customer1733@example.com,Seattle,WA,West,United States,Individual,2018-10-30
+1734,Nancy,Sanchez,customer1734@example.com,Eugene,OR,Northwest,United States,Corporate,2020-09-06
+1735,Christopher,Wilson,customer1735@example.com,San Francisco,CA,West,United States,Reseller,2019-07-25
+1736,William,Jones,customer1736@example.com,Boston,MA,East,United States,Individual,2020-02-28
+1737,Jessica,Wilson,customer1737@example.com,St. Louis,MO,Central,United States,Individual,2020-04-27
+1738,Betty,Lee,customer1738@example.com,Houston,TX,Central,United States,Reseller,2020-02-24
+1739,Jessica,Moore,customer1739@example.com,Anchorage,AK,Northwest,United States,Corporate,2020-12-26
+1740,John,Jackson,customer1740@example.com,Washington,DC,East,United States,Corporate,2020-12-15
+1741,Linda,Lopez,customer1741@example.com,Boston,MA,East,United States,Individual,2022-10-09
+1742,Sarah,Thomas,customer1742@example.com,Phoenix,AZ,West,United States,Reseller,2018-08-14
+1743,Barbara,Ramirez,customer1743@example.com,Phoenix,AZ,West,United States,Reseller,2022-05-14
+1744,Joseph,Jones,customer1744@example.com,Atlanta,GA,East,United States,Reseller,2021-02-03
+1745,Michael,Clark,customer1745@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-03-10
+1746,Matthew,Thompson,customer1746@example.com,Boston,MA,East,United States,Individual,2022-02-10
+1747,Barbara,Johnson,customer1747@example.com,Las Vegas,NV,West,United States,Corporate,2021-09-19
+1748,Mark,Martin,customer1748@example.com,San Diego,CA,West,United States,Reseller,2018-03-03
+1749,Robert,Williams,customer1749@example.com,Charlotte,NC,East,United States,Individual,2018-01-26
+1750,Anthony,Garcia,customer1750@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-10-14
+1751,Susan,White,customer1751@example.com,Nashville,TN,Central,United States,Individual,2022-05-20
+1752,Patricia,Jones,customer1752@example.com,Denver,CO,West,United States,Individual,2021-08-08
+1753,Thomas,Garcia,customer1753@example.com,Seattle,WA,West,United States,Individual,2022-09-02
+1754,Donald,Anderson,customer1754@example.com,Helena,MT,Northwest,United States,Corporate,2022-08-26
+1755,Matthew,Davis,customer1755@example.com,Detroit,MI,Central,United States,Individual,2018-11-18
+1756,Thomas,Gonzalez,customer1756@example.com,Dallas,TX,Central,United States,Reseller,2018-09-14
+1757,Karen,Johnson,customer1757@example.com,Washington,DC,East,United States,Individual,2019-01-12
+1758,Jessica,Hernandez,customer1758@example.com,San Diego,CA,West,United States,Corporate,2020-04-09
+1759,Mary,Sanchez,customer1759@example.com,Salt Lake City,UT,Northwest,United States,Individual,2020-05-18
+1760,Patricia,Brown,customer1760@example.com,Atlanta,GA,East,United States,Individual,2021-05-20
+1761,Linda,Martinez,customer1761@example.com,Chicago,IL,Central,United States,Individual,2018-08-07
+1762,Karen,Smith,customer1762@example.com,Portland,OR,West,United States,Corporate,2019-09-26
+1763,Daniel,Robinson,customer1763@example.com,Miami,FL,East,United States,Individual,2019-07-06
+1764,Christopher,Sanchez,customer1764@example.com,Los Angeles,CA,West,United States,Individual,2018-04-09
+1765,Elizabeth,Smith,customer1765@example.com,Dallas,TX,Central,United States,Reseller,2022-03-20
+1766,Thomas,Miller,customer1766@example.com,Kansas City,MO,Central,United States,Individual,2020-03-11
+1767,Matthew,Perez,customer1767@example.com,Houston,TX,Central,United States,Individual,2020-04-14
+1768,James,Jackson,customer1768@example.com,Seattle,WA,West,United States,Corporate,2020-09-03
+1769,Jennifer,Jones,customer1769@example.com,Denver,CO,West,United States,Corporate,2018-06-11
+1770,Donald,Miller,customer1770@example.com,Portland,OR,West,United States,Reseller,2021-09-01
+1771,Thomas,Taylor,customer1771@example.com,Philadelphia,PA,East,United States,Reseller,2021-05-31
+1772,Betty,Jones,customer1772@example.com,Nashville,TN,Central,United States,Individual,2020-01-08
+1773,Donald,Thompson,customer1773@example.com,Boise,ID,Northwest,United States,Corporate,2020-03-04
+1774,Karen,Martin,customer1774@example.com,Miami,FL,East,United States,Individual,2018-11-09
+1775,Betty,Smith,customer1775@example.com,Boise,ID,Northwest,United States,Individual,2022-11-18
+1776,Jessica,Brown,customer1776@example.com,Dallas,TX,Central,United States,Individual,2018-12-14
+1777,John,Rodriguez,customer1777@example.com,Houston,TX,Central,United States,Corporate,2019-12-25
+1778,Jennifer,Thompson,customer1778@example.com,San Francisco,CA,West,United States,Corporate,2019-06-13
+1779,Anthony,Lewis,customer1779@example.com,Spokane,WA,Northwest,United States,Individual,2018-10-15
+1780,Mary,Lopez,customer1780@example.com,San Diego,CA,West,United States,Reseller,2020-04-01
+1781,Sandra,Perez,customer1781@example.com,Anchorage,AK,Northwest,United States,Individual,2020-01-22
+1782,John,Perez,customer1782@example.com,St. Louis,MO,Central,United States,Individual,2020-07-10
+1783,Karen,Lee,customer1783@example.com,Chicago,IL,Central,United States,Individual,2022-06-08
+1784,Robert,Ramirez,customer1784@example.com,New York,NY,East,United States,Individual,2020-02-09
+1785,Margaret,Williams,customer1785@example.com,Washington,DC,East,United States,Individual,2022-11-26
+1786,John,Lopez,customer1786@example.com,Helena,MT,Northwest,United States,Individual,2021-08-08
+1787,John,Garcia,customer1787@example.com,Boise,ID,Northwest,United States,Corporate,2020-03-23
+1788,Richard,Hernandez,customer1788@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-12-03
+1789,Matthew,White,customer1789@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-07-25
+1790,Sarah,Jones,customer1790@example.com,Boise,ID,Northwest,United States,Reseller,2018-10-26
+1791,Christopher,Johnson,customer1791@example.com,Charlotte,NC,East,United States,Reseller,2022-05-05
+1792,Sandra,Sanchez,customer1792@example.com,Boise,ID,Northwest,United States,Individual,2020-05-30
+1793,Mary,Miller,customer1793@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2022-04-03
+1794,David,Lee,customer1794@example.com,Spokane,WA,Northwest,United States,Individual,2018-10-18
+1795,Richard,Williams,customer1795@example.com,Denver,CO,West,United States,Individual,2021-12-29
+1796,Thomas,Miller,customer1796@example.com,Eugene,OR,Northwest,United States,Corporate,2019-06-16
+1797,John,Lewis,customer1797@example.com,New York,NY,East,United States,Reseller,2019-12-02
+1798,Michael,Lopez,customer1798@example.com,Houston,TX,Central,United States,Reseller,2020-09-13
+1799,Matthew,Sanchez,customer1799@example.com,Anchorage,AK,Northwest,United States,Individual,2021-11-27
+1800,Sandra,Thompson,customer1800@example.com,Spokane,WA,Northwest,United States,Corporate,2022-08-13
+1801,John,White,customer1801@example.com,Portland,OR,West,United States,Corporate,2021-06-16
+1802,Lisa,Clark,customer1802@example.com,Charlotte,NC,East,United States,Reseller,2022-03-02
+1803,Robert,Lewis,customer1803@example.com,Chicago,IL,Central,United States,Individual,2018-10-30
+1804,Patricia,Sanchez,customer1804@example.com,Spokane,WA,Northwest,United States,Reseller,2020-04-12
+1805,Joseph,Clark,customer1805@example.com,Chicago,IL,Central,United States,Reseller,2021-07-23
+1806,Christopher,Brown,customer1806@example.com,Helena,MT,Northwest,United States,Individual,2022-03-08
+1807,Matthew,Moore,customer1807@example.com,Washington,DC,East,United States,Corporate,2021-05-15
+1808,Barbara,Miller,customer1808@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2021-10-23
+1809,Mark,Lopez,customer1809@example.com,Phoenix,AZ,West,United States,Individual,2019-09-21
+1810,Daniel,Anderson,customer1810@example.com,San Diego,CA,West,United States,Individual,2019-12-22
+1811,Thomas,Harris,customer1811@example.com,Kansas City,MO,Central,United States,Individual,2018-12-27
+1812,Barbara,Garcia,customer1812@example.com,Eugene,OR,Northwest,United States,Corporate,2018-11-30
+1813,Elizabeth,Ramirez,customer1813@example.com,Eugene,OR,Northwest,United States,Corporate,2021-10-25
+1814,Elizabeth,Thompson,customer1814@example.com,Helena,MT,Northwest,United States,Corporate,2022-10-22
+1815,Betty,Clark,customer1815@example.com,San Francisco,CA,West,United States,Individual,2021-08-23
+1816,Patricia,Thomas,customer1816@example.com,Las Vegas,NV,West,United States,Corporate,2021-07-01
+1817,Thomas,Jackson,customer1817@example.com,San Diego,CA,West,United States,Reseller,2021-09-29
+1818,Michael,Davis,customer1818@example.com,Kansas City,MO,Central,United States,Corporate,2021-02-03
+1819,Michael,Ramirez,customer1819@example.com,Boise,ID,Northwest,United States,Individual,2018-09-12
+1820,Susan,Robinson,customer1820@example.com,Nashville,TN,Central,United States,Reseller,2021-12-12
+1821,Barbara,Sanchez,customer1821@example.com,Boise,ID,Northwest,United States,Individual,2019-08-04
+1822,Elizabeth,Clark,customer1822@example.com,Detroit,MI,Central,United States,Reseller,2020-04-29
+1823,Donald,Robinson,customer1823@example.com,New York,NY,East,United States,Individual,2018-02-01
+1824,Betty,Lopez,customer1824@example.com,Seattle,WA,West,United States,Reseller,2020-11-28
+1825,Jennifer,Jackson,customer1825@example.com,St. Louis,MO,Central,United States,Reseller,2019-05-11
+1826,Karen,Lee,customer1826@example.com,Salt Lake City,UT,Northwest,United States,Individual,2018-04-16
+1827,Daniel,Gonzalez,customer1827@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2018-12-22
+1828,Thomas,Garcia,customer1828@example.com,Spokane,WA,Northwest,United States,Individual,2018-07-23
+1829,Daniel,Jackson,customer1829@example.com,Boston,MA,East,United States,Corporate,2022-09-23
+1830,William,Miller,customer1830@example.com,Houston,TX,Central,United States,Individual,2018-02-22
+1831,Daniel,Harris,customer1831@example.com,Boise,ID,Northwest,United States,Corporate,2018-02-26
+1832,James,White,customer1832@example.com,Las Vegas,NV,West,United States,Corporate,2020-07-18
+1833,Linda,Lee,customer1833@example.com,Houston,TX,Central,United States,Reseller,2019-09-01
+1834,Nancy,Harris,customer1834@example.com,Miami,FL,East,United States,Reseller,2020-02-14
+1835,David,Williams,customer1835@example.com,Chicago,IL,Central,United States,Reseller,2021-07-08
+1836,Patricia,Anderson,customer1836@example.com,San Francisco,CA,West,United States,Reseller,2018-09-09
+1837,Elizabeth,Rodriguez,customer1837@example.com,Seattle,WA,West,United States,Reseller,2018-07-10
+1838,Margaret,Lopez,customer1838@example.com,San Diego,CA,West,United States,Reseller,2019-03-02
+1839,Jessica,Sanchez,customer1839@example.com,Boise,ID,Northwest,United States,Individual,2018-05-31
+1840,John,Miller,customer1840@example.com,Helena,MT,Northwest,United States,Corporate,2020-02-08
+1841,Betty,Garcia,customer1841@example.com,Nashville,TN,Central,United States,Individual,2018-01-21
+1842,Patricia,Hernandez,customer1842@example.com,New York,NY,East,United States,Reseller,2020-09-18
+1843,Thomas,White,customer1843@example.com,Seattle,WA,West,United States,Individual,2018-09-07
+1844,Sarah,Smith,customer1844@example.com,New York,NY,East,United States,Corporate,2022-04-08
+1845,Margaret,Lopez,customer1845@example.com,Miami,FL,East,United States,Individual,2019-03-21
+1846,Robert,Davis,customer1846@example.com,Phoenix,AZ,West,United States,Individual,2021-11-17
+1847,David,Thomas,customer1847@example.com,Atlanta,GA,East,United States,Individual,2018-07-08
+1848,Joseph,White,customer1848@example.com,Detroit,MI,Central,United States,Reseller,2020-06-12
+1849,David,Garcia,customer1849@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-09-29
+1850,Patricia,Jackson,customer1850@example.com,Kansas City,MO,Central,United States,Corporate,2021-04-18
+1851,Betty,Miller,customer1851@example.com,Houston,TX,Central,United States,Reseller,2020-09-26
+1852,Susan,Martin,customer1852@example.com,Eugene,OR,Northwest,United States,Corporate,2022-07-29
+1853,Karen,Gonzalez,customer1853@example.com,Dallas,TX,Central,United States,Individual,2021-03-07
+1854,Donald,Lee,customer1854@example.com,St. Louis,MO,Central,United States,Reseller,2020-07-09
+1855,Thomas,Rodriguez,customer1855@example.com,New York,NY,East,United States,Corporate,2019-08-25
+1856,James,Brown,customer1856@example.com,Kansas City,MO,Central,United States,Individual,2019-10-23
+1857,Barbara,Davis,customer1857@example.com,Salt Lake City,UT,Northwest,United States,Individual,2021-09-07
+1858,Robert,Harris,customer1858@example.com,St. Louis,MO,Central,United States,Individual,2018-01-20
+1859,Matthew,Hernandez,customer1859@example.com,Chicago,IL,Central,United States,Individual,2021-03-08
+1860,Sarah,Williams,customer1860@example.com,Minneapolis,MN,Central,United States,Individual,2021-05-17
+1861,Patricia,Moore,customer1861@example.com,Miami,FL,East,United States,Individual,2021-05-29
+1862,Lisa,Harris,customer1862@example.com,Las Vegas,NV,West,United States,Individual,2022-07-24
+1863,Michael,Johnson,customer1863@example.com,Minneapolis,MN,Central,United States,Reseller,2020-10-18
+1864,Susan,Brown,customer1864@example.com,Denver,CO,West,United States,Individual,2018-12-17
+1865,Linda,Jackson,customer1865@example.com,Kansas City,MO,Central,United States,Individual,2018-02-06
+1866,Elizabeth,Jones,customer1866@example.com,San Diego,CA,West,United States,Reseller,2020-04-04
+1867,William,Lee,customer1867@example.com,Los Angeles,CA,West,United States,Individual,2020-08-20
+1868,Nancy,Martinez,customer1868@example.com,Las Vegas,NV,West,United States,Individual,2022-03-24
+1869,John,Moore,customer1869@example.com,Kansas City,MO,Central,United States,Corporate,2020-10-08
+1870,Elizabeth,Thompson,customer1870@example.com,Las Vegas,NV,West,United States,Reseller,2020-10-07
+1871,Karen,Brown,customer1871@example.com,Phoenix,AZ,West,United States,Individual,2018-04-08
+1872,Patricia,Hernandez,customer1872@example.com,Seattle,WA,West,United States,Reseller,2022-01-23
+1873,Jennifer,Williams,customer1873@example.com,Salt Lake City,UT,Northwest,United States,Individual,2022-07-22
+1874,Sandra,Thompson,customer1874@example.com,Chicago,IL,Central,United States,Reseller,2019-06-16
+1875,Mary,Martinez,customer1875@example.com,San Francisco,CA,West,United States,Individual,2019-11-06
+1876,Matthew,Garcia,customer1876@example.com,Spokane,WA,Northwest,United States,Reseller,2021-04-09
+1877,Robert,Hernandez,customer1877@example.com,Boise,ID,Northwest,United States,Reseller,2022-03-23
+1878,Joseph,Perez,customer1878@example.com,Helena,MT,Northwest,United States,Individual,2020-12-16
+1879,Lisa,Thomas,customer1879@example.com,Baltimore,MD,East,United States,Reseller,2019-10-22
+1880,John,Rodriguez,customer1880@example.com,Salt Lake City,UT,Northwest,United States,Corporate,2021-12-27
+1881,Sarah,Clark,customer1881@example.com,Phoenix,AZ,West,United States,Reseller,2021-09-12
+1882,John,Thomas,customer1882@example.com,Boston,MA,East,United States,Individual,2018-01-27
+1883,Mark,Gonzalez,customer1883@example.com,Baltimore,MD,East,United States,Individual,2018-08-03
+1884,Mark,Jackson,customer1884@example.com,Minneapolis,MN,Central,United States,Corporate,2020-11-18
+1885,Matthew,Anderson,customer1885@example.com,Detroit,MI,Central,United States,Corporate,2022-10-03
+1886,Linda,Robinson,customer1886@example.com,Seattle,WA,West,United States,Individual,2020-07-15
+1887,Michael,Williams,customer1887@example.com,Washington,DC,East,United States,Individual,2018-12-03
+1888,Robert,Anderson,customer1888@example.com,Dallas,TX,Central,United States,Reseller,2022-03-06
+1889,James,Lewis,customer1889@example.com,Portland,OR,West,United States,Individual,2019-07-01
+1890,Lisa,Taylor,customer1890@example.com,San Diego,CA,West,United States,Individual,2019-06-28
+1891,Barbara,Wilson,customer1891@example.com,San Francisco,CA,West,United States,Individual,2020-03-23
+1892,William,Johnson,customer1892@example.com,Anchorage,AK,Northwest,United States,Individual,2020-01-28
+1893,Daniel,Gonzalez,customer1893@example.com,Los Angeles,CA,West,United States,Corporate,2020-05-15
+1894,Michael,Gonzalez,customer1894@example.com,Atlanta,GA,East,United States,Individual,2019-07-20
+1895,Susan,Brown,customer1895@example.com,Anchorage,AK,Northwest,United States,Corporate,2021-08-16
+1896,Linda,Brown,customer1896@example.com,Boston,MA,East,United States,Individual,2018-03-15
+1897,John,Moore,customer1897@example.com,Minneapolis,MN,Central,United States,Individual,2019-04-09
+1898,Richard,Brown,customer1898@example.com,Eugene,OR,Northwest,United States,Individual,2022-08-15
+1899,Michael,Garcia,customer1899@example.com,Nashville,TN,Central,United States,Corporate,2019-12-13
+1900,Nancy,Smith,customer1900@example.com,Detroit,MI,Central,United States,Individual,2020-10-27
+1901,Elizabeth,Ramirez,customer1901@example.com,Helena,MT,Northwest,United States,Reseller,2019-05-04
+1902,Lisa,Williams,customer1902@example.com,Charlotte,NC,East,United States,Individual,2019-11-12
+1903,James,Perez,customer1903@example.com,Salt Lake City,UT,Northwest,United States,Individual,2019-11-16
+1904,David,Lewis,customer1904@example.com,Seattle,WA,West,United States,Individual,2021-10-23
+1905,Jessica,Jackson,customer1905@example.com,Phoenix,AZ,West,United States,Individual,2022-11-24
+1906,Patricia,Johnson,customer1906@example.com,Baltimore,MD,East,United States,Reseller,2021-03-07
+1907,Thomas,Taylor,customer1907@example.com,Minneapolis,MN,Central,United States,Individual,2018-10-28
+1908,Elizabeth,Sanchez,customer1908@example.com,San Francisco,CA,West,United States,Corporate,2020-07-15
+1909,Barbara,Moore,customer1909@example.com,Helena,MT,Northwest,United States,Individual,2020-09-23
+1910,Joseph,Smith,customer1910@example.com,St. Louis,MO,Central,United States,Reseller,2019-09-09
+1911,Patricia,Rodriguez,customer1911@example.com,Nashville,TN,Central,United States,Corporate,2022-01-31
+1912,Susan,Ramirez,customer1912@example.com,Seattle,WA,West,United States,Individual,2018-10-18
+1913,James,Davis,customer1913@example.com,Nashville,TN,Central,United States,Corporate,2021-11-26
+1914,Michael,White,customer1914@example.com,Spokane,WA,Northwest,United States,Individual,2020-02-13
+1915,Donald,Lee,customer1915@example.com,Denver,CO,West,United States,Corporate,2020-07-09
+1916,Sandra,Perez,customer1916@example.com,Atlanta,GA,East,United States,Individual,2019-11-10
+1917,Susan,Rodriguez,customer1917@example.com,Anchorage,AK,Northwest,United States,Individual,2018-03-26
+1918,Susan,Sanchez,customer1918@example.com,Dallas,TX,Central,United States,Individual,2022-06-12
+1919,Patricia,Smith,customer1919@example.com,Detroit,MI,Central,United States,Individual,2021-11-04
+1920,Lisa,Jones,customer1920@example.com,Baltimore,MD,East,United States,Corporate,2019-08-17
+1921,Jessica,Martinez,customer1921@example.com,Atlanta,GA,East,United States,Individual,2019-08-27
+1922,Mary,Miller,customer1922@example.com,San Diego,CA,West,United States,Individual,2021-04-29
+1923,Jessica,Martinez,customer1923@example.com,Los Angeles,CA,West,United States,Individual,2019-12-23
+1924,David,Jones,customer1924@example.com,Los Angeles,CA,West,United States,Individual,2019-08-04
+1925,Matthew,Rodriguez,customer1925@example.com,Boston,MA,East,United States,Individual,2022-02-10
+1926,Christopher,Robinson,customer1926@example.com,Washington,DC,East,United States,Individual,2019-03-25
+1927,Sandra,Lopez,customer1927@example.com,San Diego,CA,West,United States,Individual,2021-10-21
+1928,Richard,Lewis,customer1928@example.com,Eugene,OR,Northwest,United States,Individual,2019-06-20
+1929,Jennifer,Jackson,customer1929@example.com,Detroit,MI,Central,United States,Individual,2022-11-29
+1930,Lisa,Harris,customer1930@example.com,Houston,TX,Central,United States,Individual,2018-10-05
+1931,Michael,Martinez,customer1931@example.com,Anchorage,AK,Northwest,United States,Individual,2019-09-01
+1932,Jennifer,Gonzalez,customer1932@example.com,Anchorage,AK,Northwest,United States,Corporate,2022-09-04
+1933,Robert,Taylor,customer1933@example.com,Boise,ID,Northwest,United States,Individual,2019-10-04
+1934,Barbara,Wilson,customer1934@example.com,Nashville,TN,Central,United States,Individual,2020-04-20
+1935,Sandra,Moore,customer1935@example.com,Boise,ID,Northwest,United States,Individual,2022-04-20
+1936,Anthony,Jones,customer1936@example.com,Boise,ID,Northwest,United States,Corporate,2019-09-12
+1937,Robert,Martin,customer1937@example.com,Charlotte,NC,East,United States,Corporate,2021-03-04
+1938,Anthony,Ramirez,customer1938@example.com,Chicago,IL,Central,United States,Individual,2020-04-05
+1939,Betty,Harris,customer1939@example.com,San Diego,CA,West,United States,Reseller,2020-07-31
+1940,Mary,Rodriguez,customer1940@example.com,San Francisco,CA,West,United States,Reseller,2021-08-23
+1941,Karen,Brown,customer1941@example.com,Phoenix,AZ,West,United States,Reseller,2021-03-04
+1942,William,Ramirez,customer1942@example.com,Helena,MT,Northwest,United States,Individual,2022-02-25
+1943,Thomas,Jones,customer1943@example.com,Portland,OR,West,United States,Corporate,2020-10-11
+1944,Donald,Perez,customer1944@example.com,Miami,FL,East,United States,Corporate,2018-11-13
+1945,Nancy,Robinson,customer1945@example.com,Detroit,MI,Central,United States,Individual,2020-09-20
+1946,John,Smith,customer1946@example.com,Boston,MA,East,United States,Individual,2018-09-05
+1947,Michael,Brown,customer1947@example.com,Portland,OR,West,United States,Individual,2022-09-02
+1948,Mary,Robinson,customer1948@example.com,Eugene,OR,Northwest,United States,Individual,2020-04-08
+1949,Mark,Davis,customer1949@example.com,Salt Lake City,UT,Northwest,United States,Reseller,2021-01-24
+1950,Margaret,Perez,customer1950@example.com,Nashville,TN,Central,United States,Corporate,2020-06-04
+1951,Jennifer,Jones,customer1951@example.com,New York,NY,East,United States,Reseller,2021-09-08
+1952,Thomas,White,customer1952@example.com,Philadelphia,PA,East,United States,Corporate,2019-02-15
+1953,Elizabeth,Martinez,customer1953@example.com,Eugene,OR,Northwest,United States,Corporate,2021-04-20
+1954,Lisa,Rodriguez,customer1954@example.com,Spokane,WA,Northwest,United States,Individual,2021-11-29
+1955,Susan,Clark,customer1955@example.com,San Diego,CA,West,United States,Individual,2018-02-27
+1956,Patricia,Jackson,customer1956@example.com,Nashville,TN,Central,United States,Individual,2021-04-03
+1957,Daniel,Lee,customer1957@example.com,Chicago,IL,Central,United States,Reseller,2021-06-23
+1958,Sandra,Robinson,customer1958@example.com,Boise,ID,Northwest,United States,Individual,2018-10-13
+1959,Joseph,Rodriguez,customer1959@example.com,Helena,MT,Northwest,United States,Individual,2018-11-21
+1960,Barbara,Lewis,customer1960@example.com,Minneapolis,MN,Central,United States,Corporate,2020-03-10
+1961,Daniel,Jones,customer1961@example.com,Seattle,WA,West,United States,Individual,2022-01-12
+1962,Matthew,Ramirez,customer1962@example.com,Nashville,TN,Central,United States,Corporate,2019-07-25
+1963,John,Robinson,customer1963@example.com,Kansas City,MO,Central,United States,Reseller,2020-09-17
+1964,Karen,Perez,customer1964@example.com,Eugene,OR,Northwest,United States,Individual,2021-12-22
+1965,Matthew,Hernandez,customer1965@example.com,Houston,TX,Central,United States,Corporate,2021-04-04
+1966,John,Johnson,customer1966@example.com,Kansas City,MO,Central,United States,Individual,2022-02-09
+1967,Patricia,Perez,customer1967@example.com,Miami,FL,East,United States,Individual,2021-10-23
+1968,Anthony,Davis,customer1968@example.com,Spokane,WA,Northwest,United States,Reseller,2022-07-14
+1969,Donald,Lewis,customer1969@example.com,Boston,MA,East,United States,Individual,2020-02-26
+1970,Mary,Martin,customer1970@example.com,Boise,ID,Northwest,United States,Individual,2018-03-18
+1971,Anthony,Lopez,customer1971@example.com,San Diego,CA,West,United States,Corporate,2022-09-18
+1972,William,Brown,customer1972@example.com,Seattle,WA,West,United States,Corporate,2020-02-13
+1973,Michael,Rodriguez,customer1973@example.com,Miami,FL,East,United States,Individual,2021-10-22
+1974,Michael,White,customer1974@example.com,Minneapolis,MN,Central,United States,Individual,2022-07-25
+1975,Christopher,Smith,customer1975@example.com,Boston,MA,East,United States,Corporate,2021-10-01
+1976,Mary,Sanchez,customer1976@example.com,Portland,OR,West,United States,Individual,2018-01-11
+1977,Christopher,Moore,customer1977@example.com,Kansas City,MO,Central,United States,Reseller,2019-11-29
+1978,Michael,Clark,customer1978@example.com,Baltimore,MD,East,United States,Individual,2022-08-22
+1979,Barbara,Lopez,customer1979@example.com,Anchorage,AK,Northwest,United States,Corporate,2021-02-18
+1980,Joseph,Wilson,customer1980@example.com,Boston,MA,East,United States,Corporate,2022-11-25
+1981,Robert,Sanchez,customer1981@example.com,San Francisco,CA,West,United States,Corporate,2018-07-26
+1982,Linda,Johnson,customer1982@example.com,San Diego,CA,West,United States,Corporate,2019-11-09
+1983,Mark,Martinez,customer1983@example.com,Portland,OR,West,United States,Reseller,2019-05-30
+1984,Barbara,Williams,customer1984@example.com,Helena,MT,Northwest,United States,Reseller,2018-11-20
+1985,Sarah,Jackson,customer1985@example.com,Dallas,TX,Central,United States,Individual,2020-11-26
+1986,Karen,Johnson,customer1986@example.com,Kansas City,MO,Central,United States,Corporate,2018-08-16
+1987,Daniel,Smith,customer1987@example.com,Spokane,WA,Northwest,United States,Individual,2020-05-13
+1988,William,Lewis,customer1988@example.com,Minneapolis,MN,Central,United States,Corporate,2018-10-13
+1989,Sandra,Harris,customer1989@example.com,Charlotte,NC,East,United States,Corporate,2022-12-04
+1990,Jessica,Williams,customer1990@example.com,Portland,OR,West,United States,Reseller,2021-02-28
+1991,John,Wilson,customer1991@example.com,Phoenix,AZ,West,United States,Corporate,2021-06-08
+1992,Robert,Rodriguez,customer1992@example.com,San Diego,CA,West,United States,Corporate,2018-08-02
+1993,Thomas,Davis,customer1993@example.com,San Diego,CA,West,United States,Corporate,2020-06-02
+1994,Betty,Ramirez,customer1994@example.com,Spokane,WA,Northwest,United States,Reseller,2019-04-12
+1995,James,Harris,customer1995@example.com,Los Angeles,CA,West,United States,Corporate,2019-02-06
+1996,Lisa,White,customer1996@example.com,Helena,MT,Northwest,United States,Individual,2020-09-14
+1997,Anthony,Gonzalez,customer1997@example.com,Las Vegas,NV,West,United States,Corporate,2020-05-30
+1998,Robert,Brown,customer1998@example.com,Anchorage,AK,Northwest,United States,Individual,2021-06-14
+1999,Michael,Hernandez,customer1999@example.com,St. Louis,MO,Central,United States,Individual,2018-04-29
+2000,John,Jackson,customer2000@example.com,Miami,FL,East,United States,Individual,2020-04-25
